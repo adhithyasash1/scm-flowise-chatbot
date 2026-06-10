@@ -1,11 +1,16 @@
 # SCM Assistant — Flowise Supply Chain RAG Chatbot
+
 ## Public Chatbot URL
 https://cloud.flowiseai.com/chatbot/5242e668-ba82-46ce-86e4-a00b118f07e9
+
 ## Project Summary
+
 SCM Assistant is a Retrieval-Augmented Generation chatbot built using **Flowise Cloud** for the Trinamix Junior AI Engineer hiring task.
 The chatbot answers questions about a supplier network using the provided supplier performance CSV and supplier governance policy PDF. It supports supplier lookup, risk analysis, contract-tier checks, Supplier Watch List status, active disruption handling, volume rebate eligibility, regional concentration risk, certification rules, defect-rate analysis, and policy-based response procedures.
 The chatbot is deployed publicly through Flowise Cloud and can be accessed using the public chatbot URL above.
+
 ---
+
 ## Repository Contents
 ```text
 scm-assistant-bot/
