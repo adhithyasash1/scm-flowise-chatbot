@@ -1,5 +1,3 @@
-Paste this entire content into README.md.
-
 # SCM Assistant — Flowise Supply Chain RAG Chatbot
 ## Public Chatbot URL
 https://cloud.flowiseai.com/chatbot/5242e668-ba82-46ce-86e4-a00b118f07e9
@@ -506,16 +504,3 @@ api_keys/
 tokens/
 
 API keys used for Flowise, Groq, Pinecone, HuggingFace, and Cohere are not included in this repository.
-
-⸻
-
-Final Status
-
-Public chatbot: Completed
-Document store: Upserted
-Pinecone retrieval: Working
-Cohere reranking: Working
-Supplier lookup: Working
-Required evaluation questions: Passed
-Flowise JSON export: Included
-GitHub repository: Ready for submission
