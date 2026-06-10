@@ -1,0 +1,2317 @@
+SUP-001 SUP-001 SUP-001 SUP-001 SUP-001
+Exact supplier lookup for SUP-001.
+Supplier_ID is SUP-001.
+The supplier ID SUP-001 belongs to Orrentek Precision Mfg.
+SUP-001 supplier name: Orrentek Precision Mfg.
+SUP-001 region: APAC.
+SUP-001 country: China.
+SUP-001 product category: Electronic Components.
+SUP-001 contract tier: Tier-1.
+SUP-001 risk level: Low.
+SUP-001 alternate supplier ID: SUP-002.
+SUP-001 active disruptions: Political instability flag, Port congestion risk, Regulatory audit pending, Tariff adjustment pending.
+SUP-001 average OTD rate percent: 95.68.
+SUP-001 average defect rate percent: 0.87.
+SUP-001 average compliance score: 86.28.
+SUP-001 average sustainability score: 81.22.
+SUP-001 total PO value USD: 939643.31.
+
+---
+
+SUP-002 SUP-002 SUP-002 SUP-002 SUP-002
+Exact supplier lookup for SUP-002.
+Supplier_ID is SUP-002.
+The supplier ID SUP-002 belongs to Zhenlong ElectroCo.
+SUP-002 supplier name: Zhenlong ElectroCo.
+SUP-002 region: APAC.
+SUP-002 country: China.
+SUP-002 product category: Electronic Components.
+SUP-002 contract tier: Tier-2.
+SUP-002 risk level: Medium.
+SUP-002 alternate supplier ID: SUP-023.
+SUP-002 active disruptions: Geopolitical tension flag, Labour strike risk, Port congestion risk, Regulatory audit pending, Seasonal flood risk, Tariff adjustment pending, Typhoon season disruption.
+SUP-002 average OTD rate percent: 84.92.
+SUP-002 average defect rate percent: 1.56.
+SUP-002 average compliance score: 77.78.
+SUP-002 average sustainability score: 63.78.
+SUP-002 total PO value USD: 3923690.41.
+
+---
+
+SUP-003 SUP-003 SUP-003 SUP-003 SUP-003
+Exact supplier lookup for SUP-003.
+Supplier_ID is SUP-003.
+The supplier ID SUP-003 belongs to Wanlong Composites Ltd.
+SUP-003 supplier name: Wanlong Composites Ltd.
+SUP-003 region: APAC.
+SUP-003 country: China.
+SUP-003 product category: Raw Materials.
+SUP-003 contract tier: Tier-2.
+SUP-003 risk level: Low.
+SUP-003 alternate supplier ID: SUP-011.
+SUP-003 active disruptions: Audit overdue; compliance review, Currency volatility flag, Port closure risk, Regulatory enforcement pending, Seasonal flood risk, Tariff adjustment pending.
+SUP-003 average OTD rate percent: 88.0.
+SUP-003 average defect rate percent: 1.79.
+SUP-003 average compliance score: 79.72.
+SUP-003 average sustainability score: 70.39.
+SUP-003 total PO value USD: 6882034.93.
+
+---
+
+SUP-004 SUP-004 SUP-004 SUP-004 SUP-004
+Exact supplier lookup for SUP-004.
+Supplier_ID is SUP-004.
+The supplier ID SUP-004 belongs to Yangtze Fiber Materials.
+SUP-004 supplier name: Yangtze Fiber Materials.
+SUP-004 region: APAC.
+SUP-004 country: China.
+SUP-004 product category: Industrial Textiles.
+SUP-004 contract tier: Tier-2.
+SUP-004 risk level: Medium.
+SUP-004 alternate supplier ID: SUP-009.
+SUP-004 active disruptions: Audit overdue; compliance review, Currency volatility flag, Geopolitical tension flag, Regulatory audit pending, Regulatory enforcement pending, Seasonal flood risk.
+SUP-004 average OTD rate percent: 87.49.
+SUP-004 average defect rate percent: 1.62.
+SUP-004 average compliance score: 81.11.
+SUP-004 average sustainability score: 62.94.
+SUP-004 total PO value USD: 1429755.28.
+
+---
+
+SUP-005 SUP-005 SUP-005 SUP-005 SUP-005
+Exact supplier lookup for SUP-005.
+Supplier_ID is SUP-005.
+The supplier ID SUP-005 belongs to Huabei Circuit Systems.
+SUP-005 supplier name: Huabei Circuit Systems.
+SUP-005 region: APAC.
+SUP-005 country: China.
+SUP-005 product category: Electronic Components.
+SUP-005 contract tier: Tier-1.
+SUP-005 risk level: Medium.
+SUP-005 alternate supplier ID: SUP-042.
+SUP-005 active disruptions: Geopolitical tension flag, Regulatory audit pending, Seasonal flood risk, Tariff adjustment pending.
+SUP-005 average OTD rate percent: 93.69.
+SUP-005 average defect rate percent: 0.94.
+SUP-005 average compliance score: 90.17.
+SUP-005 average sustainability score: 84.22.
+SUP-005 total PO value USD: 908603.8.
+
+---
+
+SUP-006 SUP-006 SUP-006 SUP-006 SUP-006
+Exact supplier lookup for SUP-006.
+Supplier_ID is SUP-006.
+The supplier ID SUP-006 belongs to Dongfeng Castings Co.
+SUP-006 supplier name: Dongfeng Castings Co.
+SUP-006 region: APAC.
+SUP-006 country: China.
+SUP-006 product category: Mechanical Components.
+SUP-006 contract tier: Tier-2.
+SUP-006 risk level: Low.
+SUP-006 alternate supplier ID: SUP-054.
+SUP-006 active disruptions: Audit overdue; compliance review, Export license risk, Geopolitical tension flag, Labour strike risk, Port congestion risk, Regulatory enforcement pending.
+SUP-006 average OTD rate percent: 86.62.
+SUP-006 average defect rate percent: 1.82.
+SUP-006 average compliance score: 76.28.
+SUP-006 average sustainability score: 67.17.
+SUP-006 total PO value USD: 2186462.26.
+
+---
+
+SUP-007 SUP-007 SUP-007 SUP-007 SUP-007
+Exact supplier lookup for SUP-007.
+Supplier_ID is SUP-007.
+The supplier ID SUP-007 belongs to Longhua Polymer Works.
+SUP-007 supplier name: Longhua Polymer Works.
+SUP-007 region: APAC.
+SUP-007 country: China.
+SUP-007 product category: Raw Materials.
+SUP-007 contract tier: Tier-3.
+SUP-007 risk level: Medium.
+SUP-007 alternate supplier ID: SUP-103.
+SUP-007 active disruptions: Audit overdue; compliance review, Geopolitical tension flag, Labour strike risk, Political instability flag, Port closure risk, Port congestion risk, Seasonal flood risk, Tariff adjustment pending.
+SUP-007 average OTD rate percent: 71.24.
+SUP-007 average defect rate percent: 2.77.
+SUP-007 average compliance score: 61.83.
+SUP-007 average sustainability score: 48.94.
+SUP-007 total PO value USD: 7102925.23.
+
+---
+
+SUP-008 SUP-008 SUP-008 SUP-008 SUP-008
+Exact supplier lookup for SUP-008.
+Supplier_ID is SUP-008.
+The supplier ID SUP-008 belongs to Shengda Pack Industries.
+SUP-008 supplier name: Shengda Pack Industries.
+SUP-008 region: APAC.
+SUP-008 country: China.
+SUP-008 product category: Packaging Materials.
+SUP-008 contract tier: Tier-2.
+SUP-008 risk level: Medium.
+SUP-008 alternate supplier ID: SUP-042.
+SUP-008 active disruptions: Export license risk, Labour strike risk, Port congestion risk, Regulatory audit pending, Regulatory enforcement pending, Seasonal flood risk, Tariff adjustment pending, Typhoon season disruption.
+SUP-008 average OTD rate percent: 88.21.
+SUP-008 average defect rate percent: 1.96.
+SUP-008 average compliance score: 76.17.
+SUP-008 average sustainability score: 68.28.
+SUP-008 total PO value USD: 884286.3.
+
+---
+
+SUP-009 SUP-009 SUP-009 SUP-009 SUP-009
+Exact supplier lookup for SUP-009.
+Supplier_ID is SUP-009.
+The supplier ID SUP-009 belongs to Tianhe Alloy Group.
+SUP-009 supplier name: Tianhe Alloy Group.
+SUP-009 region: APAC.
+SUP-009 country: China.
+SUP-009 product category: Specialty Alloys.
+SUP-009 contract tier: Tier-2.
+SUP-009 risk level: Medium.
+SUP-009 alternate supplier ID: SUP-114.
+SUP-009 active disruptions: Audit overdue; compliance review, Export license risk, Geopolitical tension flag, Political instability flag, Port congestion risk, Regulatory audit pending, Seasonal flood risk.
+SUP-009 average OTD rate percent: 87.03.
+SUP-009 average defect rate percent: 1.88.
+SUP-009 average compliance score: 81.39.
+SUP-009 average sustainability score: 62.78.
+SUP-009 total PO value USD: 8739796.9.
+
+---
+
+SUP-010 SUP-010 SUP-010 SUP-010 SUP-010
+Exact supplier lookup for SUP-010.
+Supplier_ID is SUP-010.
+The supplier ID SUP-010 belongs to Bohai Electronics.
+SUP-010 supplier name: Bohai Electronics.
+SUP-010 region: APAC.
+SUP-010 country: China.
+SUP-010 product category: Electronic Components.
+SUP-010 contract tier: Tier-3.
+SUP-010 risk level: Medium.
+SUP-010 alternate supplier ID: SUP-029.
+SUP-010 active disruptions: Geopolitical tension flag, Labour strike risk, Port congestion risk, Regulatory audit pending, Regulatory enforcement pending, Tariff adjustment pending, Typhoon season disruption.
+SUP-010 average OTD rate percent: 71.26.
+SUP-010 average defect rate percent: 3.4.
+SUP-010 average compliance score: 62.06.
+SUP-010 average sustainability score: 42.78.
+SUP-010 total PO value USD: 3436726.31.
+
+---
+
+SUP-011 SUP-011 SUP-011 SUP-011 SUP-011
+Exact supplier lookup for SUP-011.
+Supplier_ID is SUP-011.
+The supplier ID SUP-011 belongs to Dravex Components India.
+SUP-011 supplier name: Dravex Components India.
+SUP-011 region: APAC.
+SUP-011 country: India.
+SUP-011 product category: Mechanical Components.
+SUP-011 contract tier: Tier-3.
+SUP-011 risk level: High.
+SUP-011 alternate supplier ID: SUP-083.
+SUP-011 active disruptions: Audit overdue; compliance review, Geopolitical tension flag, Political instability flag, Port closure risk, Port congestion risk, Regulatory audit pending, Regulatory enforcement pending, Seasonal flood risk, Typhoon season disruption.
+SUP-011 average OTD rate percent: 72.27.
+SUP-011 average defect rate percent: 3.27.
+SUP-011 average compliance score: 65.67.
+SUP-011 average sustainability score: 45.06.
+SUP-011 total PO value USD: 3236970.2.
+
+---
+
+SUP-012 SUP-012 SUP-012 SUP-012 SUP-012
+Exact supplier lookup for SUP-012.
+Supplier_ID is SUP-012.
+The supplier ID SUP-012 belongs to Bharat Precision Works.
+SUP-012 supplier name: Bharat Precision Works.
+SUP-012 region: APAC.
+SUP-012 country: India.
+SUP-012 product category: Mechanical Components.
+SUP-012 contract tier: Tier-2.
+SUP-012 risk level: Low.
+SUP-012 alternate supplier ID: SUP-077.
+SUP-012 active disruptions: Audit overdue; compliance review, Currency volatility flag, Export license risk, Political instability flag, Seasonal flood risk, Tariff adjustment pending.
+SUP-012 average OTD rate percent: 86.75.
+SUP-012 average defect rate percent: 1.59.
+SUP-012 average compliance score: 80.5.
+SUP-012 average sustainability score: 63.11.
+SUP-012 total PO value USD: 2031103.65.
+
+---
+
+SUP-013 SUP-013 SUP-013 SUP-013 SUP-013
+Exact supplier lookup for SUP-013.
+Supplier_ID is SUP-013.
+The supplier ID SUP-013 belongs to IndoTech Fab Ltd.
+SUP-013 supplier name: IndoTech Fab Ltd.
+SUP-013 region: APAC.
+SUP-013 country: India.
+SUP-013 product category: Electronic Components.
+SUP-013 contract tier: Tier-2.
+SUP-013 risk level: Medium.
+SUP-013 alternate supplier ID: SUP-115.
+SUP-013 active disruptions: Audit overdue; compliance review, Geopolitical tension flag, Labour strike risk, Port congestion risk, Regulatory audit pending, Seasonal flood risk.
+SUP-013 average OTD rate percent: 86.76.
+SUP-013 average defect rate percent: 1.9.
+SUP-013 average compliance score: 79.0.
+SUP-013 average sustainability score: 63.44.
+SUP-013 total PO value USD: 3752327.43.
+
+---
+
+SUP-014 SUP-014 SUP-014 SUP-014 SUP-014
+Exact supplier lookup for SUP-014.
+Supplier_ID is SUP-014.
+The supplier ID SUP-014 belongs to Deccan Polymer Mfg.
+SUP-014 supplier name: Deccan Polymer Mfg.
+SUP-014 region: APAC.
+SUP-014 country: India.
+SUP-014 product category: Raw Materials.
+SUP-014 contract tier: Tier-3.
+SUP-014 risk level: High.
+SUP-014 alternate supplier ID: SUP-024.
+SUP-014 active disruptions: Currency volatility flag, Geopolitical tension flag, Labour strike risk, Political instability flag, Port congestion risk, Regulatory enforcement pending, Seasonal flood risk, Tariff adjustment pending, Typhoon season disruption.
+SUP-014 average OTD rate percent: 73.16.
+SUP-014 average defect rate percent: 2.65.
+SUP-014 average compliance score: 61.06.
+SUP-014 average sustainability score: 45.39.
+SUP-014 total PO value USD: 7223092.8.
+
+---
+
+SUP-015 SUP-015 SUP-015 SUP-015 SUP-015
+Exact supplier lookup for SUP-015.
+Supplier_ID is SUP-015.
+The supplier ID SUP-015 belongs to Narmada Pack Solutions.
+SUP-015 supplier name: Narmada Pack Solutions.
+SUP-015 region: APAC.
+SUP-015 country: India.
+SUP-015 product category: Packaging Materials.
+SUP-015 contract tier: Tier-2.
+SUP-015 risk level: Medium.
+SUP-015 alternate supplier ID: SUP-028.
+SUP-015 active disruptions: Currency volatility flag, Geopolitical tension flag, Political instability flag, Port closure risk, Port congestion risk, Regulatory audit pending, Regulatory enforcement pending, Seasonal flood risk.
+SUP-015 average OTD rate percent: 86.76.
+SUP-015 average defect rate percent: 1.92.
+SUP-015 average compliance score: 79.22.
+SUP-015 average sustainability score: 69.78.
+SUP-015 total PO value USD: 1013910.11.
+
+---
+
+SUP-016 SUP-016 SUP-016 SUP-016 SUP-016
+Exact supplier lookup for SUP-016.
+Supplier_ID is SUP-016.
+The supplier ID SUP-016 belongs to Konkan Textile Mills.
+SUP-016 supplier name: Konkan Textile Mills.
+SUP-016 region: APAC.
+SUP-016 country: India.
+SUP-016 product category: Industrial Textiles.
+SUP-016 contract tier: Tier-2.
+SUP-016 risk level: Low.
+SUP-016 alternate supplier ID: SUP-032.
+SUP-016 active disruptions: Export license risk, Labour strike risk, Political instability flag, Port congestion risk, Seasonal flood risk, Tariff adjustment pending, Typhoon season disruption.
+SUP-016 average OTD rate percent: 86.01.
+SUP-016 average defect rate percent: 1.73.
+SUP-016 average compliance score: 77.44.
+SUP-016 average sustainability score: 67.78.
+SUP-016 total PO value USD: 2363910.72.
+
+---
+
+SUP-017 SUP-017 SUP-017 SUP-017 SUP-017
+Exact supplier lookup for SUP-017.
+Supplier_ID is SUP-017.
+The supplier ID SUP-017 belongs to Sahyadri Alloy Tech.
+SUP-017 supplier name: Sahyadri Alloy Tech.
+SUP-017 region: APAC.
+SUP-017 country: India.
+SUP-017 product category: Specialty Alloys.
+SUP-017 contract tier: Tier-3.
+SUP-017 risk level: High.
+SUP-017 alternate supplier ID: SUP-072.
+SUP-017 active disruptions: Currency volatility flag, Export license risk, Political instability flag, Port closure risk, Port congestion risk, Regulatory enforcement pending, Typhoon season disruption.
+SUP-017 average OTD rate percent: 73.42.
+SUP-017 average defect rate percent: 2.86.
+SUP-017 average compliance score: 61.67.
+SUP-017 average sustainability score: 48.56.
+SUP-017 total PO value USD: 16178106.95.
+
+---
+
+SUP-018 SUP-018 SUP-018 SUP-018 SUP-018
+Exact supplier lookup for SUP-018.
+Supplier_ID is SUP-018.
+The supplier ID SUP-018 belongs to Deltaforge Vietnam.
+SUP-018 supplier name: Deltaforge Vietnam.
+SUP-018 region: APAC.
+SUP-018 country: Vietnam.
+SUP-018 product category: Mechanical Components.
+SUP-018 contract tier: Tier-3.
+SUP-018 risk level: Medium.
+SUP-018 alternate supplier ID: SUP-073.
+SUP-018 active disruptions: Audit overdue; compliance review, Export license risk, Labour strike risk, Port closure risk, Port congestion risk, Regulatory audit pending, Seasonal flood risk, Tariff adjustment pending.
+SUP-018 average OTD rate percent: 72.99.
+SUP-018 average defect rate percent: 2.61.
+SUP-018 average compliance score: 64.0.
+SUP-018 average sustainability score: 46.94.
+SUP-018 total PO value USD: 3060089.67.
+
+---
+
+SUP-019 SUP-019 SUP-019 SUP-019 SUP-019
+Exact supplier lookup for SUP-019.
+Supplier_ID is SUP-019.
+The supplier ID SUP-019 belongs to Saigon Precision Works.
+SUP-019 supplier name: Saigon Precision Works.
+SUP-019 region: APAC.
+SUP-019 country: Vietnam.
+SUP-019 product category: Electronic Components.
+SUP-019 contract tier: Tier-2.
+SUP-019 risk level: Low.
+SUP-019 alternate supplier ID: SUP-022.
+SUP-019 active disruptions: Export license risk, Geopolitical tension flag, Labour strike risk, Port closure risk, Regulatory audit pending, Seasonal flood risk, Typhoon season disruption.
+SUP-019 average OTD rate percent: 87.12.
+SUP-019 average defect rate percent: 1.55.
+SUP-019 average compliance score: 76.83.
+SUP-019 average sustainability score: 68.44.
+SUP-019 total PO value USD: 3475625.36.
+
+---
+
+SUP-020 SUP-020 SUP-020 SUP-020 SUP-020
+Exact supplier lookup for SUP-020.
+Supplier_ID is SUP-020.
+The supplier ID SUP-020 belongs to MeKong Pack Co.
+SUP-020 supplier name: MeKong Pack Co.
+SUP-020 region: APAC.
+SUP-020 country: Vietnam.
+SUP-020 product category: Packaging Materials.
+SUP-020 contract tier: Tier-3.
+SUP-020 risk level: High.
+SUP-020 alternate supplier ID: SUP-007.
+SUP-020 active disruptions: Audit overdue; compliance review, Currency volatility flag, Export license risk, Geopolitical tension flag, Political instability flag, Port congestion risk, Regulatory audit pending, Regulatory enforcement pending, Typhoon season disruption.
+SUP-020 average OTD rate percent: 70.98.
+SUP-020 average defect rate percent: 2.86.
+SUP-020 average compliance score: 60.89.
+SUP-020 average sustainability score: 48.89.
+SUP-020 total PO value USD: 1312164.75.
+
+---
+
+SUP-021 SUP-021 SUP-021 SUP-021 SUP-021
+Exact supplier lookup for SUP-021.
+Supplier_ID is SUP-021.
+The supplier ID SUP-021 belongs to HanoiTex Industries.
+SUP-021 supplier name: HanoiTex Industries.
+SUP-021 region: APAC.
+SUP-021 country: Vietnam.
+SUP-021 product category: Industrial Textiles.
+SUP-021 contract tier: Tier-2.
+SUP-021 risk level: Low.
+SUP-021 alternate supplier ID: SUP-005.
+SUP-021 active disruptions: Audit overdue; compliance review, Currency volatility flag, Political instability flag, Port closure risk, Regulatory audit pending, Seasonal flood risk, Tariff adjustment pending.
+SUP-021 average OTD rate percent: 86.03.
+SUP-021 average defect rate percent: 1.72.
+SUP-021 average compliance score: 80.11.
+SUP-021 average sustainability score: 65.22.
+SUP-021 total PO value USD: 1873122.0.
+
+---
+
+SUP-022 SUP-022 SUP-022 SUP-022 SUP-022
+Exact supplier lookup for SUP-022.
+Supplier_ID is SUP-022.
+The supplier ID SUP-022 belongs to DaNang Metal Works.
+SUP-022 supplier name: DaNang Metal Works.
+SUP-022 region: APAC.
+SUP-022 country: Vietnam.
+SUP-022 product category: Mechanical Components.
+SUP-022 contract tier: Tier-3.
+SUP-022 risk level: High.
+SUP-022 alternate supplier ID: SUP-107.
+SUP-022 active disruptions: Audit overdue; compliance review, Currency volatility flag, Labour strike risk, Port closure risk, Port congestion risk, Regulatory audit pending, Regulatory enforcement pending, Tariff adjustment pending, Typhoon season disruption.
+SUP-022 average OTD rate percent: 72.51.
+SUP-022 average defect rate percent: 2.89.
+SUP-022 average compliance score: 61.28.
+SUP-022 average sustainability score: 49.33.
+SUP-022 total PO value USD: 2771851.75.
+
+---
+
+SUP-023 SUP-023 SUP-023 SUP-023 SUP-023
+Exact supplier lookup for SUP-023.
+Supplier_ID is SUP-023.
+The supplier ID SUP-023 belongs to Hanguk Circuit Works.
+SUP-023 supplier name: Hanguk Circuit Works.
+SUP-023 region: APAC.
+SUP-023 country: South Korea.
+SUP-023 product category: Electronic Components.
+SUP-023 contract tier: Tier-1.
+SUP-023 risk level: Low.
+SUP-023 alternate supplier ID: SUP-001.
+SUP-023 active disruptions: Audit overdue; compliance review, Port closure risk, Port congestion risk, Regulatory audit pending, Seasonal flood risk, Tariff adjustment pending.
+SUP-023 average OTD rate percent: 94.21.
+SUP-023 average defect rate percent: 1.15.
+SUP-023 average compliance score: 88.72.
+SUP-023 average sustainability score: 79.44.
+SUP-023 total PO value USD: 1110894.35.
+
+---
+
+SUP-024 SUP-024 SUP-024 SUP-024 SUP-024
+Exact supplier lookup for SUP-024.
+Supplier_ID is SUP-024.
+The supplier ID SUP-024 belongs to Seoultech Micro.
+SUP-024 supplier name: Seoultech Micro.
+SUP-024 region: APAC.
+SUP-024 country: South Korea.
+SUP-024 product category: Electronic Components.
+SUP-024 contract tier: Tier-2.
+SUP-024 risk level: Medium.
+SUP-024 alternate supplier ID: SUP-061.
+SUP-024 active disruptions: Export license risk, Geopolitical tension flag, Political instability flag, Port closure risk, Port congestion risk, Regulatory audit pending, Regulatory enforcement pending, Seasonal flood risk.
+SUP-024 average OTD rate percent: 86.12.
+SUP-024 average defect rate percent: 1.83.
+SUP-024 average compliance score: 81.5.
+SUP-024 average sustainability score: 66.67.
+SUP-024 total PO value USD: 3297535.58.
+
+---
+
+SUP-025 SUP-025 SUP-025 SUP-025 SUP-025
+Exact supplier lookup for SUP-025.
+Supplier_ID is SUP-025.
+The supplier ID SUP-025 belongs to Koryo Alloy Systems.
+SUP-025 supplier name: Koryo Alloy Systems.
+SUP-025 region: APAC.
+SUP-025 country: South Korea.
+SUP-025 product category: Specialty Alloys.
+SUP-025 contract tier: Tier-1.
+SUP-025 risk level: Low.
+SUP-025 alternate supplier ID: SUP-010.
+SUP-025 active disruptions: Audit overdue; compliance review, Currency volatility flag, Geopolitical tension flag, Port congestion risk, Regulatory audit pending.
+SUP-025 average OTD rate percent: 94.28.
+SUP-025 average defect rate percent: 1.05.
+SUP-025 average compliance score: 87.11.
+SUP-025 average sustainability score: 84.44.
+SUP-025 total PO value USD: 3701463.07.
+
+---
+
+SUP-026 SUP-026 SUP-026 SUP-026 SUP-026
+Exact supplier lookup for SUP-026.
+Supplier_ID is SUP-026.
+The supplier ID SUP-026 belongs to Hangang Steel Parts.
+SUP-026 supplier name: Hangang Steel Parts.
+SUP-026 region: APAC.
+SUP-026 country: South Korea.
+SUP-026 product category: Mechanical Components.
+SUP-026 contract tier: Tier-2.
+SUP-026 risk level: Medium.
+SUP-026 alternate supplier ID: SUP-006.
+SUP-026 active disruptions: Geopolitical tension flag, Labour strike risk, Port closure risk, Port congestion risk, Seasonal flood risk, Tariff adjustment pending, Typhoon season disruption.
+SUP-026 average OTD rate percent: 85.51.
+SUP-026 average defect rate percent: 1.98.
+SUP-026 average compliance score: 78.78.
+SUP-026 average sustainability score: 67.39.
+SUP-026 total PO value USD: 2426635.76.
+
+---
+
+SUP-027 SUP-027 SUP-027 SUP-027 SUP-027
+Exact supplier lookup for SUP-027.
+Supplier_ID is SUP-027.
+The supplier ID SUP-027 belongs to Busan Pack Corp.
+SUP-027 supplier name: Busan Pack Corp.
+SUP-027 region: APAC.
+SUP-027 country: South Korea.
+SUP-027 product category: Packaging Materials.
+SUP-027 contract tier: Tier-2.
+SUP-027 risk level: High.
+SUP-027 alternate supplier ID: SUP-012.
+SUP-027 active disruptions: Audit overdue; compliance review, Export license risk, Labour strike risk, Port closure risk, Regulatory audit pending, Tariff adjustment pending, Typhoon season disruption.
+SUP-027 average OTD rate percent: 88.25.
+SUP-027 average defect rate percent: 1.98.
+SUP-027 average compliance score: 81.67.
+SUP-027 average sustainability score: 68.67.
+SUP-027 total PO value USD: 864414.12.
+
+---
+
+SUP-028 SUP-028 SUP-028 SUP-028 SUP-028
+Exact supplier lookup for SUP-028.
+Supplier_ID is SUP-028.
+The supplier ID SUP-028 belongs to Hokkaido Alloy Tech.
+SUP-028 supplier name: Hokkaido Alloy Tech.
+SUP-028 region: APAC.
+SUP-028 country: Japan.
+SUP-028 product category: Specialty Alloys.
+SUP-028 contract tier: Tier-1.
+SUP-028 risk level: Low.
+SUP-028 alternate supplier ID: SUP-032.
+SUP-028 active disruptions: Audit overdue; compliance review, Currency volatility flag, Regulatory audit pending, Typhoon season disruption.
+SUP-028 average OTD rate percent: 94.09.
+SUP-028 average defect rate percent: 0.97.
+SUP-028 average compliance score: 88.39.
+SUP-028 average sustainability score: 83.56.
+SUP-028 total PO value USD: 3795087.29.
+
+---
+
+SUP-029 SUP-029 SUP-029 SUP-029 SUP-029
+Exact supplier lookup for SUP-029.
+Supplier_ID is SUP-029.
+The supplier ID SUP-029 belongs to Kinki Precision Corp.
+SUP-029 supplier name: Kinki Precision Corp.
+SUP-029 region: APAC.
+SUP-029 country: Japan.
+SUP-029 product category: Electronic Components.
+SUP-029 contract tier: Tier-1.
+SUP-029 risk level: Low.
+SUP-029 alternate supplier ID: SUP-081.
+SUP-029 active disruptions: Geopolitical tension flag, Tariff adjustment pending.
+SUP-029 average OTD rate percent: 94.18.
+SUP-029 average defect rate percent: 1.0.
+SUP-029 average compliance score: 90.29.
+SUP-029 average sustainability score: 85.06.
+SUP-029 total PO value USD: 864666.51.
+
+---
+
+SUP-030 SUP-030 SUP-030 SUP-030 SUP-030
+Exact supplier lookup for SUP-030.
+Supplier_ID is SUP-030.
+The supplier ID SUP-030 belongs to Osaka Polymer Systems.
+SUP-030 supplier name: Osaka Polymer Systems.
+SUP-030 region: APAC.
+SUP-030 country: Japan.
+SUP-030 product category: Raw Materials.
+SUP-030 contract tier: Tier-1.
+SUP-030 risk level: Low.
+SUP-030 alternate supplier ID: SUP-076.
+SUP-030 active disruptions: Geopolitical tension flag, Seasonal flood risk.
+SUP-030 average OTD rate percent: 94.84.
+SUP-030 average defect rate percent: 0.9.
+SUP-030 average compliance score: 88.94.
+SUP-030 average sustainability score: 83.82.
+SUP-030 total PO value USD: 1766673.12.
+
+---
+
+SUP-031 SUP-031 SUP-031 SUP-031 SUP-031
+Exact supplier lookup for SUP-031.
+Supplier_ID is SUP-031.
+The supplier ID SUP-031 belongs to Sendai Mech Works.
+SUP-031 supplier name: Sendai Mech Works.
+SUP-031 region: APAC.
+SUP-031 country: Japan.
+SUP-031 product category: Mechanical Components.
+SUP-031 contract tier: Tier-1.
+SUP-031 risk level: Low.
+SUP-031 alternate supplier ID: SUP-003.
+SUP-031 active disruptions: Export license risk, Port congestion risk, Regulatory audit pending, Seasonal flood risk, Typhoon season disruption.
+SUP-031 average OTD rate percent: 93.34.
+SUP-031 average defect rate percent: 1.05.
+SUP-031 average compliance score: 86.88.
+SUP-031 average sustainability score: 84.0.
+SUP-031 total PO value USD: 703129.89.
+
+---
+
+SUP-032 SUP-032 SUP-032 SUP-032 SUP-032
+Exact supplier lookup for SUP-032.
+Supplier_ID is SUP-032.
+The supplier ID SUP-032 belongs to Kyushu Textile Co.
+SUP-032 supplier name: Kyushu Textile Co.
+SUP-032 region: APAC.
+SUP-032 country: Japan.
+SUP-032 product category: Industrial Textiles.
+SUP-032 contract tier: Tier-1.
+SUP-032 risk level: Low.
+SUP-032 alternate supplier ID: SUP-092.
+SUP-032 active disruptions: Audit overdue; compliance review, Geopolitical tension flag, Political instability flag, Port congestion risk.
+SUP-032 average OTD rate percent: 93.16.
+SUP-032 average defect rate percent: 0.78.
+SUP-032 average compliance score: 88.71.
+SUP-032 average sustainability score: 85.35.
+SUP-032 total PO value USD: 483092.31.
+
+---
+
+SUP-033 SUP-033 SUP-033 SUP-033 SUP-033
+Exact supplier lookup for SUP-033.
+Supplier_ID is SUP-033.
+The supplier ID SUP-033 belongs to PrecisionForge Taiyuan.
+SUP-033 supplier name: PrecisionForge Taiyuan.
+SUP-033 region: APAC.
+SUP-033 country: Taiwan.
+SUP-033 product category: Mechanical Components.
+SUP-033 contract tier: Tier-1.
+SUP-033 risk level: Low.
+SUP-033 alternate supplier ID: SUP-016.
+SUP-033 active disruptions: Port congestion risk, Seasonal flood risk, Tariff adjustment pending.
+SUP-033 average OTD rate percent: 94.43.
+SUP-033 average defect rate percent: 1.12.
+SUP-033 average compliance score: 87.82.
+SUP-033 average sustainability score: 85.24.
+SUP-033 total PO value USD: 591164.41.
+
+---
+
+SUP-034 SUP-034 SUP-034 SUP-034 SUP-034
+Exact supplier lookup for SUP-034.
+Supplier_ID is SUP-034.
+The supplier ID SUP-034 belongs to Formosa Circuit Co.
+SUP-034 supplier name: Formosa Circuit Co.
+SUP-034 region: APAC.
+SUP-034 country: Taiwan.
+SUP-034 product category: Electronic Components.
+SUP-034 contract tier: Tier-1.
+SUP-034 risk level: Low.
+SUP-034 alternate supplier ID: SUP-003.
+SUP-034 active disruptions: Audit overdue; compliance review, Geopolitical tension flag, Regulatory enforcement pending, Typhoon season disruption.
+SUP-034 average OTD rate percent: 92.62.
+SUP-034 average defect rate percent: 1.05.
+SUP-034 average compliance score: 91.12.
+SUP-034 average sustainability score: 81.12.
+SUP-034 total PO value USD: 912811.76.
+
+---
+
+SUP-035 SUP-035 SUP-035 SUP-035 SUP-035
+Exact supplier lookup for SUP-035.
+Supplier_ID is SUP-035.
+The supplier ID SUP-035 belongs to Yulon Alloy Mfg.
+SUP-035 supplier name: Yulon Alloy Mfg.
+SUP-035 region: APAC.
+SUP-035 country: Taiwan.
+SUP-035 product category: Specialty Alloys.
+SUP-035 contract tier: Tier-2.
+SUP-035 risk level: Medium.
+SUP-035 alternate supplier ID: SUP-004.
+SUP-035 active disruptions: Geopolitical tension flag, Political instability flag, Port closure risk, Port congestion risk, Regulatory audit pending, Seasonal flood risk, Tariff adjustment pending, Typhoon season disruption.
+SUP-035 average OTD rate percent: 87.79.
+SUP-035 average defect rate percent: 1.95.
+SUP-035 average compliance score: 78.0.
+SUP-035 average sustainability score: 74.24.
+SUP-035 total PO value USD: 7576863.87.
+
+---
+
+SUP-036 SUP-036 SUP-036 SUP-036 SUP-036
+Exact supplier lookup for SUP-036.
+Supplier_ID is SUP-036.
+The supplier ID SUP-036 belongs to Kaohsiung Pack Co.
+SUP-036 supplier name: Kaohsiung Pack Co.
+SUP-036 region: APAC.
+SUP-036 country: Taiwan.
+SUP-036 product category: Packaging Materials.
+SUP-036 contract tier: Tier-2.
+SUP-036 risk level: Medium.
+SUP-036 alternate supplier ID: SUP-001.
+SUP-036 active disruptions: Geopolitical tension flag, Political instability flag, Port closure risk, Regulatory enforcement pending, Seasonal flood risk, Tariff adjustment pending.
+SUP-036 average OTD rate percent: 84.71.
+SUP-036 average defect rate percent: 1.68.
+SUP-036 average compliance score: 78.41.
+SUP-036 average sustainability score: 72.71.
+SUP-036 total PO value USD: 1121300.49.
+
+---
+
+SUP-037 SUP-037 SUP-037 SUP-037 SUP-037
+Exact supplier lookup for SUP-037.
+Supplier_ID is SUP-037.
+The supplier ID SUP-037 belongs to Straits Packaging Hub.
+SUP-037 supplier name: Straits Packaging Hub.
+SUP-037 region: APAC.
+SUP-037 country: Singapore.
+SUP-037 product category: Packaging Materials.
+SUP-037 contract tier: Tier-1.
+SUP-037 risk level: Low.
+SUP-037 alternate supplier ID: SUP-001.
+SUP-037 active disruptions: Geopolitical tension flag, Political instability flag, Seasonal flood risk, Tariff adjustment pending.
+SUP-037 average OTD rate percent: 93.41.
+SUP-037 average defect rate percent: 0.96.
+SUP-037 average compliance score: 92.12.
+SUP-037 average sustainability score: 83.59.
+SUP-037 total PO value USD: 357752.13.
+
+---
+
+SUP-038 SUP-038 SUP-038 SUP-038 SUP-038
+Exact supplier lookup for SUP-038.
+Supplier_ID is SUP-038.
+The supplier ID SUP-038 belongs to SingaMold Tech.
+SUP-038 supplier name: SingaMold Tech.
+SUP-038 region: APAC.
+SUP-038 country: Singapore.
+SUP-038 product category: Mechanical Components.
+SUP-038 contract tier: Tier-1.
+SUP-038 risk level: Low.
+SUP-038 alternate supplier ID: SUP-036.
+SUP-038 active disruptions: Political instability flag, Regulatory enforcement pending, Seasonal flood risk, Tariff adjustment pending.
+SUP-038 average OTD rate percent: 94.66.
+SUP-038 average defect rate percent: 0.78.
+SUP-038 average compliance score: 87.41.
+SUP-038 average sustainability score: 83.06.
+SUP-038 total PO value USD: 687982.73.
+
+---
+
+SUP-039 SUP-039 SUP-039 SUP-039 SUP-039
+Exact supplier lookup for SUP-039.
+Supplier_ID is SUP-039.
+The supplier ID SUP-039 belongs to Krungsri Moldtech.
+SUP-039 supplier name: Krungsri Moldtech.
+SUP-039 region: APAC.
+SUP-039 country: Thailand.
+SUP-039 product category: Mechanical Components.
+SUP-039 contract tier: Tier-2.
+SUP-039 risk level: Medium.
+SUP-039 alternate supplier ID: SUP-008.
+SUP-039 active disruptions: Audit overdue; compliance review, Export license risk, Geopolitical tension flag, Regulatory audit pending, Seasonal flood risk, Tariff adjustment pending.
+SUP-039 average OTD rate percent: 86.89.
+SUP-039 average defect rate percent: 1.82.
+SUP-039 average compliance score: 78.29.
+SUP-039 average sustainability score: 65.47.
+SUP-039 total PO value USD: 2033808.35.
+
+---
+
+SUP-040 SUP-040 SUP-040 SUP-040 SUP-040
+Exact supplier lookup for SUP-040.
+Supplier_ID is SUP-040.
+The supplier ID SUP-040 belongs to ChaoPhaya Pack.
+SUP-040 supplier name: ChaoPhaya Pack.
+SUP-040 region: APAC.
+SUP-040 country: Thailand.
+SUP-040 product category: Packaging Materials.
+SUP-040 contract tier: Tier-2.
+SUP-040 risk level: Medium.
+SUP-040 alternate supplier ID: SUP-042.
+SUP-040 active disruptions: Geopolitical tension flag, Port congestion risk, Regulatory audit pending, Seasonal flood risk, Tariff adjustment pending.
+SUP-040 average OTD rate percent: 87.94.
+SUP-040 average defect rate percent: 1.51.
+SUP-040 average compliance score: 81.0.
+SUP-040 average sustainability score: 65.82.
+SUP-040 total PO value USD: 1059383.66.
+
+---
+
+SUP-041 SUP-041 SUP-041 SUP-041 SUP-041
+Exact supplier lookup for SUP-041.
+Supplier_ID is SUP-041.
+The supplier ID SUP-041 belongs to Archipelago PCB Corp.
+SUP-041 supplier name: Archipelago PCB Corp.
+SUP-041 region: APAC.
+SUP-041 country: Philippines.
+SUP-041 product category: Electronic Components.
+SUP-041 contract tier: Tier-3.
+SUP-041 risk level: High.
+SUP-041 alternate supplier ID: SUP-016.
+SUP-041 active disruptions: Audit overdue; compliance review, Export license risk, Labour strike risk, Port closure risk, Tariff adjustment pending, Typhoon season disruption.
+SUP-041 average OTD rate percent: 74.42.
+SUP-041 average defect rate percent: 2.82.
+SUP-041 average compliance score: 66.71.
+SUP-041 average sustainability score: 47.65.
+SUP-041 total PO value USD: 4402101.57.
+
+---
+
+SUP-042 SUP-042 SUP-042 SUP-042 SUP-042
+Exact supplier lookup for SUP-042.
+Supplier_ID is SUP-042.
+The supplier ID SUP-042 belongs to Visayas Textile Co.
+SUP-042 supplier name: Visayas Textile Co.
+SUP-042 region: APAC.
+SUP-042 country: Philippines.
+SUP-042 product category: Industrial Textiles.
+SUP-042 contract tier: Tier-3.
+SUP-042 risk level: Medium.
+SUP-042 alternate supplier ID: SUP-033.
+SUP-042 active disruptions: Currency volatility flag, Export license risk, Geopolitical tension flag, Port closure risk, Port congestion risk, Regulatory audit pending, Regulatory enforcement pending, Tariff adjustment pending.
+SUP-042 average OTD rate percent: 76.0.
+SUP-042 average defect rate percent: 2.97.
+SUP-042 average compliance score: 60.94.
+SUP-042 average sustainability score: 50.24.
+SUP-042 total PO value USD: 2723402.89.
+
+---
+
+SUP-043 SUP-043 SUP-043 SUP-043 SUP-043
+Exact supplier lookup for SUP-043.
+Supplier_ID is SUP-043.
+The supplier ID SUP-043 belongs to Tasman Circuit Boards.
+SUP-043 supplier name: Tasman Circuit Boards.
+SUP-043 region: APAC.
+SUP-043 country: Australia.
+SUP-043 product category: Electronic Components.
+SUP-043 contract tier: Tier-1.
+SUP-043 risk level: Low.
+SUP-043 alternate supplier ID: SUP-002.
+SUP-043 active disruptions: Geopolitical tension flag, Regulatory audit pending, Tariff adjustment pending.
+SUP-043 average OTD rate percent: 94.57.
+SUP-043 average defect rate percent: 1.19.
+SUP-043 average compliance score: 87.18.
+SUP-043 average sustainability score: 83.18.
+SUP-043 total PO value USD: 1162467.22.
+
+---
+
+SUP-044 SUP-044 SUP-044 SUP-044 SUP-044
+Exact supplier lookup for SUP-044.
+Supplier_ID is SUP-044.
+The supplier ID SUP-044 belongs to Broken Hill Alloys.
+SUP-044 supplier name: Broken Hill Alloys.
+SUP-044 region: APAC.
+SUP-044 country: Australia.
+SUP-044 product category: Specialty Alloys.
+SUP-044 contract tier: Tier-1.
+SUP-044 risk level: Low.
+SUP-044 alternate supplier ID: SUP-002.
+SUP-044 active disruptions: Geopolitical tension flag, Political instability flag, Port closure risk, Seasonal flood risk.
+SUP-044 average OTD rate percent: 93.77.
+SUP-044 average defect rate percent: 0.55.
+SUP-044 average compliance score: 89.41.
+SUP-044 average sustainability score: 86.65.
+SUP-044 total PO value USD: 2124588.35.
+
+---
+
+SUP-045 SUP-045 SUP-045 SUP-045 SUP-045
+Exact supplier lookup for SUP-045.
+Supplier_ID is SUP-045.
+The supplier ID SUP-045 belongs to Sibertek Molding.
+SUP-045 supplier name: Sibertek Molding.
+SUP-045 region: APAC.
+SUP-045 country: Russia.
+SUP-045 product category: Mechanical Components.
+SUP-045 contract tier: Tier-3.
+SUP-045 risk level: Medium.
+SUP-045 alternate supplier ID: SUP-010.
+SUP-045 active disruptions: Geopolitical tension flag, Labour strike risk, Port closure risk, Regulatory audit pending, Seasonal flood risk, Tariff adjustment pending.
+SUP-045 average OTD rate percent: 72.69.
+SUP-045 average defect rate percent: 3.19.
+SUP-045 average compliance score: 64.24.
+SUP-045 average sustainability score: 47.53.
+SUP-045 total PO value USD: 3126936.59.
+
+---
+
+SUP-046 SUP-046 SUP-046 SUP-046 SUP-046
+Exact supplier lookup for SUP-046.
+Supplier_ID is SUP-046.
+The supplier ID SUP-046 belongs to Krauss-Polymex GmbH.
+SUP-046 supplier name: Krauss-Polymex GmbH.
+SUP-046 region: EMEA.
+SUP-046 country: Germany.
+SUP-046 product category: Raw Materials.
+SUP-046 contract tier: Tier-1.
+SUP-046 risk level: Low.
+SUP-046 alternate supplier ID: SUP-035.
+SUP-046 active disruptions: Geopolitical tension flag, Regulatory audit pending, Seasonal flood risk.
+SUP-046 average OTD rate percent: 93.56.
+SUP-046 average defect rate percent: 0.94.
+SUP-046 average compliance score: 89.59.
+SUP-046 average sustainability score: 86.53.
+SUP-046 total PO value USD: 1934117.17.
+
+---
+
+SUP-047 SUP-047 SUP-047 SUP-047 SUP-047
+Exact supplier lookup for SUP-047.
+Supplier_ID is SUP-047.
+The supplier ID SUP-047 belongs to Rheinwerk Precision AG.
+SUP-047 supplier name: Rheinwerk Precision AG.
+SUP-047 region: EMEA.
+SUP-047 country: Germany.
+SUP-047 product category: Mechanical Components.
+SUP-047 contract tier: Tier-1.
+SUP-047 risk level: Low.
+SUP-047 alternate supplier ID: SUP-102.
+SUP-047 active disruptions: Geopolitical tension flag, Regulatory audit pending, Typhoon season disruption.
+SUP-047 average OTD rate percent: 93.65.
+SUP-047 average defect rate percent: 0.96.
+SUP-047 average compliance score: 89.76.
+SUP-047 average sustainability score: 85.41.
+SUP-047 total PO value USD: 672371.26.
+
+---
+
+SUP-048 SUP-048 SUP-048 SUP-048 SUP-048
+Exact supplier lookup for SUP-048.
+Supplier_ID is SUP-048.
+The supplier ID SUP-048 belongs to Berliner Pack GmbH.
+SUP-048 supplier name: Berliner Pack GmbH.
+SUP-048 region: EMEA.
+SUP-048 country: Germany.
+SUP-048 product category: Packaging Materials.
+SUP-048 contract tier: Tier-1.
+SUP-048 risk level: Low.
+SUP-048 alternate supplier ID: SUP-087.
+SUP-048 active disruptions: Export license risk, Port closure risk, Port congestion risk, Regulatory enforcement pending, Tariff adjustment pending.
+SUP-048 average OTD rate percent: 93.85.
+SUP-048 average defect rate percent: 0.76.
+SUP-048 average compliance score: 89.94.
+SUP-048 average sustainability score: 80.82.
+SUP-048 total PO value USD: 289328.09.
+
+---
+
+SUP-049 SUP-049 SUP-049 SUP-049 SUP-049
+Exact supplier lookup for SUP-049.
+Supplier_ID is SUP-049.
+The supplier ID SUP-049 belongs to Munich Alloy Technik.
+SUP-049 supplier name: Munich Alloy Technik.
+SUP-049 region: EMEA.
+SUP-049 country: Germany.
+SUP-049 product category: Specialty Alloys.
+SUP-049 contract tier: Tier-1.
+SUP-049 risk level: Low.
+SUP-049 alternate supplier ID: SUP-088.
+SUP-049 active disruptions: Geopolitical tension flag, Labour strike risk, Port closure risk, Seasonal flood risk.
+SUP-049 average OTD rate percent: 94.45.
+SUP-049 average defect rate percent: 0.89.
+SUP-049 average compliance score: 90.88.
+SUP-049 average sustainability score: 83.76.
+SUP-049 total PO value USD: 3034722.45.
+
+---
+
+SUP-050 SUP-050 SUP-050 SUP-050 SUP-050
+Exact supplier lookup for SUP-050.
+Supplier_ID is SUP-050.
+The supplier ID SUP-050 belongs to Dresdner Textilwerk.
+SUP-050 supplier name: Dresdner Textilwerk.
+SUP-050 region: EMEA.
+SUP-050 country: Germany.
+SUP-050 product category: Industrial Textiles.
+SUP-050 contract tier: Tier-2.
+SUP-050 risk level: Medium.
+SUP-050 alternate supplier ID: SUP-011.
+SUP-050 active disruptions: Export license risk, Geopolitical tension flag, Political instability flag, Port congestion risk, Regulatory audit pending, Tariff adjustment pending.
+SUP-050 average OTD rate percent: 85.49.
+SUP-050 average defect rate percent: 1.76.
+SUP-050 average compliance score: 79.59.
+SUP-050 average sustainability score: 63.88.
+SUP-050 total PO value USD: 1890839.73.
+
+---
+
+SUP-051 SUP-051 SUP-051 SUP-051 SUP-051
+Exact supplier lookup for SUP-051.
+Supplier_ID is SUP-051.
+The supplier ID SUP-051 belongs to Toreval Electronics.
+SUP-051 supplier name: Toreval Electronics.
+SUP-051 region: EMEA.
+SUP-051 country: France.
+SUP-051 product category: Electronic Components.
+SUP-051 contract tier: Tier-1.
+SUP-051 risk level: Low.
+SUP-051 alternate supplier ID: SUP-034.
+SUP-051 active disruptions: Audit overdue; compliance review, Currency volatility flag, Port congestion risk, Tariff adjustment pending.
+SUP-051 average OTD rate percent: 93.72.
+SUP-051 average defect rate percent: 0.74.
+SUP-051 average compliance score: 89.71.
+SUP-051 average sustainability score: 83.59.
+SUP-051 total PO value USD: 943358.32.
+
+---
+
+SUP-052 SUP-052 SUP-052 SUP-052 SUP-052
+Exact supplier lookup for SUP-052.
+Supplier_ID is SUP-052.
+The supplier ID SUP-052 belongs to Lyon Polymer SAS.
+SUP-052 supplier name: Lyon Polymer SAS.
+SUP-052 region: EMEA.
+SUP-052 country: France.
+SUP-052 product category: Raw Materials.
+SUP-052 contract tier: Tier-1.
+SUP-052 risk level: Low.
+SUP-052 alternate supplier ID: SUP-011.
+SUP-052 active disruptions: Export license risk, Geopolitical tension flag, Port congestion risk, Regulatory enforcement pending, Seasonal flood risk, Tariff adjustment pending.
+SUP-052 average OTD rate percent: 93.34.
+SUP-052 average defect rate percent: 0.91.
+SUP-052 average compliance score: 87.94.
+SUP-052 average sustainability score: 81.59.
+SUP-052 total PO value USD: 1493177.51.
+
+---
+
+SUP-053 SUP-053 SUP-053 SUP-053 SUP-053
+Exact supplier lookup for SUP-053.
+Supplier_ID is SUP-053.
+The supplier ID SUP-053 belongs to Bordeaux Pack SAS.
+SUP-053 supplier name: Bordeaux Pack SAS.
+SUP-053 region: EMEA.
+SUP-053 country: France.
+SUP-053 product category: Packaging Materials.
+SUP-053 contract tier: Tier-2.
+SUP-053 risk level: Medium.
+SUP-053 alternate supplier ID: SUP-082.
+SUP-053 active disruptions: Audit overdue; compliance review, Geopolitical tension flag, Labour strike risk, Regulatory audit pending, Seasonal flood risk, Tariff adjustment pending, Typhoon season disruption.
+SUP-053 average OTD rate percent: 87.4.
+SUP-053 average defect rate percent: 1.9.
+SUP-053 average compliance score: 78.35.
+SUP-053 average sustainability score: 69.41.
+SUP-053 total PO value USD: 703614.84.
+
+---
+
+SUP-054 SUP-054 SUP-054 SUP-054 SUP-054
+Exact supplier lookup for SUP-054.
+Supplier_ID is SUP-054.
+The supplier ID SUP-054 belongs to Lumivex Semiconductor NL.
+SUP-054 supplier name: Lumivex Semiconductor NL.
+SUP-054 region: EMEA.
+SUP-054 country: Netherlands.
+SUP-054 product category: Electronic Components.
+SUP-054 contract tier: Tier-1.
+SUP-054 risk level: Low.
+SUP-054 alternate supplier ID: SUP-003.
+SUP-054 active disruptions: Export license risk, Labour strike risk, Political instability flag, Port congestion risk, Regulatory audit pending, Tariff adjustment pending.
+SUP-054 average OTD rate percent: 93.16.
+SUP-054 average defect rate percent: 0.92.
+SUP-054 average compliance score: 88.12.
+SUP-054 average sustainability score: 83.82.
+SUP-054 total PO value USD: 922977.08.
+
+---
+
+SUP-055 SUP-055 SUP-055 SUP-055 SUP-055
+Exact supplier lookup for SUP-055.
+Supplier_ID is SUP-055.
+The supplier ID SUP-055 belongs to Rotterdam Chem BV.
+SUP-055 supplier name: Rotterdam Chem BV.
+SUP-055 region: EMEA.
+SUP-055 country: Netherlands.
+SUP-055 product category: Raw Materials.
+SUP-055 contract tier: Tier-1.
+SUP-055 risk level: Low.
+SUP-055 alternate supplier ID: SUP-043.
+SUP-055 active disruptions: Port closure risk, Tariff adjustment pending.
+SUP-055 average OTD rate percent: 93.24.
+SUP-055 average defect rate percent: 0.78.
+SUP-055 average compliance score: 90.76.
+SUP-055 average sustainability score: 82.71.
+SUP-055 total PO value USD: 1737233.78.
+
+---
+
+SUP-056 SUP-056 SUP-056 SUP-056 SUP-056
+Exact supplier lookup for SUP-056.
+Supplier_ID is SUP-056.
+The supplier ID SUP-056 belongs to Solveig Eco Packaging.
+SUP-056 supplier name: Solveig Eco Packaging.
+SUP-056 region: EMEA.
+SUP-056 country: Sweden.
+SUP-056 product category: Packaging Materials.
+SUP-056 contract tier: Tier-1.
+SUP-056 risk level: Low.
+SUP-056 alternate supplier ID: SUP-002.
+SUP-056 active disruptions: Port congestion risk, Regulatory audit pending, Tariff adjustment pending.
+SUP-056 average OTD rate percent: 94.03.
+SUP-056 average defect rate percent: 0.94.
+SUP-056 average compliance score: 88.88.
+SUP-056 average sustainability score: 87.06.
+SUP-056 total PO value USD: 306239.11.
+
+---
+
+SUP-057 SUP-057 SUP-057 SUP-057 SUP-057
+Exact supplier lookup for SUP-057.
+Supplier_ID is SUP-057.
+The supplier ID SUP-057 belongs to Norrsken Textiles AB.
+SUP-057 supplier name: Norrsken Textiles AB.
+SUP-057 region: EMEA.
+SUP-057 country: Sweden.
+SUP-057 product category: Industrial Textiles.
+SUP-057 contract tier: Tier-1.
+SUP-057 risk level: Medium.
+SUP-057 alternate supplier ID: SUP-005.
+SUP-057 active disruptions: Currency volatility flag, Geopolitical tension flag, Labour strike risk, Port congestion risk, Regulatory audit pending, Seasonal flood risk.
+SUP-057 average OTD rate percent: 94.22.
+SUP-057 average defect rate percent: 1.01.
+SUP-057 average compliance score: 88.24.
+SUP-057 average sustainability score: 89.29.
+SUP-057 total PO value USD: 509745.89.
+
+---
+
+SUP-058 SUP-058 SUP-058 SUP-058 SUP-058
+Exact supplier lookup for SUP-058.
+Supplier_ID is SUP-058.
+The supplier ID SUP-058 belongs to Norbec Alloy Works.
+SUP-058 supplier name: Norbec Alloy Works.
+SUP-058 region: EMEA.
+SUP-058 country: Norway.
+SUP-058 product category: Specialty Alloys.
+SUP-058 contract tier: Tier-1.
+SUP-058 risk level: Low.
+SUP-058 alternate supplier ID: SUP-006.
+SUP-058 active disruptions: Political instability flag, Regulatory enforcement pending, Seasonal flood risk, Tariff adjustment pending.
+SUP-058 average OTD rate percent: 93.42.
+SUP-058 average defect rate percent: 1.02.
+SUP-058 average compliance score: 91.35.
+SUP-058 average sustainability score: 84.12.
+SUP-058 total PO value USD: 2735906.82.
+
+---
+
+SUP-059 SUP-059 SUP-059 SUP-059 SUP-059
+Exact supplier lookup for SUP-059.
+Supplier_ID is SUP-059.
+The supplier ID SUP-059 belongs to Fjord Polymer AS.
+SUP-059 supplier name: Fjord Polymer AS.
+SUP-059 region: EMEA.
+SUP-059 country: Norway.
+SUP-059 product category: Raw Materials.
+SUP-059 contract tier: Tier-1.
+SUP-059 risk level: Low.
+SUP-059 alternate supplier ID: SUP-092.
+SUP-059 active disruptions: Export license risk, Port closure risk, Seasonal flood risk, Tariff adjustment pending.
+SUP-059 average OTD rate percent: 93.33.
+SUP-059 average defect rate percent: 0.97.
+SUP-059 average compliance score: 88.53.
+SUP-059 average sustainability score: 85.06.
+SUP-059 total PO value USD: 1391817.88.
+
+---
+
+SUP-060 SUP-060 SUP-060 SUP-060 SUP-060
+Exact supplier lookup for SUP-060.
+Supplier_ID is SUP-060.
+The supplier ID SUP-060 belongs to Nordloom Finland Oy.
+SUP-060 supplier name: Nordloom Finland Oy.
+SUP-060 region: EMEA.
+SUP-060 country: Finland.
+SUP-060 product category: Industrial Textiles.
+SUP-060 contract tier: Tier-1.
+SUP-060 risk level: Medium.
+SUP-060 alternate supplier ID: SUP-005.
+SUP-060 active disruptions: Audit overdue; compliance review, Geopolitical tension flag, Seasonal flood risk, Tariff adjustment pending.
+SUP-060 average OTD rate percent: 94.43.
+SUP-060 average defect rate percent: 1.06.
+SUP-060 average compliance score: 90.47.
+SUP-060 average sustainability score: 83.12.
+SUP-060 total PO value USD: 406982.47.
+
+---
+
+SUP-061 SUP-061 SUP-061 SUP-061 SUP-061
+Exact supplier lookup for SUP-061.
+Supplier_ID is SUP-061.
+The supplier ID SUP-061 belongs to Helsinki Pack Oy.
+SUP-061 supplier name: Helsinki Pack Oy.
+SUP-061 region: EMEA.
+SUP-061 country: Finland.
+SUP-061 product category: Packaging Materials.
+SUP-061 contract tier: Tier-2.
+SUP-061 risk level: Medium.
+SUP-061 alternate supplier ID: SUP-003.
+SUP-061 active disruptions: Political instability flag, Port closure risk, Port congestion risk, Regulatory audit pending, Regulatory enforcement pending, Seasonal flood risk, Typhoon season disruption.
+SUP-061 average OTD rate percent: 84.88.
+SUP-061 average defect rate percent: 1.54.
+SUP-061 average compliance score: 76.76.
+SUP-061 average sustainability score: 64.35.
+SUP-061 total PO value USD: 694215.92.
+
+---
+
+SUP-062 SUP-062 SUP-062 SUP-062 SUP-062
+Exact supplier lookup for SUP-062.
+Supplier_ID is SUP-062.
+The supplier ID SUP-062 belongs to Borealis Composites.
+SUP-062 supplier name: Borealis Composites.
+SUP-062 region: EMEA.
+SUP-062 country: Denmark.
+SUP-062 product category: Raw Materials.
+SUP-062 contract tier: Tier-1.
+SUP-062 risk level: Low.
+SUP-062 alternate supplier ID: SUP-051.
+SUP-062 active disruptions: Currency volatility flag, Geopolitical tension flag, Port closure risk, Port congestion risk, Regulatory audit pending, Typhoon season disruption.
+SUP-062 average OTD rate percent: 93.62.
+SUP-062 average defect rate percent: 0.94.
+SUP-062 average compliance score: 88.65.
+SUP-062 average sustainability score: 85.88.
+SUP-062 total PO value USD: 1699860.45.
+
+---
+
+SUP-063 SUP-063 SUP-063 SUP-063 SUP-063
+Exact supplier lookup for SUP-063.
+Supplier_ID is SUP-063.
+The supplier ID SUP-063 belongs to Elsinor Pack AS.
+SUP-063 supplier name: Elsinor Pack AS.
+SUP-063 region: EMEA.
+SUP-063 country: Denmark.
+SUP-063 product category: Packaging Materials.
+SUP-063 contract tier: Tier-2.
+SUP-063 risk level: Low.
+SUP-063 alternate supplier ID: SUP-038.
+SUP-063 active disruptions: Audit overdue; compliance review, Geopolitical tension flag, Political instability flag, Port congestion risk, Regulatory audit pending, Regulatory enforcement pending, Tariff adjustment pending, Typhoon season disruption.
+SUP-063 average OTD rate percent: 87.76.
+SUP-063 average defect rate percent: 1.85.
+SUP-063 average compliance score: 82.94.
+SUP-063 average sustainability score: 67.18.
+SUP-063 total PO value USD: 914050.56.
+
+---
+
+SUP-064 SUP-064 SUP-064 SUP-064 SUP-064
+Exact supplier lookup for SUP-064.
+Supplier_ID is SUP-064.
+The supplier ID SUP-064 belongs to Ostwind Composites AG.
+SUP-064 supplier name: Ostwind Composites AG.
+SUP-064 region: EMEA.
+SUP-064 country: Austria.
+SUP-064 product category: Raw Materials.
+SUP-064 contract tier: Tier-1.
+SUP-064 risk level: Low.
+SUP-064 alternate supplier ID: SUP-084.
+SUP-064 active disruptions: Currency volatility flag, Geopolitical tension flag, Regulatory audit pending, Regulatory enforcement pending, Tariff adjustment pending, Typhoon season disruption.
+SUP-064 average OTD rate percent: 93.65.
+SUP-064 average defect rate percent: 1.08.
+SUP-064 average compliance score: 89.82.
+SUP-064 average sustainability score: 85.0.
+SUP-064 total PO value USD: 1402260.91.
+
+---
+
+SUP-065 SUP-065 SUP-065 SUP-065 SUP-065
+Exact supplier lookup for SUP-065.
+Supplier_ID is SUP-065.
+The supplier ID SUP-065 belongs to Wiener Alloy GmbH.
+SUP-065 supplier name: Wiener Alloy GmbH.
+SUP-065 region: EMEA.
+SUP-065 country: Austria.
+SUP-065 product category: Specialty Alloys.
+SUP-065 contract tier: Tier-2.
+SUP-065 risk level: Low.
+SUP-065 alternate supplier ID: SUP-048.
+SUP-065 active disruptions: Export license risk, Geopolitical tension flag, Port congestion risk, Typhoon season disruption.
+SUP-065 average OTD rate percent: 86.18.
+SUP-065 average defect rate percent: 1.71.
+SUP-065 average compliance score: 80.76.
+SUP-065 average sustainability score: 63.71.
+SUP-065 total PO value USD: 8141932.49.
+
+---
+
+SUP-066 SUP-066 SUP-066 SUP-066 SUP-066
+Exact supplier lookup for SUP-066.
+Supplier_ID is SUP-066.
+The supplier ID SUP-066 belongs to Valdoro Special Alloys.
+SUP-066 supplier name: Valdoro Special Alloys.
+SUP-066 region: EMEA.
+SUP-066 country: Italy.
+SUP-066 product category: Specialty Alloys.
+SUP-066 contract tier: Tier-1.
+SUP-066 risk level: Low.
+SUP-066 alternate supplier ID: SUP-047.
+SUP-066 active disruptions: Audit overdue; compliance review, Port closure risk, Port congestion risk, Regulatory audit pending, Typhoon season disruption.
+SUP-066 average OTD rate percent: 94.48.
+SUP-066 average defect rate percent: 0.88.
+SUP-066 average compliance score: 88.53.
+SUP-066 average sustainability score: 84.59.
+SUP-066 total PO value USD: 2790200.18.
+
+---
+
+SUP-067 SUP-067 SUP-067 SUP-067 SUP-067
+Exact supplier lookup for SUP-067.
+Supplier_ID is SUP-067.
+The supplier ID SUP-067 belongs to Braccio Metalli SpA.
+SUP-067 supplier name: Braccio Metalli SpA.
+SUP-067 region: EMEA.
+SUP-067 country: Italy.
+SUP-067 product category: Specialty Alloys.
+SUP-067 contract tier: Tier-2.
+SUP-067 risk level: Medium.
+SUP-067 alternate supplier ID: SUP-019.
+SUP-067 active disruptions: Audit overdue; compliance review, Currency volatility flag, Geopolitical tension flag, Port congestion risk, Regulatory audit pending.
+SUP-067 average OTD rate percent: 86.27.
+SUP-067 average defect rate percent: 1.79.
+SUP-067 average compliance score: 78.0.
+SUP-067 average sustainability score: 68.41.
+SUP-067 total PO value USD: 9625790.67.
+
+---
+
+SUP-068 SUP-068 SUP-068 SUP-068 SUP-068
+Exact supplier lookup for SUP-068.
+Supplier_ID is SUP-068.
+The supplier ID SUP-068 belongs to Milano Textil Srl.
+SUP-068 supplier name: Milano Textil Srl.
+SUP-068 region: EMEA.
+SUP-068 country: Italy.
+SUP-068 product category: Industrial Textiles.
+SUP-068 contract tier: Tier-2.
+SUP-068 risk level: High.
+SUP-068 alternate supplier ID: SUP-057.
+SUP-068 active disruptions: Currency volatility flag, Export license risk, Geopolitical tension flag, Labour strike risk, Port closure risk, Port congestion risk, Seasonal flood risk, Tariff adjustment pending, Typhoon season disruption.
+SUP-068 average OTD rate percent: 83.36.
+SUP-068 average defect rate percent: 1.79.
+SUP-068 average compliance score: 79.0.
+SUP-068 average sustainability score: 68.18.
+SUP-068 total PO value USD: 1701983.81.
+
+---
+
+SUP-069 SUP-069 SUP-069 SUP-069 SUP-069
+Exact supplier lookup for SUP-069.
+Supplier_ID is SUP-069.
+The supplier ID SUP-069 belongs to Ibervex Quimica SL.
+SUP-069 supplier name: Ibervex Quimica SL.
+SUP-069 region: EMEA.
+SUP-069 country: Spain.
+SUP-069 product category: Raw Materials.
+SUP-069 contract tier: Tier-2.
+SUP-069 risk level: Medium.
+SUP-069 alternate supplier ID: SUP-076.
+SUP-069 active disruptions: Audit overdue; compliance review, Geopolitical tension flag, Labour strike risk, Port congestion risk, Regulatory audit pending, Seasonal flood risk, Tariff adjustment pending.
+SUP-069 average OTD rate percent: 87.61.
+SUP-069 average defect rate percent: 1.69.
+SUP-069 average compliance score: 78.88.
+SUP-069 average sustainability score: 62.76.
+SUP-069 total PO value USD: 5194200.22.
+
+---
+
+SUP-070 SUP-070 SUP-070 SUP-070 SUP-070
+Exact supplier lookup for SUP-070.
+Supplier_ID is SUP-070.
+The supplier ID SUP-070 belongs to Catalan Pack SA.
+SUP-070 supplier name: Catalan Pack SA.
+SUP-070 region: EMEA.
+SUP-070 country: Spain.
+SUP-070 product category: Packaging Materials.
+SUP-070 contract tier: Tier-2.
+SUP-070 risk level: Low.
+SUP-070 alternate supplier ID: SUP-005.
+SUP-070 active disruptions: Currency volatility flag, Geopolitical tension flag, Labour strike risk, Port closure risk, Port congestion risk, Regulatory audit pending, Regulatory enforcement pending.
+SUP-070 average OTD rate percent: 86.92.
+SUP-070 average defect rate percent: 1.82.
+SUP-070 average compliance score: 77.88.
+SUP-070 average sustainability score: 69.06.
+SUP-070 total PO value USD: 733839.09.
+
+---
+
+SUP-071 SUP-071 SUP-071 SUP-071 SUP-071
+Exact supplier lookup for SUP-071.
+Supplier_ID is SUP-071.
+The supplier ID SUP-071 belongs to Ferralux Gulf FZE.
+SUP-071 supplier name: Ferralux Gulf FZE.
+SUP-071 region: EMEA.
+SUP-071 country: UAE.
+SUP-071 product category: Specialty Alloys.
+SUP-071 contract tier: Tier-2.
+SUP-071 risk level: Low.
+SUP-071 alternate supplier ID: SUP-006.
+SUP-071 active disruptions: Currency volatility flag, Labour strike risk, Port closure risk, Regulatory audit pending, Regulatory enforcement pending, Seasonal flood risk, Tariff adjustment pending.
+SUP-071 average OTD rate percent: 87.91.
+SUP-071 average defect rate percent: 1.84.
+SUP-071 average compliance score: 79.18.
+SUP-071 average sustainability score: 67.88.
+SUP-071 total PO value USD: 9525326.57.
+
+---
+
+SUP-072 SUP-072 SUP-072 SUP-072 SUP-072
+Exact supplier lookup for SUP-072.
+Supplier_ID is SUP-072.
+The supplier ID SUP-072 belongs to Almaral Steel FZC.
+SUP-072 supplier name: Almaral Steel FZC.
+SUP-072 region: EMEA.
+SUP-072 country: UAE.
+SUP-072 product category: Specialty Alloys.
+SUP-072 contract tier: Tier-2.
+SUP-072 risk level: Medium.
+SUP-072 alternate supplier ID: SUP-057.
+SUP-072 active disruptions: Audit overdue; compliance review, Currency volatility flag, Geopolitical tension flag, Political instability flag, Port closure risk, Port congestion risk, Regulatory audit pending, Regulatory enforcement pending, Tariff adjustment pending.
+SUP-072 average OTD rate percent: 85.75.
+SUP-072 average defect rate percent: 1.74.
+SUP-072 average compliance score: 79.94.
+SUP-072 average sustainability score: 65.35.
+SUP-072 total PO value USD: 9330113.92.
+
+---
+
+SUP-073 SUP-073 SUP-073 SUP-073 SUP-073
+Exact supplier lookup for SUP-073.
+Supplier_ID is SUP-073.
+The supplier ID SUP-073 belongs to Dubai Pack FZE.
+SUP-073 supplier name: Dubai Pack FZE.
+SUP-073 region: EMEA.
+SUP-073 country: UAE.
+SUP-073 product category: Packaging Materials.
+SUP-073 contract tier: Tier-2.
+SUP-073 risk level: Medium.
+SUP-073 alternate supplier ID: SUP-007.
+SUP-073 active disruptions: Export license risk, Geopolitical tension flag, Political instability flag, Port closure risk, Port congestion risk, Regulatory audit pending, Regulatory enforcement pending, Tariff adjustment pending, Typhoon season disruption.
+SUP-073 average OTD rate percent: 86.69.
+SUP-073 average defect rate percent: 1.84.
+SUP-073 average compliance score: 82.47.
+SUP-073 average sustainability score: 68.94.
+SUP-073 total PO value USD: 1238050.32.
+
+---
+
+SUP-074 SUP-074 SUP-074 SUP-074 SUP-074
+Exact supplier lookup for SUP-074.
+Supplier_ID is SUP-074.
+The supplier ID SUP-074 belongs to Novex Fab Polska.
+SUP-074 supplier name: Novex Fab Polska.
+SUP-074 region: EMEA.
+SUP-074 country: Poland.
+SUP-074 product category: Mechanical Components.
+SUP-074 contract tier: Tier-2.
+SUP-074 risk level: Low.
+SUP-074 alternate supplier ID: SUP-080.
+SUP-074 active disruptions: Currency volatility flag, Export license risk, Political instability flag, Port congestion risk, Typhoon season disruption.
+SUP-074 average OTD rate percent: 88.39.
+SUP-074 average defect rate percent: 1.96.
+SUP-074 average compliance score: 75.94.
+SUP-074 average sustainability score: 69.47.
+SUP-074 total PO value USD: 2004703.11.
+
+---
+
+SUP-075 SUP-075 SUP-075 SUP-075 SUP-075
+Exact supplier lookup for SUP-075.
+Supplier_ID is SUP-075.
+The supplier ID SUP-075 belongs to Vistula Pack Sp.
+SUP-075 supplier name: Vistula Pack Sp.
+SUP-075 region: EMEA.
+SUP-075 country: Poland.
+SUP-075 product category: Packaging Materials.
+SUP-075 contract tier: Tier-3.
+SUP-075 risk level: High.
+SUP-075 alternate supplier ID: SUP-096.
+SUP-075 active disruptions: Audit overdue; compliance review, Currency volatility flag, Export license risk, Geopolitical tension flag, Labour strike risk, Port closure risk, Regulatory audit pending, Regulatory enforcement pending, Seasonal flood risk, Tariff adjustment pending, Typhoon season disruption.
+SUP-075 average OTD rate percent: 72.49.
+SUP-075 average defect rate percent: 3.2.
+SUP-075 average compliance score: 62.76.
+SUP-075 average sustainability score: 47.53.
+SUP-075 total PO value USD: 1177759.34.
+
+---
+
+SUP-076 SUP-076 SUP-076 SUP-076 SUP-076
+Exact supplier lookup for SUP-076.
+Supplier_ID is SUP-076.
+The supplier ID SUP-076 belongs to BalticPrint OU.
+SUP-076 supplier name: BalticPrint OU.
+SUP-076 region: EMEA.
+SUP-076 country: Estonia.
+SUP-076 product category: Packaging Materials.
+SUP-076 contract tier: Tier-2.
+SUP-076 risk level: Medium.
+SUP-076 alternate supplier ID: SUP-003.
+SUP-076 active disruptions: Export license risk, Geopolitical tension flag, Regulatory enforcement pending, Seasonal flood risk, Tariff adjustment pending, Typhoon season disruption.
+SUP-076 average OTD rate percent: 85.82.
+SUP-076 average defect rate percent: 1.93.
+SUP-076 average compliance score: 78.76.
+SUP-076 average sustainability score: 68.71.
+SUP-076 total PO value USD: 1192267.4.
+
+---
+
+SUP-077 SUP-077 SUP-077 SUP-077 SUP-077
+Exact supplier lookup for SUP-077.
+Supplier_ID is SUP-077.
+The supplier ID SUP-077 belongs to Kovalev Metalburg.
+SUP-077 supplier name: Kovalev Metalburg.
+SUP-077 region: EMEA.
+SUP-077 country: Czechia.
+SUP-077 product category: Mechanical Components.
+SUP-077 contract tier: Tier-2.
+SUP-077 risk level: Medium.
+SUP-077 alternate supplier ID: SUP-002.
+SUP-077 active disruptions: Export license risk, Geopolitical tension flag, Port congestion risk, Seasonal flood risk, Tariff adjustment pending.
+SUP-077 average OTD rate percent: 85.41.
+SUP-077 average defect rate percent: 1.45.
+SUP-077 average compliance score: 80.71.
+SUP-077 average sustainability score: 66.29.
+SUP-077 total PO value USD: 2307546.66.
+
+---
+
+SUP-078 SUP-078 SUP-078 SUP-078 SUP-078
+Exact supplier lookup for SUP-078.
+Supplier_ID is SUP-078.
+The supplier ID SUP-078 belongs to Varna Electronics EAD.
+SUP-078 supplier name: Varna Electronics EAD.
+SUP-078 region: EMEA.
+SUP-078 country: Bulgaria.
+SUP-078 product category: Electronic Components.
+SUP-078 contract tier: Tier-3.
+SUP-078 risk level: High.
+SUP-078 alternate supplier ID: SUP-047.
+SUP-078 active disruptions: Labour strike risk, Political instability flag, Port closure risk, Port congestion risk, Regulatory audit pending, Regulatory enforcement pending, Tariff adjustment pending, Typhoon season disruption.
+SUP-078 average OTD rate percent: 74.42.
+SUP-078 average defect rate percent: 2.64.
+SUP-078 average compliance score: 64.12.
+SUP-078 average sustainability score: 43.65.
+SUP-078 total PO value USD: 4647913.6.
+
+---
+
+SUP-079 SUP-079 SUP-079 SUP-079 SUP-079
+Exact supplier lookup for SUP-079.
+Supplier_ID is SUP-079.
+The supplier ID SUP-079 belongs to Helios Pack Greece.
+SUP-079 supplier name: Helios Pack Greece.
+SUP-079 region: EMEA.
+SUP-079 country: Greece.
+SUP-079 product category: Packaging Materials.
+SUP-079 contract tier: Tier-3.
+SUP-079 risk level: High.
+SUP-079 alternate supplier ID: SUP-035.
+SUP-079 active disruptions: Audit overdue; compliance review, Currency volatility flag, Export license risk, Geopolitical tension flag, Labour strike risk, Port congestion risk, Regulatory audit pending, Regulatory enforcement pending, Typhoon season disruption.
+SUP-079 average OTD rate percent: 75.86.
+SUP-079 average defect rate percent: 2.71.
+SUP-079 average compliance score: 62.41.
+SUP-079 average sustainability score: 45.59.
+SUP-079 total PO value USD: 1287023.57.
+
+---
+
+SUP-080 SUP-080 SUP-080 SUP-080 SUP-080
+Exact supplier lookup for SUP-080.
+Supplier_ID is SUP-080.
+The supplier ID SUP-080 belongs to Maghreb Castworks.
+SUP-080 supplier name: Maghreb Castworks.
+SUP-080 region: EMEA.
+SUP-080 country: Morocco.
+SUP-080 product category: Mechanical Components.
+SUP-080 contract tier: Tier-3.
+SUP-080 risk level: High.
+SUP-080 alternate supplier ID: SUP-048.
+SUP-080 active disruptions: Audit overdue; compliance review, Currency volatility flag, Export license risk, Geopolitical tension flag, Labour strike risk, Port closure risk, Regulatory enforcement pending, Tariff adjustment pending, Typhoon season disruption.
+SUP-080 average OTD rate percent: 72.54.
+SUP-080 average defect rate percent: 2.85.
+SUP-080 average compliance score: 59.88.
+SUP-080 average sustainability score: 45.47.
+SUP-080 total PO value USD: 3332740.62.
+
+---
+
+SUP-081 SUP-081 SUP-081 SUP-081 SUP-081
+Exact supplier lookup for SUP-081.
+Supplier_ID is SUP-081.
+The supplier ID SUP-081 belongs to Lisbon Polymer Lda.
+SUP-081 supplier name: Lisbon Polymer Lda.
+SUP-081 region: EMEA.
+SUP-081 country: Portugal.
+SUP-081 product category: Raw Materials.
+SUP-081 contract tier: Tier-2.
+SUP-081 risk level: Medium.
+SUP-081 alternate supplier ID: SUP-009.
+SUP-081 active disruptions: Export license risk, Geopolitical tension flag, Political instability flag, Port congestion risk, Regulatory enforcement pending, Seasonal flood risk, Tariff adjustment pending.
+SUP-081 average OTD rate percent: 87.29.
+SUP-081 average defect rate percent: 2.06.
+SUP-081 average compliance score: 78.06.
+SUP-081 average sustainability score: 65.53.
+SUP-081 total PO value USD: 6208222.51.
+
+---
+
+SUP-082 SUP-082 SUP-082 SUP-082 SUP-082
+Exact supplier lookup for SUP-082.
+Supplier_ID is SUP-082.
+The supplier ID SUP-082 belongs to Veltara Packing Solutions.
+SUP-082 supplier name: Veltara Packing Solutions.
+SUP-082 region: LATAM.
+SUP-082 country: Brazil.
+SUP-082 product category: Packaging Materials.
+SUP-082 contract tier: Tier-2.
+SUP-082 risk level: Medium.
+SUP-082 alternate supplier ID: SUP-079.
+SUP-082 active disruptions: Audit overdue; compliance review, Currency volatility flag, Geopolitical tension flag, Port closure risk, Port congestion risk, Regulatory audit pending, Regulatory enforcement pending, Tariff adjustment pending.
+SUP-082 average OTD rate percent: 85.25.
+SUP-082 average defect rate percent: 1.56.
+SUP-082 average compliance score: 79.94.
+SUP-082 average sustainability score: 71.06.
+SUP-082 total PO value USD: 916686.63.
+
+---
+
+SUP-083 SUP-083 SUP-083 SUP-083 SUP-083
+Exact supplier lookup for SUP-083.
+Supplier_ID is SUP-083.
+The supplier ID SUP-083 belongs to Sao Paulo Polymer.
+SUP-083 supplier name: Sao Paulo Polymer.
+SUP-083 region: LATAM.
+SUP-083 country: Brazil.
+SUP-083 product category: Raw Materials.
+SUP-083 contract tier: Tier-2.
+SUP-083 risk level: Medium.
+SUP-083 alternate supplier ID: SUP-020.
+SUP-083 active disruptions: Audit overdue; compliance review, Geopolitical tension flag, Port closure risk, Regulatory enforcement pending, Seasonal flood risk, Tariff adjustment pending, Typhoon season disruption.
+SUP-083 average OTD rate percent: 86.93.
+SUP-083 average defect rate percent: 1.87.
+SUP-083 average compliance score: 82.59.
+SUP-083 average sustainability score: 66.35.
+SUP-083 total PO value USD: 5124519.22.
+
+---
+
+SUP-084 SUP-084 SUP-084 SUP-084 SUP-084
+Exact supplier lookup for SUP-084.
+Supplier_ID is SUP-084.
+The supplier ID SUP-084 belongs to Recife Textiles SA.
+SUP-084 supplier name: Recife Textiles SA.
+SUP-084 region: LATAM.
+SUP-084 country: Brazil.
+SUP-084 product category: Industrial Textiles.
+SUP-084 contract tier: Tier-2.
+SUP-084 risk level: Medium.
+SUP-084 alternate supplier ID: SUP-037.
+SUP-084 active disruptions: Geopolitical tension flag, Port closure risk, Port congestion risk, Regulatory audit pending, Regulatory enforcement pending, Seasonal flood risk, Typhoon season disruption.
+SUP-084 average OTD rate percent: 86.84.
+SUP-084 average defect rate percent: 1.73.
+SUP-084 average compliance score: 77.18.
+SUP-084 average sustainability score: 68.0.
+SUP-084 total PO value USD: 1086569.5.
+
+---
+
+SUP-085 SUP-085 SUP-085 SUP-085 SUP-085
+Exact supplier lookup for SUP-085.
+Supplier_ID is SUP-085.
+The supplier ID SUP-085 belongs to Minas Gerais Alloys.
+SUP-085 supplier name: Minas Gerais Alloys.
+SUP-085 region: LATAM.
+SUP-085 country: Brazil.
+SUP-085 product category: Specialty Alloys.
+SUP-085 contract tier: Tier-2.
+SUP-085 risk level: Medium.
+SUP-085 alternate supplier ID: SUP-001.
+SUP-085 active disruptions: Currency volatility flag, Geopolitical tension flag, Labour strike risk, Port congestion risk, Regulatory audit pending, Seasonal flood risk, Typhoon season disruption.
+SUP-085 average OTD rate percent: 84.69.
+SUP-085 average defect rate percent: 2.0.
+SUP-085 average compliance score: 80.35.
+SUP-085 average sustainability score: 66.53.
+SUP-085 total PO value USD: 8225174.12.
+
+---
+
+SUP-086 SUP-086 SUP-086 SUP-086 SUP-086
+Exact supplier lookup for SUP-086.
+Supplier_ID is SUP-086.
+The supplier ID SUP-086 belongs to Tecovar Industrial Textiles.
+SUP-086 supplier name: Tecovar Industrial Textiles.
+SUP-086 region: LATAM.
+SUP-086 country: Mexico.
+SUP-086 product category: Industrial Textiles.
+SUP-086 contract tier: Tier-2.
+SUP-086 risk level: Medium.
+SUP-086 alternate supplier ID: SUP-006.
+SUP-086 active disruptions: Currency volatility flag, Export license risk, Geopolitical tension flag, Port congestion risk, Regulatory audit pending, Typhoon season disruption.
+SUP-086 average OTD rate percent: 86.68.
+SUP-086 average defect rate percent: 1.92.
+SUP-086 average compliance score: 82.18.
+SUP-086 average sustainability score: 63.94.
+SUP-086 total PO value USD: 1958107.99.
+
+---
+
+SUP-087 SUP-087 SUP-087 SUP-087 SUP-087
+Exact supplier lookup for SUP-087.
+Supplier_ID is SUP-087.
+The supplier ID SUP-087 belongs to Guadalajara Mold Co.
+SUP-087 supplier name: Guadalajara Mold Co.
+SUP-087 region: LATAM.
+SUP-087 country: Mexico.
+SUP-087 product category: Mechanical Components.
+SUP-087 contract tier: Tier-2.
+SUP-087 risk level: Low.
+SUP-087 alternate supplier ID: SUP-006.
+SUP-087 active disruptions: Geopolitical tension flag, Port congestion risk, Tariff adjustment pending, Typhoon season disruption.
+SUP-087 average OTD rate percent: 84.83.
+SUP-087 average defect rate percent: 2.06.
+SUP-087 average compliance score: 81.65.
+SUP-087 average sustainability score: 65.35.
+SUP-087 total PO value USD: 2136677.95.
+
+---
+
+SUP-088 SUP-088 SUP-088 SUP-088 SUP-088
+Exact supplier lookup for SUP-088.
+Supplier_ID is SUP-088.
+The supplier ID SUP-088 belongs to Monterrey Pack SA.
+SUP-088 supplier name: Monterrey Pack SA.
+SUP-088 region: LATAM.
+SUP-088 country: Mexico.
+SUP-088 product category: Packaging Materials.
+SUP-088 contract tier: Tier-2.
+SUP-088 risk level: Medium.
+SUP-088 alternate supplier ID: SUP-002.
+SUP-088 active disruptions: Port closure risk, Port congestion risk, Regulatory audit pending, Regulatory enforcement pending, Seasonal flood risk, Tariff adjustment pending, Typhoon season disruption.
+SUP-088 average OTD rate percent: 86.99.
+SUP-088 average defect rate percent: 1.89.
+SUP-088 average compliance score: 77.06.
+SUP-088 average sustainability score: 67.12.
+SUP-088 total PO value USD: 1022512.74.
+
+---
+
+SUP-089 SUP-089 SUP-089 SUP-089 SUP-089
+Exact supplier lookup for SUP-089.
+Supplier_ID is SUP-089.
+The supplier ID SUP-089 belongs to Yucatan Polymer Mfg.
+SUP-089 supplier name: Yucatan Polymer Mfg.
+SUP-089 region: LATAM.
+SUP-089 country: Mexico.
+SUP-089 product category: Raw Materials.
+SUP-089 contract tier: Tier-3.
+SUP-089 risk level: High.
+SUP-089 alternate supplier ID: SUP-019.
+SUP-089 active disruptions: Currency volatility flag, Geopolitical tension flag, Labour strike risk, Port closure risk, Seasonal flood risk, Tariff adjustment pending, Typhoon season disruption.
+SUP-089 average OTD rate percent: 72.27.
+SUP-089 average defect rate percent: 3.08.
+SUP-089 average compliance score: 64.47.
+SUP-089 average sustainability score: 49.18.
+SUP-089 total PO value USD: 8442197.7.
+
+---
+
+SUP-090 SUP-090 SUP-090 SUP-090 SUP-090
+Exact supplier lookup for SUP-090.
+Supplier_ID is SUP-090.
+The supplier ID SUP-090 belongs to Plataforma Metales SA.
+SUP-090 supplier name: Plataforma Metales SA.
+SUP-090 region: LATAM.
+SUP-090 country: Argentina.
+SUP-090 product category: Raw Materials.
+SUP-090 contract tier: Tier-3.
+SUP-090 risk level: High.
+SUP-090 alternate supplier ID: SUP-018.
+SUP-090 active disruptions: Audit overdue; compliance review, Currency volatility flag, Export license risk, Geopolitical tension flag, Labour strike risk, Political instability flag, Port closure risk, Regulatory audit pending, Regulatory enforcement pending, Seasonal flood risk.
+SUP-090 average OTD rate percent: 72.94.
+SUP-090 average defect rate percent: 3.43.
+SUP-090 average compliance score: 65.24.
+SUP-090 average sustainability score: 49.12.
+SUP-090 total PO value USD: 8108557.46.
+
+---
+
+SUP-091 SUP-091 SUP-091 SUP-091 SUP-091
+Exact supplier lookup for SUP-091.
+Supplier_ID is SUP-091.
+The supplier ID SUP-091 belongs to Patagonia Alloys SRL.
+SUP-091 supplier name: Patagonia Alloys SRL.
+SUP-091 region: LATAM.
+SUP-091 country: Argentina.
+SUP-091 product category: Specialty Alloys.
+SUP-091 contract tier: Tier-3.
+SUP-091 risk level: High.
+SUP-091 alternate supplier ID: SUP-106.
+SUP-091 active disruptions: Audit overdue; compliance review, Currency volatility flag, Export license risk, Geopolitical tension flag, Labour strike risk, Political instability flag, Regulatory audit pending, Seasonal flood risk, Tariff adjustment pending.
+SUP-091 average OTD rate percent: 72.12.
+SUP-091 average defect rate percent: 3.12.
+SUP-091 average compliance score: 64.06.
+SUP-091 average sustainability score: 47.24.
+SUP-091 total PO value USD: 13980886.91.
+
+---
+
+SUP-092 SUP-092 SUP-092 SUP-092 SUP-092
+Exact supplier lookup for SUP-092.
+Supplier_ID is SUP-092.
+The supplier ID SUP-092 belongs to Buenos Aires Pack.
+SUP-092 supplier name: Buenos Aires Pack.
+SUP-092 region: LATAM.
+SUP-092 country: Argentina.
+SUP-092 product category: Packaging Materials.
+SUP-092 contract tier: Tier-3.
+SUP-092 risk level: High.
+SUP-092 alternate supplier ID: SUP-009.
+SUP-092 active disruptions: Audit overdue; compliance review, Export license risk, Labour strike risk, Port closure risk, Port congestion risk, Regulatory audit pending, Regulatory enforcement pending, Seasonal flood risk, Typhoon season disruption.
+SUP-092 average OTD rate percent: 72.39.
+SUP-092 average defect rate percent: 2.52.
+SUP-092 average compliance score: 59.18.
+SUP-092 average sustainability score: 49.59.
+SUP-092 total PO value USD: 1439440.11.
+
+---
+
+SUP-093 SUP-093 SUP-093 SUP-093 SUP-093
+Exact supplier lookup for SUP-093.
+Supplier_ID is SUP-093.
+The supplier ID SUP-093 belongs to Andino Fiber Corp.
+SUP-093 supplier name: Andino Fiber Corp.
+SUP-093 region: LATAM.
+SUP-093 country: Colombia.
+SUP-093 product category: Industrial Textiles.
+SUP-093 contract tier: Tier-2.
+SUP-093 risk level: Medium.
+SUP-093 alternate supplier ID: SUP-005.
+SUP-093 active disruptions: Audit overdue; compliance review, Currency volatility flag, Export license risk, Political instability flag, Port congestion risk, Regulatory audit pending, Seasonal flood risk, Tariff adjustment pending.
+SUP-093 average OTD rate percent: 87.52.
+SUP-093 average defect rate percent: 1.94.
+SUP-093 average compliance score: 78.71.
+SUP-093 average sustainability score: 62.41.
+SUP-093 total PO value USD: 1682976.65.
+
+---
+
+SUP-094 SUP-094 SUP-094 SUP-094 SUP-094
+Exact supplier lookup for SUP-094.
+Supplier_ID is SUP-094.
+The supplier ID SUP-094 belongs to Bogota Pack Ltda.
+SUP-094 supplier name: Bogota Pack Ltda.
+SUP-094 region: LATAM.
+SUP-094 country: Colombia.
+SUP-094 product category: Packaging Materials.
+SUP-094 contract tier: Tier-3.
+SUP-094 risk level: Medium.
+SUP-094 alternate supplier ID: SUP-101.
+SUP-094 active disruptions: Audit overdue; compliance review, Geopolitical tension flag, Labour strike risk, Political instability flag, Port closure risk, Regulatory audit pending, Regulatory enforcement pending, Tariff adjustment pending, Typhoon season disruption.
+SUP-094 average OTD rate percent: 70.99.
+SUP-094 average defect rate percent: 3.08.
+SUP-094 average compliance score: 61.59.
+SUP-094 average sustainability score: 44.82.
+SUP-094 total PO value USD: 1121220.83.
+
+---
+
+SUP-095 SUP-095 SUP-095 SUP-095 SUP-095
+Exact supplier lookup for SUP-095.
+Supplier_ID is SUP-095.
+The supplier ID SUP-095 belongs to Cerromax Mineria.
+SUP-095 supplier name: Cerromax Mineria.
+SUP-095 region: LATAM.
+SUP-095 country: Peru.
+SUP-095 product category: Raw Materials.
+SUP-095 contract tier: Tier-3.
+SUP-095 risk level: High.
+SUP-095 alternate supplier ID: SUP-010.
+SUP-095 active disruptions: Audit overdue; compliance review, Political instability flag, Port closure risk, Port congestion risk, Regulatory audit pending, Regulatory enforcement pending, Seasonal flood risk, Tariff adjustment pending.
+SUP-095 average OTD rate percent: 72.38.
+SUP-095 average defect rate percent: 3.03.
+SUP-095 average compliance score: 65.35.
+SUP-095 average sustainability score: 46.94.
+SUP-095 total PO value USD: 7195951.77.
+
+---
+
+SUP-096 SUP-096 SUP-096 SUP-096 SUP-096
+Exact supplier lookup for SUP-096.
+Supplier_ID is SUP-096.
+The supplier ID SUP-096 belongs to Lima Polymer SA.
+SUP-096 supplier name: Lima Polymer SA.
+SUP-096 region: LATAM.
+SUP-096 country: Peru.
+SUP-096 product category: Raw Materials.
+SUP-096 contract tier: Tier-3.
+SUP-096 risk level: High.
+SUP-096 alternate supplier ID: SUP-109.
+SUP-096 active disruptions: Audit overdue; compliance review, Currency volatility flag, Export license risk, Geopolitical tension flag, Labour strike risk, Port closure risk, Regulatory audit pending, Regulatory enforcement pending, Typhoon season disruption.
+SUP-096 average OTD rate percent: 73.09.
+SUP-096 average defect rate percent: 2.53.
+SUP-096 average compliance score: 63.53.
+SUP-096 average sustainability score: 48.41.
+SUP-096 total PO value USD: 8457944.13.
+
+---
+
+SUP-097 SUP-097 SUP-097 SUP-097 SUP-097
+Exact supplier lookup for SUP-097.
+Supplier_ID is SUP-097.
+The supplier ID SUP-097 belongs to Amapola Fibras.
+SUP-097 supplier name: Amapola Fibras.
+SUP-097 region: LATAM.
+SUP-097 country: Chile.
+SUP-097 product category: Industrial Textiles.
+SUP-097 contract tier: Tier-2.
+SUP-097 risk level: Medium.
+SUP-097 alternate supplier ID: SUP-094.
+SUP-097 active disruptions: Audit overdue; compliance review, Geopolitical tension flag, Labour strike risk, Political instability flag, Regulatory audit pending, Regulatory enforcement pending, Tariff adjustment pending.
+SUP-097 average OTD rate percent: 86.48.
+SUP-097 average defect rate percent: 1.89.
+SUP-097 average compliance score: 76.0.
+SUP-097 average sustainability score: 65.88.
+SUP-097 total PO value USD: 1840660.56.
+
+---
+
+SUP-098 SUP-098 SUP-098 SUP-098 SUP-098
+Exact supplier lookup for SUP-098.
+Supplier_ID is SUP-098.
+The supplier ID SUP-098 belongs to Cobre del Sur SA.
+SUP-098 supplier name: Cobre del Sur SA.
+SUP-098 region: LATAM.
+SUP-098 country: Chile.
+SUP-098 product category: Specialty Alloys.
+SUP-098 contract tier: Tier-2.
+SUP-098 risk level: Medium.
+SUP-098 alternate supplier ID: SUP-051.
+SUP-098 active disruptions: Audit overdue; compliance review, Geopolitical tension flag, Port closure risk, Port congestion risk, Regulatory audit pending, Seasonal flood risk, Tariff adjustment pending.
+SUP-098 average OTD rate percent: 88.46.
+SUP-098 average defect rate percent: 1.76.
+SUP-098 average compliance score: 80.24.
+SUP-098 average sustainability score: 63.76.
+SUP-098 total PO value USD: 6733948.91.
+
+---
+
+SUP-099 SUP-099 SUP-099 SUP-099 SUP-099
+Exact supplier lookup for SUP-099.
+Supplier_ID is SUP-099.
+The supplier ID SUP-099 belongs to Santiago Pack Corp.
+SUP-099 supplier name: Santiago Pack Corp.
+SUP-099 region: LATAM.
+SUP-099 country: Chile.
+SUP-099 product category: Packaging Materials.
+SUP-099 contract tier: Tier-2.
+SUP-099 risk level: Medium.
+SUP-099 alternate supplier ID: SUP-004.
+SUP-099 active disruptions: Currency volatility flag, Export license risk, Geopolitical tension flag, Port congestion risk, Regulatory audit pending, Tariff adjustment pending.
+SUP-099 average OTD rate percent: 85.99.
+SUP-099 average defect rate percent: 1.7.
+SUP-099 average compliance score: 80.35.
+SUP-099 average sustainability score: 59.71.
+SUP-099 total PO value USD: 959031.33.
+
+---
+
+SUP-100 SUP-100 SUP-100 SUP-100 SUP-100
+Exact supplier lookup for SUP-100.
+Supplier_ID is SUP-100.
+The supplier ID SUP-100 belongs to Orinoco Pack SAPI.
+SUP-100 supplier name: Orinoco Pack SAPI.
+SUP-100 region: LATAM.
+SUP-100 country: Venezuela.
+SUP-100 product category: Packaging Materials.
+SUP-100 contract tier: Tier-3.
+SUP-100 risk level: High.
+SUP-100 alternate supplier ID: SUP-002.
+SUP-100 active disruptions: Audit overdue; compliance review, Currency volatility flag, Export license risk, Geopolitical tension flag, Labour strike risk, Political instability flag, Regulatory audit pending, Seasonal flood risk, Tariff adjustment pending, Typhoon season disruption.
+SUP-100 average OTD rate percent: 72.35.
+SUP-100 average defect rate percent: 2.8.
+SUP-100 average compliance score: 62.59.
+SUP-100 average sustainability score: 49.65.
+SUP-100 total PO value USD: 1345067.87.
+
+---
+
+SUP-101 SUP-101 SUP-101 SUP-101 SUP-101
+Exact supplier lookup for SUP-101.
+Supplier_ID is SUP-101.
+The supplier ID SUP-101 belongs to Quetzal Textiles.
+SUP-101 supplier name: Quetzal Textiles.
+SUP-101 region: LATAM.
+SUP-101 country: Guatemala.
+SUP-101 product category: Industrial Textiles.
+SUP-101 contract tier: Tier-3.
+SUP-101 risk level: High.
+SUP-101 alternate supplier ID: SUP-076.
+SUP-101 active disruptions: Audit overdue; compliance review, Currency volatility flag, Export license risk, Labour strike risk, Political instability flag, Port congestion risk, Regulatory enforcement pending, Seasonal flood risk, Typhoon season disruption.
+SUP-101 average OTD rate percent: 75.19.
+SUP-101 average defect rate percent: 2.76.
+SUP-101 average compliance score: 61.76.
+SUP-101 average sustainability score: 41.18.
+SUP-101 total PO value USD: 2193532.56.
+
+---
+
+SUP-102 SUP-102 SUP-102 SUP-102 SUP-102
+Exact supplier lookup for SUP-102.
+Supplier_ID is SUP-102.
+The supplier ID SUP-102 belongs to Crestline Chemical Supply.
+SUP-102 supplier name: Crestline Chemical Supply.
+SUP-102 region: .
+SUP-102 country: USA.
+SUP-102 product category: Raw Materials.
+SUP-102 contract tier: Tier-1.
+SUP-102 risk level: Low.
+SUP-102 alternate supplier ID: SUP-005.
+SUP-102 active disruptions: Audit overdue; compliance review, Geopolitical tension flag, Seasonal flood risk.
+SUP-102 average OTD rate percent: 93.68.
+SUP-102 average defect rate percent: 0.93.
+SUP-102 average compliance score: 91.53.
+SUP-102 average sustainability score: 84.29.
+SUP-102 total PO value USD: 1578038.84.
+
+---
+
+SUP-103 SUP-103 SUP-103 SUP-103 SUP-103
+Exact supplier lookup for SUP-103.
+Supplier_ID is SUP-103.
+The supplier ID SUP-103 belongs to Fenwick Alloy Solutions.
+SUP-103 supplier name: Fenwick Alloy Solutions.
+SUP-103 region: .
+SUP-103 country: USA.
+SUP-103 product category: Specialty Alloys.
+SUP-103 contract tier: Tier-1.
+SUP-103 risk level: Medium.
+SUP-103 alternate supplier ID: SUP-010.
+SUP-103 active disruptions: Labour strike risk, Port congestion risk, Regulatory audit pending, Tariff adjustment pending.
+SUP-103 average OTD rate percent: 93.97.
+SUP-103 average defect rate percent: 0.96.
+SUP-103 average compliance score: 88.59.
+SUP-103 average sustainability score: 81.76.
+SUP-103 total PO value USD: 2944011.89.
+
+---
+
+SUP-104 SUP-104 SUP-104 SUP-104 SUP-104
+Exact supplier lookup for SUP-104.
+Supplier_ID is SUP-104.
+The supplier ID SUP-104 belongs to Ridgecroft Textiles.
+SUP-104 supplier name: Ridgecroft Textiles.
+SUP-104 region: .
+SUP-104 country: USA.
+SUP-104 product category: Industrial Textiles.
+SUP-104 contract tier: Tier-1.
+SUP-104 risk level: Low.
+SUP-104 alternate supplier ID: SUP-099.
+SUP-104 active disruptions: Port closure risk, Port congestion risk, Seasonal flood risk, Tariff adjustment pending.
+SUP-104 average OTD rate percent: 94.04.
+SUP-104 average defect rate percent: 0.84.
+SUP-104 average compliance score: 89.53.
+SUP-104 average sustainability score: 79.47.
+SUP-104 total PO value USD: 487220.36.
+
+---
+
+SUP-105 SUP-105 SUP-105 SUP-105 SUP-105
+Exact supplier lookup for SUP-105.
+Supplier_ID is SUP-105.
+The supplier ID SUP-105 belongs to Lakeshore Components.
+SUP-105 supplier name: Lakeshore Components.
+SUP-105 region: .
+SUP-105 country: USA.
+SUP-105 product category: Mechanical Components.
+SUP-105 contract tier: Tier-1.
+SUP-105 risk level: Low.
+SUP-105 alternate supplier ID: SUP-076.
+SUP-105 active disruptions: Geopolitical tension flag, Port congestion risk, Regulatory audit pending, Seasonal flood risk, Typhoon season disruption.
+SUP-105 average OTD rate percent: 94.77.
+SUP-105 average defect rate percent: 0.81.
+SUP-105 average compliance score: 88.59.
+SUP-105 average sustainability score: 81.06.
+SUP-105 total PO value USD: 576320.3.
+
+---
+
+SUP-106 SUP-106 SUP-106 SUP-106 SUP-106
+Exact supplier lookup for SUP-106.
+Supplier_ID is SUP-106.
+The supplier ID SUP-106 belongs to BlueMesa Polymers.
+SUP-106 supplier name: BlueMesa Polymers.
+SUP-106 region: .
+SUP-106 country: USA.
+SUP-106 product category: Raw Materials.
+SUP-106 contract tier: Tier-1.
+SUP-106 risk level: Low.
+SUP-106 alternate supplier ID: SUP-001.
+SUP-106 active disruptions: Geopolitical tension flag, Port closure risk, Seasonal flood risk.
+SUP-106 average OTD rate percent: 93.82.
+SUP-106 average defect rate percent: 0.93.
+SUP-106 average compliance score: 88.88.
+SUP-106 average sustainability score: 83.82.
+SUP-106 total PO value USD: 1758414.87.
+
+---
+
+SUP-107 SUP-107 SUP-107 SUP-107 SUP-107
+Exact supplier lookup for SUP-107.
+Supplier_ID is SUP-107.
+The supplier ID SUP-107 belongs to Cascade Pack Corp.
+SUP-107 supplier name: Cascade Pack Corp.
+SUP-107 region: .
+SUP-107 country: USA.
+SUP-107 product category: Packaging Materials.
+SUP-107 contract tier: Tier-1.
+SUP-107 risk level: Low.
+SUP-107 alternate supplier ID: SUP-070.
+SUP-107 active disruptions: Currency volatility flag, Geopolitical tension flag, Port closure risk, Port congestion risk, Regulatory audit pending, Regulatory enforcement pending, Tariff adjustment pending.
+SUP-107 average OTD rate percent: 92.79.
+SUP-107 average defect rate percent: 0.9.
+SUP-107 average compliance score: 91.06.
+SUP-107 average sustainability score: 84.82.
+SUP-107 total PO value USD: 224798.27.
+
+---
+
+SUP-108 SUP-108 SUP-108 SUP-108 SUP-108
+Exact supplier lookup for SUP-108.
+Supplier_ID is SUP-108.
+The supplier ID SUP-108 belongs to Appalachian Alloys.
+SUP-108 supplier name: Appalachian Alloys.
+SUP-108 region: .
+SUP-108 country: USA.
+SUP-108 product category: Specialty Alloys.
+SUP-108 contract tier: Tier-2.
+SUP-108 risk level: Medium.
+SUP-108 alternate supplier ID: SUP-026.
+SUP-108 active disruptions: Audit overdue; compliance review, Export license risk, Geopolitical tension flag, Regulatory audit pending, Regulatory enforcement pending, Seasonal flood risk.
+SUP-108 average OTD rate percent: 88.08.
+SUP-108 average defect rate percent: 1.82.
+SUP-108 average compliance score: 77.65.
+SUP-108 average sustainability score: 69.41.
+SUP-108 total PO value USD: 10062321.79.
+
+---
+
+SUP-109 SUP-109 SUP-109 SUP-109 SUP-109
+Exact supplier lookup for SUP-109.
+Supplier_ID is SUP-109.
+The supplier ID SUP-109 belongs to Gulf Coast Mech.
+SUP-109 supplier name: Gulf Coast Mech.
+SUP-109 region: .
+SUP-109 country: USA.
+SUP-109 product category: Mechanical Components.
+SUP-109 contract tier: Tier-2.
+SUP-109 risk level: Low.
+SUP-109 alternate supplier ID: SUP-006.
+SUP-109 active disruptions: Currency volatility flag, Export license risk, Political instability flag, Seasonal flood risk, Tariff adjustment pending, Typhoon season disruption.
+SUP-109 average OTD rate percent: 85.7.
+SUP-109 average defect rate percent: 1.92.
+SUP-109 average compliance score: 76.53.
+SUP-109 average sustainability score: 65.41.
+SUP-109 total PO value USD: 2815562.74.
+
+---
+
+SUP-110 SUP-110 SUP-110 SUP-110 SUP-110
+Exact supplier lookup for SUP-110.
+Supplier_ID is SUP-110.
+The supplier ID SUP-110 belongs to Texarkana Fiber Inc.
+SUP-110 supplier name: Texarkana Fiber Inc.
+SUP-110 region: .
+SUP-110 country: USA.
+SUP-110 product category: Industrial Textiles.
+SUP-110 contract tier: Tier-2.
+SUP-110 risk level: Low.
+SUP-110 alternate supplier ID: SUP-101.
+SUP-110 active disruptions: Currency volatility flag, Labour strike risk, Port congestion risk, Regulatory audit pending, Seasonal flood risk, Tariff adjustment pending.
+SUP-110 average OTD rate percent: 85.45.
+SUP-110 average defect rate percent: 1.81.
+SUP-110 average compliance score: 78.29.
+SUP-110 average sustainability score: 62.71.
+SUP-110 total PO value USD: 1523184.03.
+
+---
+
+SUP-111 SUP-111 SUP-111 SUP-111 SUP-111
+Exact supplier lookup for SUP-111.
+Supplier_ID is SUP-111.
+The supplier ID SUP-111 belongs to Ohio Valley Electronics.
+SUP-111 supplier name: Ohio Valley Electronics.
+SUP-111 region: .
+SUP-111 country: USA.
+SUP-111 product category: Electronic Components.
+SUP-111 contract tier: Tier-2.
+SUP-111 risk level: Medium.
+SUP-111 alternate supplier ID: SUP-013.
+SUP-111 active disruptions: Audit overdue; compliance review, Geopolitical tension flag, Regulatory audit pending, Seasonal flood risk.
+SUP-111 average OTD rate percent: 87.06.
+SUP-111 average defect rate percent: 1.86.
+SUP-111 average compliance score: 78.88.
+SUP-111 average sustainability score: 71.41.
+SUP-111 total PO value USD: 2733841.93.
+
+---
+
+SUP-112 SUP-112 SUP-112 SUP-112 SUP-112
+Exact supplier lookup for SUP-112.
+Supplier_ID is SUP-112.
+The supplier ID SUP-112 belongs to Maplewood Polymer Corp.
+SUP-112 supplier name: Maplewood Polymer Corp.
+SUP-112 region: .
+SUP-112 country: Canada.
+SUP-112 product category: Raw Materials.
+SUP-112 contract tier: Tier-1.
+SUP-112 risk level: Low.
+SUP-112 alternate supplier ID: SUP-011.
+SUP-112 active disruptions: Geopolitical tension flag, Port congestion risk, Regulatory audit pending, Tariff adjustment pending.
+SUP-112 average OTD rate percent: 92.32.
+SUP-112 average defect rate percent: 1.07.
+SUP-112 average compliance score: 87.65.
+SUP-112 average sustainability score: 82.94.
+SUP-112 total PO value USD: 953228.38.
+
+---
+
+SUP-113 SUP-113 SUP-113 SUP-113 SUP-113
+Exact supplier lookup for SUP-113.
+Supplier_ID is SUP-113.
+The supplier ID SUP-113 belongs to Pinnacle Resin Co.
+SUP-113 supplier name: Pinnacle Resin Co.
+SUP-113 region: .
+SUP-113 country: Canada.
+SUP-113 product category: Raw Materials.
+SUP-113 contract tier: Tier-2.
+SUP-113 risk level: Medium.
+SUP-113 alternate supplier ID: SUP-066.
+SUP-113 active disruptions: Currency volatility flag, Geopolitical tension flag, Port congestion risk, Seasonal flood risk, Typhoon season disruption.
+SUP-113 average OTD rate percent: 83.96.
+SUP-113 average defect rate percent: 1.49.
+SUP-113 average compliance score: 82.71.
+SUP-113 average sustainability score: 66.0.
+SUP-113 total PO value USD: 5909011.05.
+
+---
+
+SUP-114 SUP-114 SUP-114 SUP-114 SUP-114
+Exact supplier lookup for SUP-114.
+Supplier_ID is SUP-114.
+The supplier ID SUP-114 belongs to Rockies Pack Inc.
+SUP-114 supplier name: Rockies Pack Inc.
+SUP-114 region: .
+SUP-114 country: Canada.
+SUP-114 product category: Packaging Materials.
+SUP-114 contract tier: Tier-2.
+SUP-114 risk level: Medium.
+SUP-114 alternate supplier ID: SUP-078.
+SUP-114 active disruptions: Audit overdue; compliance review, Geopolitical tension flag, Port closure risk, Port congestion risk, Regulatory audit pending, Seasonal flood risk.
+SUP-114 average OTD rate percent: 86.14.
+SUP-114 average defect rate percent: 1.9.
+SUP-114 average compliance score: 77.82.
+SUP-114 average sustainability score: 72.0.
+SUP-114 total PO value USD: 859435.88.
+
+---
+
+SUP-115 SUP-115 SUP-115 SUP-115 SUP-115
+Exact supplier lookup for SUP-115.
+Supplier_ID is SUP-115.
+The supplier ID SUP-115 belongs to Caribou Alloy Works.
+SUP-115 supplier name: Caribou Alloy Works.
+SUP-115 region: .
+SUP-115 country: Canada.
+SUP-115 product category: Specialty Alloys.
+SUP-115 contract tier: Tier-2.
+SUP-115 risk level: Medium.
+SUP-115 alternate supplier ID: SUP-095.
+SUP-115 active disruptions: Currency volatility flag, Geopolitical tension flag, Labour strike risk, Port congestion risk, Regulatory audit pending, Seasonal flood risk, Tariff adjustment pending.
+SUP-115 average OTD rate percent: 86.98.
+SUP-115 average defect rate percent: 1.7.
+SUP-115 average compliance score: 81.24.
+SUP-115 average sustainability score: 65.59.
+SUP-115 total PO value USD: 11752037.57.
+
+---
+
+SUP-116 SUP-116 SUP-116 SUP-116 SUP-116
+Exact supplier lookup for SUP-116.
+Supplier_ID is SUP-116.
+The supplier ID SUP-116 belongs to Prairie Mech Corp.
+SUP-116 supplier name: Prairie Mech Corp.
+SUP-116 region: .
+SUP-116 country: Canada.
+SUP-116 product category: Mechanical Components.
+SUP-116 contract tier: Tier-2.
+SUP-116 risk level: Low.
+SUP-116 alternate supplier ID: SUP-027.
+SUP-116 active disruptions: Audit overdue; compliance review, Political instability flag, Port closure risk, Regulatory audit pending, Seasonal flood risk.
+SUP-116 average OTD rate percent: 84.96.
+SUP-116 average defect rate percent: 1.66.
+SUP-116 average compliance score: 80.29.
+SUP-116 average sustainability score: 69.47.
+SUP-116 total PO value USD: 2153364.88.

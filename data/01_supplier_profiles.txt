@@ -1,0 +1,5565 @@
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-001
+Supplier_ID: SUP-001
+Supplier_Name: Orrentek Precision Mfg
+Region: APAC
+Country: China
+Product_Category: Electronic Components
+Product_SKUs: SKU-EC-1001, SKU-EC-1017, SKU-EC-1033, SKU-EC-1049, SKU-EC-1065, SKU-EC-1081, SKU-EC-1097, SKU-EC-1113, SKU-EC-1129, SKU-EC-1145, SKU-EC-1161, SKU-EC-1177, SKU-EC-1193, SKU-EC-1209, SKU-EC-1225, SKU-EC-1241, SKU-EC-1257, SKU-EC-1273
+Contract_Tier: Tier-1
+Risk_Level: Low
+Certifications: ISO9001;ISO14001;RoHS
+Active_Disruptions: Political instability flag, Port congestion risk, Regulatory audit pending, Tariff adjustment pending
+Alt_Supplier_ID: SUP-002
+Latest_Audit_Date: 2024-07-10
+Record_Count: 18
+
+Performance:
+Average Lead Time Days: 26.72
+Maximum Lead Time Days: 41
+Average OTD Rate Percent: 95.68
+Minimum OTD Rate Percent: 88.3
+Average Defect Rate Percent: 0.87
+Maximum Defect Rate Percent: 1.73
+Average Compliance Score: 86.28
+Minimum Compliance Score: 80
+Average Sustainability Score: 81.22
+Minimum Sustainability Score: 70
+Total PO Value USD: 939643.31
+Average PO Value USD: 52202.41
+Total Units Ordered: 136466
+Total Units Delivered On Time: 131520
+Total Units Rejected: 1116
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 93.0
+Policy Defect Maximum Percent: 0.99
+Policy Compliance Minimum: 90
+Policy Sustainability Minimum: 80
+Meets OTD Requirement: True
+Meets Defect Requirement: True
+Meets Compliance Requirement: False
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: False
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: False
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-002
+Supplier_ID: SUP-002
+Supplier_Name: Zhenlong ElectroCo
+Region: APAC
+Country: China
+Product_Category: Electronic Components
+Product_SKUs: SKU-EC-1002, SKU-EC-1018, SKU-EC-1034, SKU-EC-1050, SKU-EC-1066, SKU-EC-1082, SKU-EC-1098, SKU-EC-1114, SKU-EC-1130, SKU-EC-1146, SKU-EC-1162, SKU-EC-1178, SKU-EC-1194, SKU-EC-1210, SKU-EC-1226, SKU-EC-1242, SKU-EC-1258, SKU-EC-1274
+Contract_Tier: Tier-2
+Risk_Level: Medium
+Certifications: ISO9001;RoHS
+Active_Disruptions: Geopolitical tension flag, Labour strike risk, Port congestion risk, Regulatory audit pending, Seasonal flood risk, Tariff adjustment pending, Typhoon season disruption
+Alt_Supplier_ID: SUP-023
+Latest_Audit_Date: 2024-07-23
+Record_Count: 18
+
+Performance:
+Average Lead Time Days: 31.72
+Maximum Lead Time Days: 42
+Average OTD Rate Percent: 84.92
+Minimum OTD Rate Percent: 78.0
+Average Defect Rate Percent: 1.56
+Maximum Defect Rate Percent: 2.84
+Average Compliance Score: 77.78
+Minimum Compliance Score: 67
+Average Sustainability Score: 63.78
+Minimum Sustainability Score: 50
+Total PO Value USD: 3923690.41
+Average PO Value USD: 217982.8
+Total Units Ordered: 653138
+Total Units Delivered On Time: 562488
+Total Units Rejected: 10578
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 84.0
+Policy Defect Maximum Percent: 2.5
+Policy Compliance Minimum: 75
+Policy Sustainability Minimum: 60
+Meets OTD Requirement: True
+Meets Defect Requirement: True
+Meets Compliance Requirement: True
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: False
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: False
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-003
+Supplier_ID: SUP-003
+Supplier_Name: Wanlong Composites Ltd
+Region: APAC
+Country: China
+Product_Category: Raw Materials
+Product_SKUs: SKU-RM-1001, SKU-RM-1022, SKU-RM-1043, SKU-RM-1064, SKU-RM-1085, SKU-RM-1106, SKU-RM-1127, SKU-RM-1148, SKU-RM-1169, SKU-RM-1190, SKU-RM-1211, SKU-RM-1232, SKU-RM-1253, SKU-RM-1274, SKU-RM-1295, SKU-RM-1316, SKU-RM-1337, SKU-RM-1358
+Contract_Tier: Tier-2
+Risk_Level: Low
+Certifications: ISO9001
+Active_Disruptions: Audit overdue; compliance review, Currency volatility flag, Port closure risk, Regulatory enforcement pending, Seasonal flood risk, Tariff adjustment pending
+Alt_Supplier_ID: SUP-011
+Latest_Audit_Date: 2024-09-22
+Record_Count: 18
+
+Performance:
+Average Lead Time Days: 26.11
+Maximum Lead Time Days: 39
+Average OTD Rate Percent: 88.0
+Minimum OTD Rate Percent: 80.1
+Average Defect Rate Percent: 1.79
+Maximum Defect Rate Percent: 2.96
+Average Compliance Score: 79.72
+Minimum Compliance Score: 67
+Average Sustainability Score: 70.39
+Minimum Sustainability Score: 50
+Total PO Value USD: 6882034.93
+Average PO Value USD: 382335.27
+Total Units Ordered: 536511
+Total Units Delivered On Time: 470803
+Total Units Rejected: 9556
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 84.0
+Policy Defect Maximum Percent: 2.5
+Policy Compliance Minimum: 75
+Policy Sustainability Minimum: 60
+Meets OTD Requirement: True
+Meets Defect Requirement: True
+Meets Compliance Requirement: True
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: False
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: False
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-004
+Supplier_ID: SUP-004
+Supplier_Name: Yangtze Fiber Materials
+Region: APAC
+Country: China
+Product_Category: Industrial Textiles
+Product_SKUs: SKU-IT-1001, SKU-IT-1017, SKU-IT-1033, SKU-IT-1049, SKU-IT-1065, SKU-IT-1081, SKU-IT-1097, SKU-IT-1113, SKU-IT-1129, SKU-IT-1145, SKU-IT-1161, SKU-IT-1177, SKU-IT-1193, SKU-IT-1209, SKU-IT-1225, SKU-IT-1241, SKU-IT-1257, SKU-IT-1273
+Contract_Tier: Tier-2
+Risk_Level: Medium
+Certifications: OEKO-TEX;ISO9001
+Active_Disruptions: Audit overdue; compliance review, Currency volatility flag, Geopolitical tension flag, Regulatory audit pending, Regulatory enforcement pending, Seasonal flood risk
+Alt_Supplier_ID: SUP-009
+Latest_Audit_Date: 2024-09-19
+Record_Count: 18
+
+Performance:
+Average Lead Time Days: 28.67
+Maximum Lead Time Days: 42
+Average OTD Rate Percent: 87.49
+Minimum OTD Rate Percent: 79.2
+Average Defect Rate Percent: 1.62
+Maximum Defect Rate Percent: 3.09
+Average Compliance Score: 81.11
+Minimum Compliance Score: 69
+Average Sustainability Score: 62.94
+Minimum Sustainability Score: 48
+Total PO Value USD: 1429755.28
+Average PO Value USD: 79430.85
+Total Units Ordered: 470242
+Total Units Delivered On Time: 416060
+Total Units Rejected: 6712
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 84.0
+Policy Defect Maximum Percent: 2.5
+Policy Compliance Minimum: 75
+Policy Sustainability Minimum: 60
+Meets OTD Requirement: True
+Meets Defect Requirement: True
+Meets Compliance Requirement: True
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: False
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: False
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-005
+Supplier_ID: SUP-005
+Supplier_Name: Huabei Circuit Systems
+Region: APAC
+Country: China
+Product_Category: Electronic Components
+Product_SKUs: SKU-EC-1003, SKU-EC-1019, SKU-EC-1035, SKU-EC-1051, SKU-EC-1067, SKU-EC-1083, SKU-EC-1099, SKU-EC-1115, SKU-EC-1131, SKU-EC-1147, SKU-EC-1163, SKU-EC-1179, SKU-EC-1195, SKU-EC-1211, SKU-EC-1227, SKU-EC-1243, SKU-EC-1259, SKU-EC-1275
+Contract_Tier: Tier-1
+Risk_Level: Medium
+Certifications: ISO9001;AEC-Q100;RoHS
+Active_Disruptions: Geopolitical tension flag, Regulatory audit pending, Seasonal flood risk, Tariff adjustment pending
+Alt_Supplier_ID: SUP-042
+Latest_Audit_Date: 2024-09-16
+Record_Count: 18
+
+Performance:
+Average Lead Time Days: 25.44
+Maximum Lead Time Days: 39
+Average OTD Rate Percent: 93.69
+Minimum OTD Rate Percent: 88.3
+Average Defect Rate Percent: 0.94
+Maximum Defect Rate Percent: 1.78
+Average Compliance Score: 90.17
+Minimum Compliance Score: 81
+Average Sustainability Score: 84.22
+Minimum Sustainability Score: 70
+Total PO Value USD: 908603.8
+Average PO Value USD: 50477.99
+Total Units Ordered: 130131
+Total Units Delivered On Time: 122140
+Total Units Rejected: 1280
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 93.0
+Policy Defect Maximum Percent: 0.99
+Policy Compliance Minimum: 90
+Policy Sustainability Minimum: 80
+Meets OTD Requirement: True
+Meets Defect Requirement: True
+Meets Compliance Requirement: True
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: False
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: False
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-006
+Supplier_ID: SUP-006
+Supplier_Name: Dongfeng Castings Co
+Region: APAC
+Country: China
+Product_Category: Mechanical Components
+Product_SKUs: SKU-MC-1001, SKU-MC-1020, SKU-MC-1039, SKU-MC-1058, SKU-MC-1077, SKU-MC-1096, SKU-MC-1115, SKU-MC-1134, SKU-MC-1153, SKU-MC-1172, SKU-MC-1191, SKU-MC-1210, SKU-MC-1229, SKU-MC-1248, SKU-MC-1267, SKU-MC-1286, SKU-MC-1305, SKU-MC-1324
+Contract_Tier: Tier-2
+Risk_Level: Low
+Certifications: ISO9001;IATF16949
+Active_Disruptions: Audit overdue; compliance review, Export license risk, Geopolitical tension flag, Labour strike risk, Port congestion risk, Regulatory enforcement pending
+Alt_Supplier_ID: SUP-054
+Latest_Audit_Date: 2024-09-20
+Record_Count: 18
+
+Performance:
+Average Lead Time Days: 29.5
+Maximum Lead Time Days: 42
+Average OTD Rate Percent: 86.62
+Minimum OTD Rate Percent: 78.0
+Average Defect Rate Percent: 1.82
+Maximum Defect Rate Percent: 3.06
+Average Compliance Score: 76.28
+Minimum Compliance Score: 67
+Average Sustainability Score: 67.17
+Minimum Sustainability Score: 48
+Total PO Value USD: 2186462.26
+Average PO Value USD: 121470.13
+Total Units Ordered: 405792
+Total Units Delivered On Time: 353658
+Total Units Rejected: 7250
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 84.0
+Policy Defect Maximum Percent: 2.5
+Policy Compliance Minimum: 75
+Policy Sustainability Minimum: 60
+Meets OTD Requirement: True
+Meets Defect Requirement: True
+Meets Compliance Requirement: True
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: False
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: False
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-007
+Supplier_ID: SUP-007
+Supplier_Name: Longhua Polymer Works
+Region: APAC
+Country: China
+Product_Category: Raw Materials
+Product_SKUs: SKU-RM-1002, SKU-RM-1023, SKU-RM-1044, SKU-RM-1065, SKU-RM-1086, SKU-RM-1107, SKU-RM-1128, SKU-RM-1149, SKU-RM-1170, SKU-RM-1191, SKU-RM-1212, SKU-RM-1233, SKU-RM-1254, SKU-RM-1275, SKU-RM-1296, SKU-RM-1317, SKU-RM-1338, SKU-RM-1359
+Contract_Tier: Tier-3
+Risk_Level: Medium
+Certifications: ISO9001
+Active_Disruptions: Audit overdue; compliance review, Geopolitical tension flag, Labour strike risk, Political instability flag, Port closure risk, Port congestion risk, Seasonal flood risk, Tariff adjustment pending
+Alt_Supplier_ID: SUP-103
+Latest_Audit_Date: 2024-08-21
+Record_Count: 18
+
+Performance:
+Average Lead Time Days: 35.94
+Maximum Lead Time Days: 52
+Average OTD Rate Percent: 71.24
+Minimum OTD Rate Percent: 60.1
+Average Defect Rate Percent: 2.77
+Maximum Defect Rate Percent: 4.48
+Average Compliance Score: 61.83
+Minimum Compliance Score: 50
+Average Sustainability Score: 48.94
+Minimum Sustainability Score: 32
+Total PO Value USD: 7102925.23
+Average PO Value USD: 394606.96
+Total Units Ordered: 661705
+Total Units Delivered On Time: 479603
+Total Units Rejected: 16823
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 75.0
+Policy Defect Maximum Percent: 4.0
+Policy Compliance Minimum: 60
+Policy Sustainability Minimum: 45
+Meets OTD Requirement: False
+Meets Defect Requirement: True
+Meets Compliance Requirement: True
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: True
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: False
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-008
+Supplier_ID: SUP-008
+Supplier_Name: Shengda Pack Industries
+Region: APAC
+Country: China
+Product_Category: Packaging Materials
+Product_SKUs: SKU-PM-1001, SKU-PM-1026, SKU-PM-1051, SKU-PM-1076, SKU-PM-1101, SKU-PM-1126, SKU-PM-1151, SKU-PM-1176, SKU-PM-1201, SKU-PM-1226, SKU-PM-1251, SKU-PM-1276, SKU-PM-1301, SKU-PM-1326, SKU-PM-1351, SKU-PM-1376, SKU-PM-1401, SKU-PM-1426
+Contract_Tier: Tier-2
+Risk_Level: Medium
+Certifications: FSC;ISO9001
+Active_Disruptions: Export license risk, Labour strike risk, Port congestion risk, Regulatory audit pending, Regulatory enforcement pending, Seasonal flood risk, Tariff adjustment pending, Typhoon season disruption
+Alt_Supplier_ID: SUP-042
+Latest_Audit_Date: 2024-09-26
+Record_Count: 18
+
+Performance:
+Average Lead Time Days: 27.0
+Maximum Lead Time Days: 42
+Average OTD Rate Percent: 88.21
+Minimum OTD Rate Percent: 78.7
+Average Defect Rate Percent: 1.96
+Maximum Defect Rate Percent: 3.07
+Average Compliance Score: 76.17
+Minimum Compliance Score: 67
+Average Sustainability Score: 68.28
+Minimum Sustainability Score: 48
+Total PO Value USD: 884286.3
+Average PO Value USD: 49127.02
+Total Units Ordered: 500947
+Total Units Delivered On Time: 434294
+Total Units Rejected: 10059
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 84.0
+Policy Defect Maximum Percent: 2.5
+Policy Compliance Minimum: 75
+Policy Sustainability Minimum: 60
+Meets OTD Requirement: True
+Meets Defect Requirement: True
+Meets Compliance Requirement: True
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: False
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: False
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-009
+Supplier_ID: SUP-009
+Supplier_Name: Tianhe Alloy Group
+Region: APAC
+Country: China
+Product_Category: Specialty Alloys
+Product_SKUs: SKU-SA-1001, SKU-SA-1020, SKU-SA-1039, SKU-SA-1058, SKU-SA-1077, SKU-SA-1096, SKU-SA-1115, SKU-SA-1134, SKU-SA-1153, SKU-SA-1172, SKU-SA-1191, SKU-SA-1210, SKU-SA-1229, SKU-SA-1248, SKU-SA-1267, SKU-SA-1286, SKU-SA-1305, SKU-SA-1324
+Contract_Tier: Tier-2
+Risk_Level: Medium
+Certifications: ISO9001
+Active_Disruptions: Audit overdue; compliance review, Export license risk, Geopolitical tension flag, Political instability flag, Port congestion risk, Regulatory audit pending, Seasonal flood risk
+Alt_Supplier_ID: SUP-114
+Latest_Audit_Date: 2024-09-10
+Record_Count: 18
+
+Performance:
+Average Lead Time Days: 28.44
+Maximum Lead Time Days: 41
+Average OTD Rate Percent: 87.03
+Minimum OTD Rate Percent: 80.2
+Average Defect Rate Percent: 1.88
+Maximum Defect Rate Percent: 3.16
+Average Compliance Score: 81.39
+Minimum Compliance Score: 71
+Average Sustainability Score: 62.78
+Minimum Sustainability Score: 48
+Total PO Value USD: 8739796.9
+Average PO Value USD: 485544.27
+Total Units Ordered: 418387
+Total Units Delivered On Time: 365610
+Total Units Rejected: 7545
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 84.0
+Policy Defect Maximum Percent: 2.5
+Policy Compliance Minimum: 75
+Policy Sustainability Minimum: 60
+Meets OTD Requirement: True
+Meets Defect Requirement: True
+Meets Compliance Requirement: True
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: False
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: False
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-010
+Supplier_ID: SUP-010
+Supplier_Name: Bohai Electronics
+Region: APAC
+Country: China
+Product_Category: Electronic Components
+Product_SKUs: SKU-EC-1004, SKU-EC-1020, SKU-EC-1036, SKU-EC-1052, SKU-EC-1068, SKU-EC-1084, SKU-EC-1100, SKU-EC-1116, SKU-EC-1132, SKU-EC-1148, SKU-EC-1164, SKU-EC-1180, SKU-EC-1196, SKU-EC-1212, SKU-EC-1228, SKU-EC-1244, SKU-EC-1260, SKU-EC-1276
+Contract_Tier: Tier-3
+Risk_Level: Medium
+Certifications: ISO9001;RoHS
+Active_Disruptions: Geopolitical tension flag, Labour strike risk, Port congestion risk, Regulatory audit pending, Regulatory enforcement pending, Tariff adjustment pending, Typhoon season disruption
+Alt_Supplier_ID: SUP-029
+Latest_Audit_Date: 2024-09-25
+Record_Count: 18
+
+Performance:
+Average Lead Time Days: 31.78
+Maximum Lead Time Days: 50
+Average OTD Rate Percent: 71.26
+Minimum OTD Rate Percent: 60.7
+Average Defect Rate Percent: 3.4
+Maximum Defect Rate Percent: 4.16
+Average Compliance Score: 62.06
+Minimum Compliance Score: 51
+Average Sustainability Score: 42.78
+Minimum Sustainability Score: 30
+Total PO Value USD: 3436726.31
+Average PO Value USD: 190929.24
+Total Units Ordered: 509364
+Total Units Delivered On Time: 368048
+Total Units Rejected: 17748
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 75.0
+Policy Defect Maximum Percent: 4.0
+Policy Compliance Minimum: 60
+Policy Sustainability Minimum: 45
+Meets OTD Requirement: False
+Meets Defect Requirement: True
+Meets Compliance Requirement: True
+Meets Sustainability Requirement: False
+Supplier Watch List Flag: True
+Needs Sustainability Improvement Plan: True
+High Risk With Disruption: False
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-011
+Supplier_ID: SUP-011
+Supplier_Name: Dravex Components India
+Region: APAC
+Country: India
+Product_Category: Mechanical Components
+Product_SKUs: SKU-MC-1002, SKU-MC-1021, SKU-MC-1040, SKU-MC-1059, SKU-MC-1078, SKU-MC-1097, SKU-MC-1116, SKU-MC-1135, SKU-MC-1154, SKU-MC-1173, SKU-MC-1192, SKU-MC-1211, SKU-MC-1230, SKU-MC-1249, SKU-MC-1268, SKU-MC-1287, SKU-MC-1306, SKU-MC-1325
+Contract_Tier: Tier-3
+Risk_Level: High
+Certifications: ISO9001
+Active_Disruptions: Audit overdue; compliance review, Geopolitical tension flag, Political instability flag, Port closure risk, Port congestion risk, Regulatory audit pending, Regulatory enforcement pending, Seasonal flood risk, Typhoon season disruption
+Alt_Supplier_ID: SUP-083
+Latest_Audit_Date: 2024-09-30
+Record_Count: 18
+
+Performance:
+Average Lead Time Days: 32.11
+Maximum Lead Time Days: 51
+Average OTD Rate Percent: 72.27
+Minimum OTD Rate Percent: 61.6
+Average Defect Rate Percent: 3.27
+Maximum Defect Rate Percent: 4.47
+Average Compliance Score: 65.67
+Minimum Compliance Score: 55
+Average Sustainability Score: 45.06
+Minimum Sustainability Score: 31
+Total PO Value USD: 3236970.2
+Average PO Value USD: 179831.68
+Total Units Ordered: 653857
+Total Units Delivered On Time: 479579
+Total Units Rejected: 22761
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 75.0
+Policy Defect Maximum Percent: 4.0
+Policy Compliance Minimum: 60
+Policy Sustainability Minimum: 45
+Meets OTD Requirement: False
+Meets Defect Requirement: True
+Meets Compliance Requirement: True
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: True
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: True
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-012
+Supplier_ID: SUP-012
+Supplier_Name: Bharat Precision Works
+Region: APAC
+Country: India
+Product_Category: Mechanical Components
+Product_SKUs: SKU-MC-1003, SKU-MC-1022, SKU-MC-1041, SKU-MC-1060, SKU-MC-1079, SKU-MC-1098, SKU-MC-1117, SKU-MC-1136, SKU-MC-1155, SKU-MC-1174, SKU-MC-1193, SKU-MC-1212, SKU-MC-1231, SKU-MC-1250, SKU-MC-1269, SKU-MC-1288, SKU-MC-1307, SKU-MC-1326
+Contract_Tier: Tier-2
+Risk_Level: Low
+Certifications: ISO9001;IATF16949
+Active_Disruptions: Audit overdue; compliance review, Currency volatility flag, Export license risk, Political instability flag, Seasonal flood risk, Tariff adjustment pending
+Alt_Supplier_ID: SUP-077
+Latest_Audit_Date: 2024-07-06
+Record_Count: 18
+
+Performance:
+Average Lead Time Days: 28.61
+Maximum Lead Time Days: 41
+Average OTD Rate Percent: 86.75
+Minimum OTD Rate Percent: 78.5
+Average Defect Rate Percent: 1.59
+Maximum Defect Rate Percent: 3.13
+Average Compliance Score: 80.5
+Minimum Compliance Score: 67
+Average Sustainability Score: 63.11
+Minimum Sustainability Score: 48
+Total PO Value USD: 2031103.65
+Average PO Value USD: 112839.09
+Total Units Ordered: 434842
+Total Units Delivered On Time: 372349
+Total Units Rejected: 8084
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 84.0
+Policy Defect Maximum Percent: 2.5
+Policy Compliance Minimum: 75
+Policy Sustainability Minimum: 60
+Meets OTD Requirement: True
+Meets Defect Requirement: True
+Meets Compliance Requirement: True
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: False
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: False
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-013
+Supplier_ID: SUP-013
+Supplier_Name: IndoTech Fab Ltd
+Region: APAC
+Country: India
+Product_Category: Electronic Components
+Product_SKUs: SKU-EC-1005, SKU-EC-1021, SKU-EC-1037, SKU-EC-1053, SKU-EC-1069, SKU-EC-1085, SKU-EC-1101, SKU-EC-1117, SKU-EC-1133, SKU-EC-1149, SKU-EC-1165, SKU-EC-1181, SKU-EC-1197, SKU-EC-1213, SKU-EC-1229, SKU-EC-1245, SKU-EC-1261, SKU-EC-1277
+Contract_Tier: Tier-2
+Risk_Level: Medium
+Certifications: ISO9001;RoHS
+Active_Disruptions: Audit overdue; compliance review, Geopolitical tension flag, Labour strike risk, Port congestion risk, Regulatory audit pending, Seasonal flood risk
+Alt_Supplier_ID: SUP-115
+Latest_Audit_Date: 2024-09-29
+Record_Count: 18
+
+Performance:
+Average Lead Time Days: 26.56
+Maximum Lead Time Days: 40
+Average OTD Rate Percent: 86.76
+Minimum OTD Rate Percent: 78.0
+Average Defect Rate Percent: 1.9
+Maximum Defect Rate Percent: 3.08
+Average Compliance Score: 79.0
+Minimum Compliance Score: 68
+Average Sustainability Score: 63.44
+Minimum Sustainability Score: 50
+Total PO Value USD: 3752327.43
+Average PO Value USD: 208462.64
+Total Units Ordered: 643261
+Total Units Delivered On Time: 558478
+Total Units Rejected: 11672
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 84.0
+Policy Defect Maximum Percent: 2.5
+Policy Compliance Minimum: 75
+Policy Sustainability Minimum: 60
+Meets OTD Requirement: True
+Meets Defect Requirement: True
+Meets Compliance Requirement: True
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: False
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: False
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-014
+Supplier_ID: SUP-014
+Supplier_Name: Deccan Polymer Mfg
+Region: APAC
+Country: India
+Product_Category: Raw Materials
+Product_SKUs: SKU-RM-1003, SKU-RM-1024, SKU-RM-1045, SKU-RM-1066, SKU-RM-1087, SKU-RM-1108, SKU-RM-1129, SKU-RM-1150, SKU-RM-1171, SKU-RM-1192, SKU-RM-1213, SKU-RM-1234, SKU-RM-1255, SKU-RM-1276, SKU-RM-1297, SKU-RM-1318, SKU-RM-1339, SKU-RM-1360
+Contract_Tier: Tier-3
+Risk_Level: High
+Certifications: ISO9001
+Active_Disruptions: Currency volatility flag, Geopolitical tension flag, Labour strike risk, Political instability flag, Port congestion risk, Regulatory enforcement pending, Seasonal flood risk, Tariff adjustment pending, Typhoon season disruption
+Alt_Supplier_ID: SUP-024
+Latest_Audit_Date: 2024-09-02
+Record_Count: 18
+
+Performance:
+Average Lead Time Days: 38.0
+Maximum Lead Time Days: 52
+Average OTD Rate Percent: 73.16
+Minimum OTD Rate Percent: 60.1
+Average Defect Rate Percent: 2.65
+Maximum Defect Rate Percent: 4.44
+Average Compliance Score: 61.06
+Minimum Compliance Score: 50
+Average Sustainability Score: 45.39
+Minimum Sustainability Score: 30
+Total PO Value USD: 7223092.8
+Average PO Value USD: 401282.93
+Total Units Ordered: 596660
+Total Units Delivered On Time: 433342
+Total Units Rejected: 17240
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 75.0
+Policy Defect Maximum Percent: 4.0
+Policy Compliance Minimum: 60
+Policy Sustainability Minimum: 45
+Meets OTD Requirement: False
+Meets Defect Requirement: True
+Meets Compliance Requirement: True
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: True
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: True
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-015
+Supplier_ID: SUP-015
+Supplier_Name: Narmada Pack Solutions
+Region: APAC
+Country: India
+Product_Category: Packaging Materials
+Product_SKUs: SKU-PM-1002, SKU-PM-1027, SKU-PM-1052, SKU-PM-1077, SKU-PM-1102, SKU-PM-1127, SKU-PM-1152, SKU-PM-1177, SKU-PM-1202, SKU-PM-1227, SKU-PM-1252, SKU-PM-1277, SKU-PM-1302, SKU-PM-1327, SKU-PM-1352, SKU-PM-1377, SKU-PM-1402, SKU-PM-1427
+Contract_Tier: Tier-2
+Risk_Level: Medium
+Certifications: FSC;ISO9001
+Active_Disruptions: Currency volatility flag, Geopolitical tension flag, Political instability flag, Port closure risk, Port congestion risk, Regulatory audit pending, Regulatory enforcement pending, Seasonal flood risk
+Alt_Supplier_ID: SUP-028
+Latest_Audit_Date: 2024-09-08
+Record_Count: 18
+
+Performance:
+Average Lead Time Days: 29.28
+Maximum Lead Time Days: 40
+Average OTD Rate Percent: 86.76
+Minimum OTD Rate Percent: 79.1
+Average Defect Rate Percent: 1.92
+Maximum Defect Rate Percent: 3.09
+Average Compliance Score: 79.22
+Minimum Compliance Score: 68
+Average Sustainability Score: 69.78
+Minimum Sustainability Score: 48
+Total PO Value USD: 1013910.11
+Average PO Value USD: 56328.34
+Total Units Ordered: 517486
+Total Units Delivered On Time: 447752
+Total Units Rejected: 9345
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 84.0
+Policy Defect Maximum Percent: 2.5
+Policy Compliance Minimum: 75
+Policy Sustainability Minimum: 60
+Meets OTD Requirement: True
+Meets Defect Requirement: True
+Meets Compliance Requirement: True
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: False
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: False
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-016
+Supplier_ID: SUP-016
+Supplier_Name: Konkan Textile Mills
+Region: APAC
+Country: India
+Product_Category: Industrial Textiles
+Product_SKUs: SKU-IT-1002, SKU-IT-1018, SKU-IT-1034, SKU-IT-1050, SKU-IT-1066, SKU-IT-1082, SKU-IT-1098, SKU-IT-1114, SKU-IT-1130, SKU-IT-1146, SKU-IT-1162, SKU-IT-1178, SKU-IT-1194, SKU-IT-1210, SKU-IT-1226, SKU-IT-1242, SKU-IT-1258, SKU-IT-1274
+Contract_Tier: Tier-2
+Risk_Level: Low
+Certifications: OEKO-TEX;ISO9001
+Active_Disruptions: Export license risk, Labour strike risk, Political instability flag, Port congestion risk, Seasonal flood risk, Tariff adjustment pending, Typhoon season disruption
+Alt_Supplier_ID: SUP-032
+Latest_Audit_Date: 2024-09-27
+Record_Count: 18
+
+Performance:
+Average Lead Time Days: 23.72
+Maximum Lead Time Days: 40
+Average OTD Rate Percent: 86.01
+Minimum OTD Rate Percent: 78.6
+Average Defect Rate Percent: 1.73
+Maximum Defect Rate Percent: 3.14
+Average Compliance Score: 77.44
+Minimum Compliance Score: 69
+Average Sustainability Score: 67.78
+Minimum Sustainability Score: 48
+Total PO Value USD: 2363910.72
+Average PO Value USD: 131328.37
+Total Units Ordered: 590841
+Total Units Delivered On Time: 511153
+Total Units Rejected: 10042
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 84.0
+Policy Defect Maximum Percent: 2.5
+Policy Compliance Minimum: 75
+Policy Sustainability Minimum: 60
+Meets OTD Requirement: True
+Meets Defect Requirement: True
+Meets Compliance Requirement: True
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: False
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: False
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-017
+Supplier_ID: SUP-017
+Supplier_Name: Sahyadri Alloy Tech
+Region: APAC
+Country: India
+Product_Category: Specialty Alloys
+Product_SKUs: SKU-SA-1002, SKU-SA-1021, SKU-SA-1040, SKU-SA-1059, SKU-SA-1078, SKU-SA-1097, SKU-SA-1116, SKU-SA-1135, SKU-SA-1154, SKU-SA-1173, SKU-SA-1192, SKU-SA-1211, SKU-SA-1230, SKU-SA-1249, SKU-SA-1268, SKU-SA-1287, SKU-SA-1306, SKU-SA-1325
+Contract_Tier: Tier-3
+Risk_Level: High
+Certifications: ISO9001
+Active_Disruptions: Currency volatility flag, Export license risk, Political instability flag, Port closure risk, Port congestion risk, Regulatory enforcement pending, Typhoon season disruption
+Alt_Supplier_ID: SUP-072
+Latest_Audit_Date: 2024-06-29
+Record_Count: 18
+
+Performance:
+Average Lead Time Days: 32.94
+Maximum Lead Time Days: 51
+Average OTD Rate Percent: 73.42
+Minimum OTD Rate Percent: 60.4
+Average Defect Rate Percent: 2.86
+Maximum Defect Rate Percent: 4.5
+Average Compliance Score: 61.67
+Minimum Compliance Score: 51
+Average Sustainability Score: 48.56
+Minimum Sustainability Score: 30
+Total PO Value USD: 16178106.95
+Average PO Value USD: 898783.72
+Total Units Ordered: 701886
+Total Units Delivered On Time: 507478
+Total Units Rejected: 20746
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 75.0
+Policy Defect Maximum Percent: 4.0
+Policy Compliance Minimum: 60
+Policy Sustainability Minimum: 45
+Meets OTD Requirement: False
+Meets Defect Requirement: True
+Meets Compliance Requirement: True
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: True
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: True
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-018
+Supplier_ID: SUP-018
+Supplier_Name: Deltaforge Vietnam
+Region: APAC
+Country: Vietnam
+Product_Category: Mechanical Components
+Product_SKUs: SKU-MC-1004, SKU-MC-1023, SKU-MC-1042, SKU-MC-1061, SKU-MC-1080, SKU-MC-1099, SKU-MC-1118, SKU-MC-1137, SKU-MC-1156, SKU-MC-1175, SKU-MC-1194, SKU-MC-1213, SKU-MC-1232, SKU-MC-1251, SKU-MC-1270, SKU-MC-1289, SKU-MC-1308, SKU-MC-1327
+Contract_Tier: Tier-3
+Risk_Level: Medium
+Certifications: ISO9001
+Active_Disruptions: Audit overdue; compliance review, Export license risk, Labour strike risk, Port closure risk, Port congestion risk, Regulatory audit pending, Seasonal flood risk, Tariff adjustment pending
+Alt_Supplier_ID: SUP-073
+Latest_Audit_Date: 2024-07-30
+Record_Count: 18
+
+Performance:
+Average Lead Time Days: 32.33
+Maximum Lead Time Days: 48
+Average OTD Rate Percent: 72.99
+Minimum OTD Rate Percent: 60.8
+Average Defect Rate Percent: 2.61
+Maximum Defect Rate Percent: 3.55
+Average Compliance Score: 64.0
+Minimum Compliance Score: 51
+Average Sustainability Score: 46.94
+Minimum Sustainability Score: 30
+Total PO Value USD: 3060089.67
+Average PO Value USD: 170004.98
+Total Units Ordered: 607464
+Total Units Delivered On Time: 440751
+Total Units Rejected: 16670
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 75.0
+Policy Defect Maximum Percent: 4.0
+Policy Compliance Minimum: 60
+Policy Sustainability Minimum: 45
+Meets OTD Requirement: False
+Meets Defect Requirement: True
+Meets Compliance Requirement: True
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: True
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: False
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-019
+Supplier_ID: SUP-019
+Supplier_Name: Saigon Precision Works
+Region: APAC
+Country: Vietnam
+Product_Category: Electronic Components
+Product_SKUs: SKU-EC-1006, SKU-EC-1022, SKU-EC-1038, SKU-EC-1054, SKU-EC-1070, SKU-EC-1086, SKU-EC-1102, SKU-EC-1118, SKU-EC-1134, SKU-EC-1150, SKU-EC-1166, SKU-EC-1182, SKU-EC-1198, SKU-EC-1214, SKU-EC-1230, SKU-EC-1246, SKU-EC-1262, SKU-EC-1278
+Contract_Tier: Tier-2
+Risk_Level: Low
+Certifications: ISO9001;RoHS
+Active_Disruptions: Export license risk, Geopolitical tension flag, Labour strike risk, Port closure risk, Regulatory audit pending, Seasonal flood risk, Typhoon season disruption
+Alt_Supplier_ID: SUP-022
+Latest_Audit_Date: 2024-08-22
+Record_Count: 18
+
+Performance:
+Average Lead Time Days: 27.67
+Maximum Lead Time Days: 41
+Average OTD Rate Percent: 87.12
+Minimum OTD Rate Percent: 78.1
+Average Defect Rate Percent: 1.55
+Maximum Defect Rate Percent: 3.11
+Average Compliance Score: 76.83
+Minimum Compliance Score: 68
+Average Sustainability Score: 68.44
+Minimum Sustainability Score: 52
+Total PO Value USD: 3475625.36
+Average PO Value USD: 193090.3
+Total Units Ordered: 521532
+Total Units Delivered On Time: 457078
+Total Units Rejected: 7047
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 84.0
+Policy Defect Maximum Percent: 2.5
+Policy Compliance Minimum: 75
+Policy Sustainability Minimum: 60
+Meets OTD Requirement: True
+Meets Defect Requirement: True
+Meets Compliance Requirement: True
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: False
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: False
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-020
+Supplier_ID: SUP-020
+Supplier_Name: MeKong Pack Co
+Region: APAC
+Country: Vietnam
+Product_Category: Packaging Materials
+Product_SKUs: SKU-PM-1003, SKU-PM-1028, SKU-PM-1053, SKU-PM-1078, SKU-PM-1103, SKU-PM-1128, SKU-PM-1153, SKU-PM-1178, SKU-PM-1203, SKU-PM-1228, SKU-PM-1253, SKU-PM-1278, SKU-PM-1303, SKU-PM-1328, SKU-PM-1353, SKU-PM-1378, SKU-PM-1403, SKU-PM-1428
+Contract_Tier: Tier-3
+Risk_Level: High
+Certifications: FSC;ISO9001
+Active_Disruptions: Audit overdue; compliance review, Currency volatility flag, Export license risk, Geopolitical tension flag, Political instability flag, Port congestion risk, Regulatory audit pending, Regulatory enforcement pending, Typhoon season disruption
+Alt_Supplier_ID: SUP-007
+Latest_Audit_Date: 2024-07-25
+Record_Count: 18
+
+Performance:
+Average Lead Time Days: 32.89
+Maximum Lead Time Days: 52
+Average OTD Rate Percent: 70.98
+Minimum OTD Rate Percent: 60.4
+Average Defect Rate Percent: 2.86
+Maximum Defect Rate Percent: 4.5
+Average Compliance Score: 60.89
+Minimum Compliance Score: 52
+Average Sustainability Score: 48.89
+Minimum Sustainability Score: 32
+Total PO Value USD: 1312164.75
+Average PO Value USD: 72898.04
+Total Units Ordered: 720443
+Total Units Delivered On Time: 518295
+Total Units Rejected: 20893
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 75.0
+Policy Defect Maximum Percent: 4.0
+Policy Compliance Minimum: 60
+Policy Sustainability Minimum: 45
+Meets OTD Requirement: False
+Meets Defect Requirement: True
+Meets Compliance Requirement: True
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: True
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: True
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-021
+Supplier_ID: SUP-021
+Supplier_Name: HanoiTex Industries
+Region: APAC
+Country: Vietnam
+Product_Category: Industrial Textiles
+Product_SKUs: SKU-IT-1003, SKU-IT-1019, SKU-IT-1035, SKU-IT-1051, SKU-IT-1067, SKU-IT-1083, SKU-IT-1099, SKU-IT-1115, SKU-IT-1131, SKU-IT-1147, SKU-IT-1163, SKU-IT-1179, SKU-IT-1195, SKU-IT-1211, SKU-IT-1227, SKU-IT-1243, SKU-IT-1259, SKU-IT-1275
+Contract_Tier: Tier-2
+Risk_Level: Low
+Certifications: OEKO-TEX;ISO9001
+Active_Disruptions: Audit overdue; compliance review, Currency volatility flag, Political instability flag, Port closure risk, Regulatory audit pending, Seasonal flood risk, Tariff adjustment pending
+Alt_Supplier_ID: SUP-005
+Latest_Audit_Date: 2024-09-19
+Record_Count: 18
+
+Performance:
+Average Lead Time Days: 27.0
+Maximum Lead Time Days: 41
+Average OTD Rate Percent: 86.03
+Minimum OTD Rate Percent: 78.3
+Average Defect Rate Percent: 1.72
+Maximum Defect Rate Percent: 3.15
+Average Compliance Score: 80.11
+Minimum Compliance Score: 67
+Average Sustainability Score: 65.22
+Minimum Sustainability Score: 49
+Total PO Value USD: 1873122.0
+Average PO Value USD: 104062.33
+Total Units Ordered: 494963
+Total Units Delivered On Time: 421558
+Total Units Rejected: 7251
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 84.0
+Policy Defect Maximum Percent: 2.5
+Policy Compliance Minimum: 75
+Policy Sustainability Minimum: 60
+Meets OTD Requirement: True
+Meets Defect Requirement: True
+Meets Compliance Requirement: True
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: False
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: False
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-022
+Supplier_ID: SUP-022
+Supplier_Name: DaNang Metal Works
+Region: APAC
+Country: Vietnam
+Product_Category: Mechanical Components
+Product_SKUs: SKU-MC-1005, SKU-MC-1024, SKU-MC-1043, SKU-MC-1062, SKU-MC-1081, SKU-MC-1100, SKU-MC-1119, SKU-MC-1138, SKU-MC-1157, SKU-MC-1176, SKU-MC-1195, SKU-MC-1214, SKU-MC-1233, SKU-MC-1252, SKU-MC-1271, SKU-MC-1290, SKU-MC-1309, SKU-MC-1328
+Contract_Tier: Tier-3
+Risk_Level: High
+Certifications: ISO9001
+Active_Disruptions: Audit overdue; compliance review, Currency volatility flag, Labour strike risk, Port closure risk, Port congestion risk, Regulatory audit pending, Regulatory enforcement pending, Tariff adjustment pending, Typhoon season disruption
+Alt_Supplier_ID: SUP-107
+Latest_Audit_Date: 2024-09-09
+Record_Count: 18
+
+Performance:
+Average Lead Time Days: 34.33
+Maximum Lead Time Days: 50
+Average OTD Rate Percent: 72.51
+Minimum OTD Rate Percent: 61.7
+Average Defect Rate Percent: 2.89
+Maximum Defect Rate Percent: 4.45
+Average Compliance Score: 61.28
+Minimum Compliance Score: 50
+Average Sustainability Score: 49.33
+Minimum Sustainability Score: 31
+Total PO Value USD: 2771851.75
+Average PO Value USD: 153991.76
+Total Units Ordered: 612645
+Total Units Delivered On Time: 445454
+Total Units Rejected: 17392
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 75.0
+Policy Defect Maximum Percent: 4.0
+Policy Compliance Minimum: 60
+Policy Sustainability Minimum: 45
+Meets OTD Requirement: False
+Meets Defect Requirement: True
+Meets Compliance Requirement: True
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: True
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: True
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-023
+Supplier_ID: SUP-023
+Supplier_Name: Hanguk Circuit Works
+Region: APAC
+Country: South Korea
+Product_Category: Electronic Components
+Product_SKUs: SKU-EC-1007, SKU-EC-1023, SKU-EC-1039, SKU-EC-1055, SKU-EC-1071, SKU-EC-1087, SKU-EC-1103, SKU-EC-1119, SKU-EC-1135, SKU-EC-1151, SKU-EC-1167, SKU-EC-1183, SKU-EC-1199, SKU-EC-1215, SKU-EC-1231, SKU-EC-1247, SKU-EC-1263, SKU-EC-1279
+Contract_Tier: Tier-1
+Risk_Level: Low
+Certifications: ISO9001;AEC-Q100
+Active_Disruptions: Audit overdue; compliance review, Port closure risk, Port congestion risk, Regulatory audit pending, Seasonal flood risk, Tariff adjustment pending
+Alt_Supplier_ID: SUP-001
+Latest_Audit_Date: 2024-09-11
+Record_Count: 18
+
+Performance:
+Average Lead Time Days: 25.22
+Maximum Lead Time Days: 41
+Average OTD Rate Percent: 94.21
+Minimum OTD Rate Percent: 88.6
+Average Defect Rate Percent: 1.15
+Maximum Defect Rate Percent: 1.77
+Average Compliance Score: 88.72
+Minimum Compliance Score: 80
+Average Sustainability Score: 79.44
+Minimum Sustainability Score: 70
+Total PO Value USD: 1110894.35
+Average PO Value USD: 61716.35
+Total Units Ordered: 160359
+Total Units Delivered On Time: 149755
+Total Units Rejected: 1945
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 93.0
+Policy Defect Maximum Percent: 0.99
+Policy Compliance Minimum: 90
+Policy Sustainability Minimum: 80
+Meets OTD Requirement: True
+Meets Defect Requirement: False
+Meets Compliance Requirement: False
+Meets Sustainability Requirement: False
+Supplier Watch List Flag: False
+Needs Sustainability Improvement Plan: True
+High Risk With Disruption: False
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-024
+Supplier_ID: SUP-024
+Supplier_Name: Seoultech Micro
+Region: APAC
+Country: South Korea
+Product_Category: Electronic Components
+Product_SKUs: SKU-EC-1008, SKU-EC-1024, SKU-EC-1040, SKU-EC-1056, SKU-EC-1072, SKU-EC-1088, SKU-EC-1104, SKU-EC-1120, SKU-EC-1136, SKU-EC-1152, SKU-EC-1168, SKU-EC-1184, SKU-EC-1200, SKU-EC-1216, SKU-EC-1232, SKU-EC-1248, SKU-EC-1264, SKU-EC-1280
+Contract_Tier: Tier-2
+Risk_Level: Medium
+Certifications: ISO9001;RoHS
+Active_Disruptions: Export license risk, Geopolitical tension flag, Political instability flag, Port closure risk, Port congestion risk, Regulatory audit pending, Regulatory enforcement pending, Seasonal flood risk
+Alt_Supplier_ID: SUP-061
+Latest_Audit_Date: 2024-08-13
+Record_Count: 18
+
+Performance:
+Average Lead Time Days: 26.28
+Maximum Lead Time Days: 42
+Average OTD Rate Percent: 86.12
+Minimum OTD Rate Percent: 78.4
+Average Defect Rate Percent: 1.83
+Maximum Defect Rate Percent: 2.99
+Average Compliance Score: 81.5
+Minimum Compliance Score: 68
+Average Sustainability Score: 66.67
+Minimum Sustainability Score: 48
+Total PO Value USD: 3297535.58
+Average PO Value USD: 183196.42
+Total Units Ordered: 557435
+Total Units Delivered On Time: 471801
+Total Units Rejected: 10133
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 84.0
+Policy Defect Maximum Percent: 2.5
+Policy Compliance Minimum: 75
+Policy Sustainability Minimum: 60
+Meets OTD Requirement: True
+Meets Defect Requirement: True
+Meets Compliance Requirement: True
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: False
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: False
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-025
+Supplier_ID: SUP-025
+Supplier_Name: Koryo Alloy Systems
+Region: APAC
+Country: South Korea
+Product_Category: Specialty Alloys
+Product_SKUs: SKU-SA-1003, SKU-SA-1022, SKU-SA-1041, SKU-SA-1060, SKU-SA-1079, SKU-SA-1098, SKU-SA-1117, SKU-SA-1136, SKU-SA-1155, SKU-SA-1174, SKU-SA-1193, SKU-SA-1212, SKU-SA-1231, SKU-SA-1250, SKU-SA-1269, SKU-SA-1288, SKU-SA-1307, SKU-SA-1326
+Contract_Tier: Tier-1
+Risk_Level: Low
+Certifications: ISO9001;NADCAP
+Active_Disruptions: Audit overdue; compliance review, Currency volatility flag, Geopolitical tension flag, Port congestion risk, Regulatory audit pending
+Alt_Supplier_ID: SUP-010
+Latest_Audit_Date: 2024-09-21
+Record_Count: 18
+
+Performance:
+Average Lead Time Days: 26.06
+Maximum Lead Time Days: 42
+Average OTD Rate Percent: 94.28
+Minimum OTD Rate Percent: 89.7
+Average Defect Rate Percent: 1.05
+Maximum Defect Rate Percent: 1.72
+Average Compliance Score: 87.11
+Minimum Compliance Score: 80
+Average Sustainability Score: 84.44
+Minimum Sustainability Score: 71
+Total PO Value USD: 3701463.07
+Average PO Value USD: 205636.84
+Total Units Ordered: 152138
+Total Units Delivered On Time: 143016
+Total Units Rejected: 1563
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 93.0
+Policy Defect Maximum Percent: 0.99
+Policy Compliance Minimum: 90
+Policy Sustainability Minimum: 80
+Meets OTD Requirement: True
+Meets Defect Requirement: False
+Meets Compliance Requirement: False
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: False
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: False
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-026
+Supplier_ID: SUP-026
+Supplier_Name: Hangang Steel Parts
+Region: APAC
+Country: South Korea
+Product_Category: Mechanical Components
+Product_SKUs: SKU-MC-1006, SKU-MC-1025, SKU-MC-1044, SKU-MC-1063, SKU-MC-1082, SKU-MC-1101, SKU-MC-1120, SKU-MC-1139, SKU-MC-1158, SKU-MC-1177, SKU-MC-1196, SKU-MC-1215, SKU-MC-1234, SKU-MC-1253, SKU-MC-1272, SKU-MC-1291, SKU-MC-1310, SKU-MC-1329
+Contract_Tier: Tier-2
+Risk_Level: Medium
+Certifications: ISO9001;IATF16949
+Active_Disruptions: Geopolitical tension flag, Labour strike risk, Port closure risk, Port congestion risk, Seasonal flood risk, Tariff adjustment pending, Typhoon season disruption
+Alt_Supplier_ID: SUP-006
+Latest_Audit_Date: 2024-07-19
+Record_Count: 18
+
+Performance:
+Average Lead Time Days: 26.0
+Maximum Lead Time Days: 40
+Average OTD Rate Percent: 85.51
+Minimum OTD Rate Percent: 78.4
+Average Defect Rate Percent: 1.98
+Maximum Defect Rate Percent: 3.13
+Average Compliance Score: 78.78
+Minimum Compliance Score: 67
+Average Sustainability Score: 67.39
+Minimum Sustainability Score: 49
+Total PO Value USD: 2426635.76
+Average PO Value USD: 134813.1
+Total Units Ordered: 473273
+Total Units Delivered On Time: 401496
+Total Units Rejected: 9080
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 84.0
+Policy Defect Maximum Percent: 2.5
+Policy Compliance Minimum: 75
+Policy Sustainability Minimum: 60
+Meets OTD Requirement: True
+Meets Defect Requirement: True
+Meets Compliance Requirement: True
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: False
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: False
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-027
+Supplier_ID: SUP-027
+Supplier_Name: Busan Pack Corp
+Region: APAC
+Country: South Korea
+Product_Category: Packaging Materials
+Product_SKUs: SKU-PM-1004, SKU-PM-1029, SKU-PM-1054, SKU-PM-1079, SKU-PM-1104, SKU-PM-1129, SKU-PM-1154, SKU-PM-1179, SKU-PM-1204, SKU-PM-1229, SKU-PM-1254, SKU-PM-1279, SKU-PM-1304, SKU-PM-1329, SKU-PM-1354, SKU-PM-1379, SKU-PM-1404, SKU-PM-1429
+Contract_Tier: Tier-2
+Risk_Level: High
+Certifications: FSC;ISO9001
+Active_Disruptions: Audit overdue; compliance review, Export license risk, Labour strike risk, Port closure risk, Regulatory audit pending, Tariff adjustment pending, Typhoon season disruption
+Alt_Supplier_ID: SUP-012
+Latest_Audit_Date: 2024-08-07
+Record_Count: 18
+
+Performance:
+Average Lead Time Days: 24.61
+Maximum Lead Time Days: 42
+Average OTD Rate Percent: 88.25
+Minimum OTD Rate Percent: 78.5
+Average Defect Rate Percent: 1.98
+Maximum Defect Rate Percent: 3.13
+Average Compliance Score: 81.67
+Minimum Compliance Score: 67
+Average Sustainability Score: 68.67
+Minimum Sustainability Score: 52
+Total PO Value USD: 864414.12
+Average PO Value USD: 48023.01
+Total Units Ordered: 418907
+Total Units Delivered On Time: 373526
+Total Units Rejected: 9013
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 84.0
+Policy Defect Maximum Percent: 2.5
+Policy Compliance Minimum: 75
+Policy Sustainability Minimum: 60
+Meets OTD Requirement: True
+Meets Defect Requirement: True
+Meets Compliance Requirement: True
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: False
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: True
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-028
+Supplier_ID: SUP-028
+Supplier_Name: Hokkaido Alloy Tech
+Region: APAC
+Country: Japan
+Product_Category: Specialty Alloys
+Product_SKUs: SKU-SA-1004, SKU-SA-1023, SKU-SA-1042, SKU-SA-1061, SKU-SA-1080, SKU-SA-1099, SKU-SA-1118, SKU-SA-1137, SKU-SA-1156, SKU-SA-1175, SKU-SA-1194, SKU-SA-1213, SKU-SA-1232, SKU-SA-1251, SKU-SA-1270, SKU-SA-1289, SKU-SA-1308, SKU-SA-1327
+Contract_Tier: Tier-1
+Risk_Level: Low
+Certifications: ISO9001;NADCAP;AS9100
+Active_Disruptions: Audit overdue; compliance review, Currency volatility flag, Regulatory audit pending, Typhoon season disruption
+Alt_Supplier_ID: SUP-032
+Latest_Audit_Date: 2024-09-28
+Record_Count: 18
+
+Performance:
+Average Lead Time Days: 22.39
+Maximum Lead Time Days: 40
+Average OTD Rate Percent: 94.09
+Minimum OTD Rate Percent: 88.9
+Average Defect Rate Percent: 0.97
+Maximum Defect Rate Percent: 1.75
+Average Compliance Score: 88.39
+Minimum Compliance Score: 80
+Average Sustainability Score: 83.56
+Minimum Sustainability Score: 70
+Total PO Value USD: 3795087.29
+Average PO Value USD: 210838.18
+Total Units Ordered: 182307
+Total Units Delivered On Time: 171891
+Total Units Rejected: 1672
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 93.0
+Policy Defect Maximum Percent: 0.99
+Policy Compliance Minimum: 90
+Policy Sustainability Minimum: 80
+Meets OTD Requirement: True
+Meets Defect Requirement: True
+Meets Compliance Requirement: False
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: False
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: False
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-029
+Supplier_ID: SUP-029
+Supplier_Name: Kinki Precision Corp
+Region: APAC
+Country: Japan
+Product_Category: Electronic Components
+Product_SKUs: SKU-EC-1009, SKU-EC-1025, SKU-EC-1041, SKU-EC-1057, SKU-EC-1073, SKU-EC-1089, SKU-EC-1105, SKU-EC-1121, SKU-EC-1137, SKU-EC-1153, SKU-EC-1169, SKU-EC-1185, SKU-EC-1201, SKU-EC-1217, SKU-EC-1233, SKU-EC-1249, SKU-EC-1265
+Contract_Tier: Tier-1
+Risk_Level: Low
+Certifications: ISO9001;AEC-Q100;RoHS
+Active_Disruptions: Geopolitical tension flag, Tariff adjustment pending
+Alt_Supplier_ID: SUP-081
+Latest_Audit_Date: 2024-09-06
+Record_Count: 17
+
+Performance:
+Average Lead Time Days: 23.41
+Maximum Lead Time Days: 40
+Average OTD Rate Percent: 94.18
+Minimum OTD Rate Percent: 88.5
+Average Defect Rate Percent: 1.0
+Maximum Defect Rate Percent: 1.76
+Average Compliance Score: 90.29
+Minimum Compliance Score: 82
+Average Sustainability Score: 85.06
+Minimum Sustainability Score: 70
+Total PO Value USD: 864666.51
+Average PO Value USD: 50862.74
+Total Units Ordered: 142439
+Total Units Delivered On Time: 134442
+Total Units Rejected: 1471
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 93.0
+Policy Defect Maximum Percent: 0.99
+Policy Compliance Minimum: 90
+Policy Sustainability Minimum: 80
+Meets OTD Requirement: True
+Meets Defect Requirement: False
+Meets Compliance Requirement: True
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: False
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: False
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-030
+Supplier_ID: SUP-030
+Supplier_Name: Osaka Polymer Systems
+Region: APAC
+Country: Japan
+Product_Category: Raw Materials
+Product_SKUs: SKU-RM-1004, SKU-RM-1025, SKU-RM-1046, SKU-RM-1067, SKU-RM-1088, SKU-RM-1109, SKU-RM-1130, SKU-RM-1151, SKU-RM-1172, SKU-RM-1193, SKU-RM-1214, SKU-RM-1235, SKU-RM-1256, SKU-RM-1277, SKU-RM-1298, SKU-RM-1319, SKU-RM-1340
+Contract_Tier: Tier-1
+Risk_Level: Low
+Certifications: ISO9001;ISO14001;REACH
+Active_Disruptions: Geopolitical tension flag, Seasonal flood risk
+Alt_Supplier_ID: SUP-076
+Latest_Audit_Date: 2024-09-20
+Record_Count: 17
+
+Performance:
+Average Lead Time Days: 24.35
+Maximum Lead Time Days: 40
+Average OTD Rate Percent: 94.84
+Minimum OTD Rate Percent: 89.0
+Average Defect Rate Percent: 0.9
+Maximum Defect Rate Percent: 1.79
+Average Compliance Score: 88.94
+Minimum Compliance Score: 80
+Average Sustainability Score: 83.82
+Minimum Sustainability Score: 72
+Total PO Value USD: 1766673.12
+Average PO Value USD: 103921.95
+Total Units Ordered: 130215
+Total Units Delivered On Time: 123691
+Total Units Rejected: 1274
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 93.0
+Policy Defect Maximum Percent: 0.99
+Policy Compliance Minimum: 90
+Policy Sustainability Minimum: 80
+Meets OTD Requirement: True
+Meets Defect Requirement: True
+Meets Compliance Requirement: False
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: False
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: False
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-031
+Supplier_ID: SUP-031
+Supplier_Name: Sendai Mech Works
+Region: APAC
+Country: Japan
+Product_Category: Mechanical Components
+Product_SKUs: SKU-MC-1007, SKU-MC-1026, SKU-MC-1045, SKU-MC-1064, SKU-MC-1083, SKU-MC-1102, SKU-MC-1121, SKU-MC-1140, SKU-MC-1159, SKU-MC-1178, SKU-MC-1197, SKU-MC-1216, SKU-MC-1235, SKU-MC-1254, SKU-MC-1273, SKU-MC-1292, SKU-MC-1311
+Contract_Tier: Tier-1
+Risk_Level: Low
+Certifications: ISO9001;IATF16949
+Active_Disruptions: Export license risk, Port congestion risk, Regulatory audit pending, Seasonal flood risk, Typhoon season disruption
+Alt_Supplier_ID: SUP-003
+Latest_Audit_Date: 2024-08-24
+Record_Count: 17
+
+Performance:
+Average Lead Time Days: 27.18
+Maximum Lead Time Days: 41
+Average OTD Rate Percent: 93.34
+Minimum OTD Rate Percent: 88.0
+Average Defect Rate Percent: 1.05
+Maximum Defect Rate Percent: 1.67
+Average Compliance Score: 86.88
+Minimum Compliance Score: 80
+Average Sustainability Score: 84.0
+Minimum Sustainability Score: 71
+Total PO Value USD: 703129.89
+Average PO Value USD: 41360.58
+Total Units Ordered: 152326
+Total Units Delivered On Time: 142606
+Total Units Rejected: 1397
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 93.0
+Policy Defect Maximum Percent: 0.99
+Policy Compliance Minimum: 90
+Policy Sustainability Minimum: 80
+Meets OTD Requirement: True
+Meets Defect Requirement: False
+Meets Compliance Requirement: False
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: False
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: False
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-032
+Supplier_ID: SUP-032
+Supplier_Name: Kyushu Textile Co
+Region: APAC
+Country: Japan
+Product_Category: Industrial Textiles
+Product_SKUs: SKU-IT-1004, SKU-IT-1020, SKU-IT-1036, SKU-IT-1052, SKU-IT-1068, SKU-IT-1084, SKU-IT-1100, SKU-IT-1116, SKU-IT-1132, SKU-IT-1148, SKU-IT-1164, SKU-IT-1180, SKU-IT-1196, SKU-IT-1212, SKU-IT-1228, SKU-IT-1244, SKU-IT-1260
+Contract_Tier: Tier-1
+Risk_Level: Low
+Certifications: OEKO-TEX;ISO9001;ISO14001
+Active_Disruptions: Audit overdue; compliance review, Geopolitical tension flag, Political instability flag, Port congestion risk
+Alt_Supplier_ID: SUP-092
+Latest_Audit_Date: 2024-08-17
+Record_Count: 17
+
+Performance:
+Average Lead Time Days: 29.35
+Maximum Lead Time Days: 42
+Average OTD Rate Percent: 93.16
+Minimum OTD Rate Percent: 88.2
+Average Defect Rate Percent: 0.78
+Maximum Defect Rate Percent: 1.62
+Average Compliance Score: 88.71
+Minimum Compliance Score: 80
+Average Sustainability Score: 85.35
+Minimum Sustainability Score: 73
+Total PO Value USD: 483092.31
+Average PO Value USD: 28417.19
+Total Units Ordered: 117528
+Total Units Delivered On Time: 108997
+Total Units Rejected: 890
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 93.0
+Policy Defect Maximum Percent: 0.99
+Policy Compliance Minimum: 90
+Policy Sustainability Minimum: 80
+Meets OTD Requirement: True
+Meets Defect Requirement: True
+Meets Compliance Requirement: False
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: False
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: False
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-033
+Supplier_ID: SUP-033
+Supplier_Name: PrecisionForge Taiyuan
+Region: APAC
+Country: Taiwan
+Product_Category: Mechanical Components
+Product_SKUs: SKU-MC-1008, SKU-MC-1027, SKU-MC-1046, SKU-MC-1065, SKU-MC-1084, SKU-MC-1103, SKU-MC-1122, SKU-MC-1141, SKU-MC-1160, SKU-MC-1179, SKU-MC-1198, SKU-MC-1217, SKU-MC-1236, SKU-MC-1255, SKU-MC-1274, SKU-MC-1293, SKU-MC-1312
+Contract_Tier: Tier-1
+Risk_Level: Low
+Certifications: ISO9001;IATF16949
+Active_Disruptions: Port congestion risk, Seasonal flood risk, Tariff adjustment pending
+Alt_Supplier_ID: SUP-016
+Latest_Audit_Date: 2024-07-10
+Record_Count: 17
+
+Performance:
+Average Lead Time Days: 24.24
+Maximum Lead Time Days: 34
+Average OTD Rate Percent: 94.43
+Minimum OTD Rate Percent: 88.9
+Average Defect Rate Percent: 1.12
+Maximum Defect Rate Percent: 1.77
+Average Compliance Score: 87.82
+Minimum Compliance Score: 80
+Average Sustainability Score: 85.24
+Minimum Sustainability Score: 74
+Total PO Value USD: 591164.41
+Average PO Value USD: 34774.38
+Total Units Ordered: 131604
+Total Units Delivered On Time: 123289
+Total Units Rejected: 1442
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 93.0
+Policy Defect Maximum Percent: 0.99
+Policy Compliance Minimum: 90
+Policy Sustainability Minimum: 80
+Meets OTD Requirement: True
+Meets Defect Requirement: False
+Meets Compliance Requirement: False
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: False
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: False
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-034
+Supplier_ID: SUP-034
+Supplier_Name: Formosa Circuit Co
+Region: APAC
+Country: Taiwan
+Product_Category: Electronic Components
+Product_SKUs: SKU-EC-1010, SKU-EC-1026, SKU-EC-1042, SKU-EC-1058, SKU-EC-1074, SKU-EC-1090, SKU-EC-1106, SKU-EC-1122, SKU-EC-1138, SKU-EC-1154, SKU-EC-1170, SKU-EC-1186, SKU-EC-1202, SKU-EC-1218, SKU-EC-1234, SKU-EC-1250, SKU-EC-1266
+Contract_Tier: Tier-1
+Risk_Level: Low
+Certifications: ISO9001;AEC-Q100;RoHS
+Active_Disruptions: Audit overdue; compliance review, Geopolitical tension flag, Regulatory enforcement pending, Typhoon season disruption
+Alt_Supplier_ID: SUP-003
+Latest_Audit_Date: 2024-09-17
+Record_Count: 17
+
+Performance:
+Average Lead Time Days: 29.29
+Maximum Lead Time Days: 41
+Average OTD Rate Percent: 92.62
+Minimum OTD Rate Percent: 88.1
+Average Defect Rate Percent: 1.05
+Maximum Defect Rate Percent: 1.8
+Average Compliance Score: 91.12
+Minimum Compliance Score: 80
+Average Sustainability Score: 81.12
+Minimum Sustainability Score: 70
+Total PO Value USD: 912811.76
+Average PO Value USD: 53694.81
+Total Units Ordered: 146705
+Total Units Delivered On Time: 135692
+Total Units Rejected: 1452
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 93.0
+Policy Defect Maximum Percent: 0.99
+Policy Compliance Minimum: 90
+Policy Sustainability Minimum: 80
+Meets OTD Requirement: False
+Meets Defect Requirement: False
+Meets Compliance Requirement: True
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: False
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: False
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-035
+Supplier_ID: SUP-035
+Supplier_Name: Yulon Alloy Mfg
+Region: APAC
+Country: Taiwan
+Product_Category: Specialty Alloys
+Product_SKUs: SKU-SA-1005, SKU-SA-1024, SKU-SA-1043, SKU-SA-1062, SKU-SA-1081, SKU-SA-1100, SKU-SA-1119, SKU-SA-1138, SKU-SA-1157, SKU-SA-1176, SKU-SA-1195, SKU-SA-1214, SKU-SA-1233, SKU-SA-1252, SKU-SA-1271, SKU-SA-1290, SKU-SA-1309
+Contract_Tier: Tier-2
+Risk_Level: Medium
+Certifications: ISO9001
+Active_Disruptions: Geopolitical tension flag, Political instability flag, Port closure risk, Port congestion risk, Regulatory audit pending, Seasonal flood risk, Tariff adjustment pending, Typhoon season disruption
+Alt_Supplier_ID: SUP-004
+Latest_Audit_Date: 2024-07-29
+Record_Count: 17
+
+Performance:
+Average Lead Time Days: 27.53
+Maximum Lead Time Days: 42
+Average OTD Rate Percent: 87.79
+Minimum OTD Rate Percent: 79.1
+Average Defect Rate Percent: 1.95
+Maximum Defect Rate Percent: 3.13
+Average Compliance Score: 78.0
+Minimum Compliance Score: 67
+Average Sustainability Score: 74.24
+Minimum Sustainability Score: 50
+Total PO Value USD: 7576863.87
+Average PO Value USD: 445697.87
+Total Units Ordered: 373137
+Total Units Delivered On Time: 330079
+Total Units Rejected: 6712
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 84.0
+Policy Defect Maximum Percent: 2.5
+Policy Compliance Minimum: 75
+Policy Sustainability Minimum: 60
+Meets OTD Requirement: True
+Meets Defect Requirement: True
+Meets Compliance Requirement: True
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: False
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: False
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-036
+Supplier_ID: SUP-036
+Supplier_Name: Kaohsiung Pack Co
+Region: APAC
+Country: Taiwan
+Product_Category: Packaging Materials
+Product_SKUs: SKU-PM-1005, SKU-PM-1030, SKU-PM-1055, SKU-PM-1080, SKU-PM-1105, SKU-PM-1130, SKU-PM-1155, SKU-PM-1180, SKU-PM-1205, SKU-PM-1230, SKU-PM-1255, SKU-PM-1280, SKU-PM-1305, SKU-PM-1330, SKU-PM-1355, SKU-PM-1380, SKU-PM-1405
+Contract_Tier: Tier-2
+Risk_Level: Medium
+Certifications: FSC;ISO9001
+Active_Disruptions: Geopolitical tension flag, Political instability flag, Port closure risk, Regulatory enforcement pending, Seasonal flood risk, Tariff adjustment pending
+Alt_Supplier_ID: SUP-001
+Latest_Audit_Date: 2024-09-19
+Record_Count: 17
+
+Performance:
+Average Lead Time Days: 24.24
+Maximum Lead Time Days: 38
+Average OTD Rate Percent: 84.71
+Minimum OTD Rate Percent: 78.3
+Average Defect Rate Percent: 1.68
+Maximum Defect Rate Percent: 3.09
+Average Compliance Score: 78.41
+Minimum Compliance Score: 70
+Average Sustainability Score: 72.71
+Minimum Sustainability Score: 48
+Total PO Value USD: 1121300.49
+Average PO Value USD: 65958.85
+Total Units Ordered: 512713
+Total Units Delivered On Time: 432662
+Total Units Rejected: 7731
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 84.0
+Policy Defect Maximum Percent: 2.5
+Policy Compliance Minimum: 75
+Policy Sustainability Minimum: 60
+Meets OTD Requirement: True
+Meets Defect Requirement: True
+Meets Compliance Requirement: True
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: False
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: False
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-037
+Supplier_ID: SUP-037
+Supplier_Name: Straits Packaging Hub
+Region: APAC
+Country: Singapore
+Product_Category: Packaging Materials
+Product_SKUs: SKU-PM-1006, SKU-PM-1031, SKU-PM-1056, SKU-PM-1081, SKU-PM-1106, SKU-PM-1131, SKU-PM-1156, SKU-PM-1181, SKU-PM-1206, SKU-PM-1231, SKU-PM-1256, SKU-PM-1281, SKU-PM-1306, SKU-PM-1331, SKU-PM-1356, SKU-PM-1381, SKU-PM-1406
+Contract_Tier: Tier-1
+Risk_Level: Low
+Certifications: ISO9001;ISO14001
+Active_Disruptions: Geopolitical tension flag, Political instability flag, Seasonal flood risk, Tariff adjustment pending
+Alt_Supplier_ID: SUP-001
+Latest_Audit_Date: 2024-08-22
+Record_Count: 17
+
+Performance:
+Average Lead Time Days: 21.82
+Maximum Lead Time Days: 40
+Average OTD Rate Percent: 93.41
+Minimum OTD Rate Percent: 88.5
+Average Defect Rate Percent: 0.96
+Maximum Defect Rate Percent: 1.79
+Average Compliance Score: 92.12
+Minimum Compliance Score: 84
+Average Sustainability Score: 83.59
+Minimum Sustainability Score: 72
+Total PO Value USD: 357752.13
+Average PO Value USD: 21044.24
+Total Units Ordered: 149167
+Total Units Delivered On Time: 139291
+Total Units Rejected: 1444
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 93.0
+Policy Defect Maximum Percent: 0.99
+Policy Compliance Minimum: 90
+Policy Sustainability Minimum: 80
+Meets OTD Requirement: True
+Meets Defect Requirement: True
+Meets Compliance Requirement: True
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: False
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: False
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-038
+Supplier_ID: SUP-038
+Supplier_Name: SingaMold Tech
+Region: APAC
+Country: Singapore
+Product_Category: Mechanical Components
+Product_SKUs: SKU-MC-1009, SKU-MC-1028, SKU-MC-1047, SKU-MC-1066, SKU-MC-1085, SKU-MC-1104, SKU-MC-1123, SKU-MC-1142, SKU-MC-1161, SKU-MC-1180, SKU-MC-1199, SKU-MC-1218, SKU-MC-1237, SKU-MC-1256, SKU-MC-1275, SKU-MC-1294, SKU-MC-1313
+Contract_Tier: Tier-1
+Risk_Level: Low
+Certifications: ISO9001;IATF16949
+Active_Disruptions: Political instability flag, Regulatory enforcement pending, Seasonal flood risk, Tariff adjustment pending
+Alt_Supplier_ID: SUP-036
+Latest_Audit_Date: 2024-07-29
+Record_Count: 17
+
+Performance:
+Average Lead Time Days: 23.82
+Maximum Lead Time Days: 41
+Average OTD Rate Percent: 94.66
+Minimum OTD Rate Percent: 89.0
+Average Defect Rate Percent: 0.78
+Maximum Defect Rate Percent: 1.45
+Average Compliance Score: 87.41
+Minimum Compliance Score: 80
+Average Sustainability Score: 83.06
+Minimum Sustainability Score: 74
+Total PO Value USD: 687982.73
+Average PO Value USD: 40469.57
+Total Units Ordered: 114411
+Total Units Delivered On Time: 108350
+Total Units Rejected: 1016
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 93.0
+Policy Defect Maximum Percent: 0.99
+Policy Compliance Minimum: 90
+Policy Sustainability Minimum: 80
+Meets OTD Requirement: True
+Meets Defect Requirement: True
+Meets Compliance Requirement: False
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: False
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: False
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-039
+Supplier_ID: SUP-039
+Supplier_Name: Krungsri Moldtech
+Region: APAC
+Country: Thailand
+Product_Category: Mechanical Components
+Product_SKUs: SKU-MC-1010, SKU-MC-1029, SKU-MC-1048, SKU-MC-1067, SKU-MC-1086, SKU-MC-1105, SKU-MC-1124, SKU-MC-1143, SKU-MC-1162, SKU-MC-1181, SKU-MC-1200, SKU-MC-1219, SKU-MC-1238, SKU-MC-1257, SKU-MC-1276, SKU-MC-1295, SKU-MC-1314
+Contract_Tier: Tier-2
+Risk_Level: Medium
+Certifications: ISO9001;IATF16949
+Active_Disruptions: Audit overdue; compliance review, Export license risk, Geopolitical tension flag, Regulatory audit pending, Seasonal flood risk, Tariff adjustment pending
+Alt_Supplier_ID: SUP-008
+Latest_Audit_Date: 2024-09-10
+Record_Count: 17
+
+Performance:
+Average Lead Time Days: 28.65
+Maximum Lead Time Days: 40
+Average OTD Rate Percent: 86.89
+Minimum OTD Rate Percent: 79.1
+Average Defect Rate Percent: 1.82
+Maximum Defect Rate Percent: 2.95
+Average Compliance Score: 78.29
+Minimum Compliance Score: 70
+Average Sustainability Score: 65.47
+Minimum Sustainability Score: 48
+Total PO Value USD: 2033808.35
+Average PO Value USD: 119635.79
+Total Units Ordered: 400553
+Total Units Delivered On Time: 344263
+Total Units Rejected: 7156
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 84.0
+Policy Defect Maximum Percent: 2.5
+Policy Compliance Minimum: 75
+Policy Sustainability Minimum: 60
+Meets OTD Requirement: True
+Meets Defect Requirement: True
+Meets Compliance Requirement: True
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: False
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: False
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-040
+Supplier_ID: SUP-040
+Supplier_Name: ChaoPhaya Pack
+Region: APAC
+Country: Thailand
+Product_Category: Packaging Materials
+Product_SKUs: SKU-PM-1007, SKU-PM-1032, SKU-PM-1057, SKU-PM-1082, SKU-PM-1107, SKU-PM-1132, SKU-PM-1157, SKU-PM-1182, SKU-PM-1207, SKU-PM-1232, SKU-PM-1257, SKU-PM-1282, SKU-PM-1307, SKU-PM-1332, SKU-PM-1357, SKU-PM-1382, SKU-PM-1407
+Contract_Tier: Tier-2
+Risk_Level: Medium
+Certifications: FSC;ISO9001
+Active_Disruptions: Geopolitical tension flag, Port congestion risk, Regulatory audit pending, Seasonal flood risk, Tariff adjustment pending
+Alt_Supplier_ID: SUP-042
+Latest_Audit_Date: 2024-09-24
+Record_Count: 17
+
+Performance:
+Average Lead Time Days: 24.88
+Maximum Lead Time Days: 38
+Average OTD Rate Percent: 87.94
+Minimum OTD Rate Percent: 78.7
+Average Defect Rate Percent: 1.51
+Maximum Defect Rate Percent: 2.68
+Average Compliance Score: 81.0
+Minimum Compliance Score: 67
+Average Sustainability Score: 65.82
+Minimum Sustainability Score: 49
+Total PO Value USD: 1059383.66
+Average PO Value USD: 62316.69
+Total Units Ordered: 522126
+Total Units Delivered On Time: 454483
+Total Units Rejected: 7370
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 84.0
+Policy Defect Maximum Percent: 2.5
+Policy Compliance Minimum: 75
+Policy Sustainability Minimum: 60
+Meets OTD Requirement: True
+Meets Defect Requirement: True
+Meets Compliance Requirement: True
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: False
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: False
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-041
+Supplier_ID: SUP-041
+Supplier_Name: Archipelago PCB Corp
+Region: APAC
+Country: Philippines
+Product_Category: Electronic Components
+Product_SKUs: SKU-EC-1011, SKU-EC-1027, SKU-EC-1043, SKU-EC-1059, SKU-EC-1075, SKU-EC-1091, SKU-EC-1107, SKU-EC-1123, SKU-EC-1139, SKU-EC-1155, SKU-EC-1171, SKU-EC-1187, SKU-EC-1203, SKU-EC-1219, SKU-EC-1235, SKU-EC-1251, SKU-EC-1267
+Contract_Tier: Tier-3
+Risk_Level: High
+Certifications: ISO9001
+Active_Disruptions: Audit overdue; compliance review, Export license risk, Labour strike risk, Port closure risk, Tariff adjustment pending, Typhoon season disruption
+Alt_Supplier_ID: SUP-016
+Latest_Audit_Date: 2024-06-05
+Record_Count: 17
+
+Performance:
+Average Lead Time Days: 32.29
+Maximum Lead Time Days: 52
+Average OTD Rate Percent: 74.42
+Minimum OTD Rate Percent: 61.6
+Average Defect Rate Percent: 2.82
+Maximum Defect Rate Percent: 4.38
+Average Compliance Score: 66.71
+Minimum Compliance Score: 52
+Average Sustainability Score: 47.65
+Minimum Sustainability Score: 33
+Total PO Value USD: 4402101.57
+Average PO Value USD: 258947.15
+Total Units Ordered: 694854
+Total Units Delivered On Time: 518586
+Total Units Rejected: 18079
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 75.0
+Policy Defect Maximum Percent: 4.0
+Policy Compliance Minimum: 60
+Policy Sustainability Minimum: 45
+Meets OTD Requirement: False
+Meets Defect Requirement: True
+Meets Compliance Requirement: True
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: True
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: True
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-042
+Supplier_ID: SUP-042
+Supplier_Name: Visayas Textile Co
+Region: APAC
+Country: Philippines
+Product_Category: Industrial Textiles
+Product_SKUs: SKU-IT-1005, SKU-IT-1021, SKU-IT-1037, SKU-IT-1053, SKU-IT-1069, SKU-IT-1085, SKU-IT-1101, SKU-IT-1117, SKU-IT-1133, SKU-IT-1149, SKU-IT-1165, SKU-IT-1181, SKU-IT-1197, SKU-IT-1213, SKU-IT-1229, SKU-IT-1245, SKU-IT-1261
+Contract_Tier: Tier-3
+Risk_Level: Medium
+Certifications: OEKO-TEX;ISO9001
+Active_Disruptions: Currency volatility flag, Export license risk, Geopolitical tension flag, Port closure risk, Port congestion risk, Regulatory audit pending, Regulatory enforcement pending, Tariff adjustment pending
+Alt_Supplier_ID: SUP-033
+Latest_Audit_Date: 2024-08-03
+Record_Count: 17
+
+Performance:
+Average Lead Time Days: 37.47
+Maximum Lead Time Days: 52
+Average OTD Rate Percent: 76.0
+Minimum OTD Rate Percent: 62.1
+Average Defect Rate Percent: 2.97
+Maximum Defect Rate Percent: 4.1
+Average Compliance Score: 60.94
+Minimum Compliance Score: 50
+Average Sustainability Score: 50.24
+Minimum Sustainability Score: 36
+Total PO Value USD: 2723402.89
+Average PO Value USD: 160200.17
+Total Units Ordered: 677340
+Total Units Delivered On Time: 518469
+Total Units Rejected: 19205
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 75.0
+Policy Defect Maximum Percent: 4.0
+Policy Compliance Minimum: 60
+Policy Sustainability Minimum: 45
+Meets OTD Requirement: True
+Meets Defect Requirement: True
+Meets Compliance Requirement: True
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: True
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: False
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-043
+Supplier_ID: SUP-043
+Supplier_Name: Tasman Circuit Boards
+Region: APAC
+Country: Australia
+Product_Category: Electronic Components
+Product_SKUs: SKU-EC-1012, SKU-EC-1028, SKU-EC-1044, SKU-EC-1060, SKU-EC-1076, SKU-EC-1092, SKU-EC-1108, SKU-EC-1124, SKU-EC-1140, SKU-EC-1156, SKU-EC-1172, SKU-EC-1188, SKU-EC-1204, SKU-EC-1220, SKU-EC-1236, SKU-EC-1252, SKU-EC-1268
+Contract_Tier: Tier-1
+Risk_Level: Low
+Certifications: ISO9001;AEC-Q100;RoHS
+Active_Disruptions: Geopolitical tension flag, Regulatory audit pending, Tariff adjustment pending
+Alt_Supplier_ID: SUP-002
+Latest_Audit_Date: 2024-08-11
+Record_Count: 17
+
+Performance:
+Average Lead Time Days: 22.82
+Maximum Lead Time Days: 42
+Average OTD Rate Percent: 94.57
+Minimum OTD Rate Percent: 88.8
+Average Defect Rate Percent: 1.19
+Maximum Defect Rate Percent: 1.69
+Average Compliance Score: 87.18
+Minimum Compliance Score: 80
+Average Sustainability Score: 83.18
+Minimum Sustainability Score: 70
+Total PO Value USD: 1162467.22
+Average PO Value USD: 68380.42
+Total Units Ordered: 160656
+Total Units Delivered On Time: 152449
+Total Units Rejected: 2040
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 93.0
+Policy Defect Maximum Percent: 0.99
+Policy Compliance Minimum: 90
+Policy Sustainability Minimum: 80
+Meets OTD Requirement: True
+Meets Defect Requirement: False
+Meets Compliance Requirement: False
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: False
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: False
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-044
+Supplier_ID: SUP-044
+Supplier_Name: Broken Hill Alloys
+Region: APAC
+Country: Australia
+Product_Category: Specialty Alloys
+Product_SKUs: SKU-SA-1006, SKU-SA-1025, SKU-SA-1044, SKU-SA-1063, SKU-SA-1082, SKU-SA-1101, SKU-SA-1120, SKU-SA-1139, SKU-SA-1158, SKU-SA-1177, SKU-SA-1196, SKU-SA-1215, SKU-SA-1234, SKU-SA-1253, SKU-SA-1272, SKU-SA-1291, SKU-SA-1310
+Contract_Tier: Tier-1
+Risk_Level: Low
+Certifications: ISO9001;NADCAP
+Active_Disruptions: Geopolitical tension flag, Political instability flag, Port closure risk, Seasonal flood risk
+Alt_Supplier_ID: SUP-002
+Latest_Audit_Date: 2024-09-02
+Record_Count: 17
+
+Performance:
+Average Lead Time Days: 22.65
+Maximum Lead Time Days: 41
+Average OTD Rate Percent: 93.77
+Minimum OTD Rate Percent: 88.9
+Average Defect Rate Percent: 0.55
+Maximum Defect Rate Percent: 1.26
+Average Compliance Score: 89.41
+Minimum Compliance Score: 81
+Average Sustainability Score: 86.65
+Minimum Sustainability Score: 71
+Total PO Value USD: 2124588.35
+Average PO Value USD: 124975.79
+Total Units Ordered: 114233
+Total Units Delivered On Time: 107205
+Total Units Rejected: 778
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 93.0
+Policy Defect Maximum Percent: 0.99
+Policy Compliance Minimum: 90
+Policy Sustainability Minimum: 80
+Meets OTD Requirement: True
+Meets Defect Requirement: True
+Meets Compliance Requirement: False
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: False
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: False
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-045
+Supplier_ID: SUP-045
+Supplier_Name: Sibertek Molding
+Region: APAC
+Country: Russia
+Product_Category: Mechanical Components
+Product_SKUs: SKU-MC-1011, SKU-MC-1030, SKU-MC-1049, SKU-MC-1068, SKU-MC-1087, SKU-MC-1106, SKU-MC-1125, SKU-MC-1144, SKU-MC-1163, SKU-MC-1182, SKU-MC-1201, SKU-MC-1220, SKU-MC-1239, SKU-MC-1258, SKU-MC-1277, SKU-MC-1296, SKU-MC-1315
+Contract_Tier: Tier-3
+Risk_Level: Medium
+Certifications: ISO9001
+Active_Disruptions: Geopolitical tension flag, Labour strike risk, Port closure risk, Regulatory audit pending, Seasonal flood risk, Tariff adjustment pending
+Alt_Supplier_ID: SUP-010
+Latest_Audit_Date: 2024-09-18
+Record_Count: 17
+
+Performance:
+Average Lead Time Days: 40.41
+Maximum Lead Time Days: 52
+Average OTD Rate Percent: 72.69
+Minimum OTD Rate Percent: 62.1
+Average Defect Rate Percent: 3.19
+Maximum Defect Rate Percent: 4.45
+Average Compliance Score: 64.24
+Minimum Compliance Score: 51
+Average Sustainability Score: 47.53
+Minimum Sustainability Score: 31
+Total PO Value USD: 3126936.59
+Average PO Value USD: 183937.45
+Total Units Ordered: 639763
+Total Units Delivered On Time: 462283
+Total Units Rejected: 20977
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 75.0
+Policy Defect Maximum Percent: 4.0
+Policy Compliance Minimum: 60
+Policy Sustainability Minimum: 45
+Meets OTD Requirement: False
+Meets Defect Requirement: True
+Meets Compliance Requirement: True
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: True
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: False
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-046
+Supplier_ID: SUP-046
+Supplier_Name: Krauss-Polymex GmbH
+Region: EMEA
+Country: Germany
+Product_Category: Raw Materials
+Product_SKUs: SKU-RM-1005, SKU-RM-1026, SKU-RM-1047, SKU-RM-1068, SKU-RM-1089, SKU-RM-1110, SKU-RM-1131, SKU-RM-1152, SKU-RM-1173, SKU-RM-1194, SKU-RM-1215, SKU-RM-1236, SKU-RM-1257, SKU-RM-1278, SKU-RM-1299, SKU-RM-1320, SKU-RM-1341
+Contract_Tier: Tier-1
+Risk_Level: Low
+Certifications: REACH;ISO9001;ISO14001
+Active_Disruptions: Geopolitical tension flag, Regulatory audit pending, Seasonal flood risk
+Alt_Supplier_ID: SUP-035
+Latest_Audit_Date: 2024-08-27
+Record_Count: 17
+
+Performance:
+Average Lead Time Days: 21.24
+Maximum Lead Time Days: 39
+Average OTD Rate Percent: 93.56
+Minimum OTD Rate Percent: 88.5
+Average Defect Rate Percent: 0.94
+Maximum Defect Rate Percent: 1.69
+Average Compliance Score: 89.59
+Minimum Compliance Score: 80
+Average Sustainability Score: 86.53
+Minimum Sustainability Score: 71
+Total PO Value USD: 1934117.17
+Average PO Value USD: 113771.6
+Total Units Ordered: 167145
+Total Units Delivered On Time: 156361
+Total Units Rejected: 1608
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 93.0
+Policy Defect Maximum Percent: 0.99
+Policy Compliance Minimum: 90
+Policy Sustainability Minimum: 80
+Meets OTD Requirement: True
+Meets Defect Requirement: True
+Meets Compliance Requirement: False
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: False
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: False
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-047
+Supplier_ID: SUP-047
+Supplier_Name: Rheinwerk Precision AG
+Region: EMEA
+Country: Germany
+Product_Category: Mechanical Components
+Product_SKUs: SKU-MC-1012, SKU-MC-1031, SKU-MC-1050, SKU-MC-1069, SKU-MC-1088, SKU-MC-1107, SKU-MC-1126, SKU-MC-1145, SKU-MC-1164, SKU-MC-1183, SKU-MC-1202, SKU-MC-1221, SKU-MC-1240, SKU-MC-1259, SKU-MC-1278, SKU-MC-1297, SKU-MC-1316
+Contract_Tier: Tier-1
+Risk_Level: Low
+Certifications: ISO9001;IATF16949
+Active_Disruptions: Geopolitical tension flag, Regulatory audit pending, Typhoon season disruption
+Alt_Supplier_ID: SUP-102
+Latest_Audit_Date: 2024-09-28
+Record_Count: 17
+
+Performance:
+Average Lead Time Days: 24.94
+Maximum Lead Time Days: 39
+Average OTD Rate Percent: 93.65
+Minimum OTD Rate Percent: 88.2
+Average Defect Rate Percent: 0.96
+Maximum Defect Rate Percent: 1.79
+Average Compliance Score: 89.76
+Minimum Compliance Score: 81
+Average Sustainability Score: 85.41
+Minimum Sustainability Score: 71
+Total PO Value USD: 672371.26
+Average PO Value USD: 39551.25
+Total Units Ordered: 154852
+Total Units Delivered On Time: 144319
+Total Units Rejected: 1502
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 93.0
+Policy Defect Maximum Percent: 0.99
+Policy Compliance Minimum: 90
+Policy Sustainability Minimum: 80
+Meets OTD Requirement: True
+Meets Defect Requirement: True
+Meets Compliance Requirement: False
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: False
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: False
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-048
+Supplier_ID: SUP-048
+Supplier_Name: Berliner Pack GmbH
+Region: EMEA
+Country: Germany
+Product_Category: Packaging Materials
+Product_SKUs: SKU-PM-1008, SKU-PM-1033, SKU-PM-1058, SKU-PM-1083, SKU-PM-1108, SKU-PM-1133, SKU-PM-1158, SKU-PM-1183, SKU-PM-1208, SKU-PM-1233, SKU-PM-1258, SKU-PM-1283, SKU-PM-1308, SKU-PM-1333, SKU-PM-1358, SKU-PM-1383, SKU-PM-1408
+Contract_Tier: Tier-1
+Risk_Level: Low
+Certifications: FSC;ISO14001;ISO9001
+Active_Disruptions: Export license risk, Port closure risk, Port congestion risk, Regulatory enforcement pending, Tariff adjustment pending
+Alt_Supplier_ID: SUP-087
+Latest_Audit_Date: 2024-09-24
+Record_Count: 17
+
+Performance:
+Average Lead Time Days: 24.82
+Maximum Lead Time Days: 41
+Average OTD Rate Percent: 93.85
+Minimum OTD Rate Percent: 88.1
+Average Defect Rate Percent: 0.76
+Maximum Defect Rate Percent: 1.51
+Average Compliance Score: 89.94
+Minimum Compliance Score: 80
+Average Sustainability Score: 80.82
+Minimum Sustainability Score: 70
+Total PO Value USD: 289328.09
+Average PO Value USD: 17019.3
+Total Units Ordered: 143356
+Total Units Delivered On Time: 135225
+Total Units Rejected: 1058
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 93.0
+Policy Defect Maximum Percent: 0.99
+Policy Compliance Minimum: 90
+Policy Sustainability Minimum: 80
+Meets OTD Requirement: True
+Meets Defect Requirement: True
+Meets Compliance Requirement: False
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: False
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: False
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-049
+Supplier_ID: SUP-049
+Supplier_Name: Munich Alloy Technik
+Region: EMEA
+Country: Germany
+Product_Category: Specialty Alloys
+Product_SKUs: SKU-SA-1007, SKU-SA-1026, SKU-SA-1045, SKU-SA-1064, SKU-SA-1083, SKU-SA-1102, SKU-SA-1121, SKU-SA-1140, SKU-SA-1159, SKU-SA-1178, SKU-SA-1197, SKU-SA-1216, SKU-SA-1235, SKU-SA-1254, SKU-SA-1273, SKU-SA-1292, SKU-SA-1311
+Contract_Tier: Tier-1
+Risk_Level: Low
+Certifications: ISO9001;NADCAP;AS9100
+Active_Disruptions: Geopolitical tension flag, Labour strike risk, Port closure risk, Seasonal flood risk
+Alt_Supplier_ID: SUP-088
+Latest_Audit_Date: 2024-09-11
+Record_Count: 17
+
+Performance:
+Average Lead Time Days: 25.47
+Maximum Lead Time Days: 40
+Average OTD Rate Percent: 94.45
+Minimum OTD Rate Percent: 89.1
+Average Defect Rate Percent: 0.89
+Maximum Defect Rate Percent: 1.69
+Average Compliance Score: 90.88
+Minimum Compliance Score: 80
+Average Sustainability Score: 83.76
+Minimum Sustainability Score: 72
+Total PO Value USD: 3034722.45
+Average PO Value USD: 178513.09
+Total Units Ordered: 143299
+Total Units Delivered On Time: 136013
+Total Units Rejected: 1121
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 93.0
+Policy Defect Maximum Percent: 0.99
+Policy Compliance Minimum: 90
+Policy Sustainability Minimum: 80
+Meets OTD Requirement: True
+Meets Defect Requirement: True
+Meets Compliance Requirement: True
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: False
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: False
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-050
+Supplier_ID: SUP-050
+Supplier_Name: Dresdner Textilwerk
+Region: EMEA
+Country: Germany
+Product_Category: Industrial Textiles
+Product_SKUs: SKU-IT-1006, SKU-IT-1022, SKU-IT-1038, SKU-IT-1054, SKU-IT-1070, SKU-IT-1086, SKU-IT-1102, SKU-IT-1118, SKU-IT-1134, SKU-IT-1150, SKU-IT-1166, SKU-IT-1182, SKU-IT-1198, SKU-IT-1214, SKU-IT-1230, SKU-IT-1246, SKU-IT-1262
+Contract_Tier: Tier-2
+Risk_Level: Medium
+Certifications: OEKO-TEX;ISO9001
+Active_Disruptions: Export license risk, Geopolitical tension flag, Political instability flag, Port congestion risk, Regulatory audit pending, Tariff adjustment pending
+Alt_Supplier_ID: SUP-011
+Latest_Audit_Date: 2024-08-10
+Record_Count: 17
+
+Performance:
+Average Lead Time Days: 26.71
+Maximum Lead Time Days: 37
+Average OTD Rate Percent: 85.49
+Minimum OTD Rate Percent: 78.1
+Average Defect Rate Percent: 1.76
+Maximum Defect Rate Percent: 2.66
+Average Compliance Score: 79.59
+Minimum Compliance Score: 68
+Average Sustainability Score: 63.88
+Minimum Sustainability Score: 48
+Total PO Value USD: 1890839.73
+Average PO Value USD: 111225.87
+Total Units Ordered: 473700
+Total Units Delivered On Time: 406708
+Total Units Rejected: 8598
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 84.0
+Policy Defect Maximum Percent: 2.5
+Policy Compliance Minimum: 75
+Policy Sustainability Minimum: 60
+Meets OTD Requirement: True
+Meets Defect Requirement: True
+Meets Compliance Requirement: True
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: False
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: False
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-051
+Supplier_ID: SUP-051
+Supplier_Name: Toreval Electronics
+Region: EMEA
+Country: France
+Product_Category: Electronic Components
+Product_SKUs: SKU-EC-1013, SKU-EC-1029, SKU-EC-1045, SKU-EC-1061, SKU-EC-1077, SKU-EC-1093, SKU-EC-1109, SKU-EC-1125, SKU-EC-1141, SKU-EC-1157, SKU-EC-1173, SKU-EC-1189, SKU-EC-1205, SKU-EC-1221, SKU-EC-1237, SKU-EC-1253, SKU-EC-1269
+Contract_Tier: Tier-1
+Risk_Level: Low
+Certifications: ISO9001;AEC-Q100;RoHS
+Active_Disruptions: Audit overdue; compliance review, Currency volatility flag, Port congestion risk, Tariff adjustment pending
+Alt_Supplier_ID: SUP-034
+Latest_Audit_Date: 2024-08-03
+Record_Count: 17
+
+Performance:
+Average Lead Time Days: 23.82
+Maximum Lead Time Days: 42
+Average OTD Rate Percent: 93.72
+Minimum OTD Rate Percent: 88.9
+Average Defect Rate Percent: 0.74
+Maximum Defect Rate Percent: 1.67
+Average Compliance Score: 89.71
+Minimum Compliance Score: 80
+Average Sustainability Score: 83.59
+Minimum Sustainability Score: 73
+Total PO Value USD: 943358.32
+Average PO Value USD: 55491.67
+Total Units Ordered: 151403
+Total Units Delivered On Time: 140142
+Total Units Rejected: 931
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 93.0
+Policy Defect Maximum Percent: 0.99
+Policy Compliance Minimum: 90
+Policy Sustainability Minimum: 80
+Meets OTD Requirement: True
+Meets Defect Requirement: True
+Meets Compliance Requirement: False
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: False
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: False
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-052
+Supplier_ID: SUP-052
+Supplier_Name: Lyon Polymer SAS
+Region: EMEA
+Country: France
+Product_Category: Raw Materials
+Product_SKUs: SKU-RM-1006, SKU-RM-1027, SKU-RM-1048, SKU-RM-1069, SKU-RM-1090, SKU-RM-1111, SKU-RM-1132, SKU-RM-1153, SKU-RM-1174, SKU-RM-1195, SKU-RM-1216, SKU-RM-1237, SKU-RM-1258, SKU-RM-1279, SKU-RM-1300, SKU-RM-1321, SKU-RM-1342
+Contract_Tier: Tier-1
+Risk_Level: Low
+Certifications: ISO9001;ISO14001;REACH
+Active_Disruptions: Export license risk, Geopolitical tension flag, Port congestion risk, Regulatory enforcement pending, Seasonal flood risk, Tariff adjustment pending
+Alt_Supplier_ID: SUP-011
+Latest_Audit_Date: 2024-08-29
+Record_Count: 17
+
+Performance:
+Average Lead Time Days: 23.53
+Maximum Lead Time Days: 40
+Average OTD Rate Percent: 93.34
+Minimum OTD Rate Percent: 88.2
+Average Defect Rate Percent: 0.91
+Maximum Defect Rate Percent: 1.68
+Average Compliance Score: 87.94
+Minimum Compliance Score: 80
+Average Sustainability Score: 81.59
+Minimum Sustainability Score: 70
+Total PO Value USD: 1493177.51
+Average PO Value USD: 87833.97
+Total Units Ordered: 119392
+Total Units Delivered On Time: 111257
+Total Units Rejected: 1125
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 93.0
+Policy Defect Maximum Percent: 0.99
+Policy Compliance Minimum: 90
+Policy Sustainability Minimum: 80
+Meets OTD Requirement: True
+Meets Defect Requirement: True
+Meets Compliance Requirement: False
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: False
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: False
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-053
+Supplier_ID: SUP-053
+Supplier_Name: Bordeaux Pack SAS
+Region: EMEA
+Country: France
+Product_Category: Packaging Materials
+Product_SKUs: SKU-PM-1009, SKU-PM-1034, SKU-PM-1059, SKU-PM-1084, SKU-PM-1109, SKU-PM-1134, SKU-PM-1159, SKU-PM-1184, SKU-PM-1209, SKU-PM-1234, SKU-PM-1259, SKU-PM-1284, SKU-PM-1309, SKU-PM-1334, SKU-PM-1359, SKU-PM-1384, SKU-PM-1409
+Contract_Tier: Tier-2
+Risk_Level: Medium
+Certifications: FSC;ISO14001;ISO9001
+Active_Disruptions: Audit overdue; compliance review, Geopolitical tension flag, Labour strike risk, Regulatory audit pending, Seasonal flood risk, Tariff adjustment pending, Typhoon season disruption
+Alt_Supplier_ID: SUP-082
+Latest_Audit_Date: 2024-08-16
+Record_Count: 17
+
+Performance:
+Average Lead Time Days: 23.76
+Maximum Lead Time Days: 35
+Average OTD Rate Percent: 87.4
+Minimum OTD Rate Percent: 80.6
+Average Defect Rate Percent: 1.9
+Maximum Defect Rate Percent: 3.15
+Average Compliance Score: 78.35
+Minimum Compliance Score: 67
+Average Sustainability Score: 69.41
+Minimum Sustainability Score: 55
+Total PO Value USD: 703614.84
+Average PO Value USD: 41389.11
+Total Units Ordered: 361442
+Total Units Delivered On Time: 318588
+Total Units Rejected: 6381
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 84.0
+Policy Defect Maximum Percent: 2.5
+Policy Compliance Minimum: 75
+Policy Sustainability Minimum: 60
+Meets OTD Requirement: True
+Meets Defect Requirement: True
+Meets Compliance Requirement: True
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: False
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: False
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-054
+Supplier_ID: SUP-054
+Supplier_Name: Lumivex Semiconductor NL
+Region: EMEA
+Country: Netherlands
+Product_Category: Electronic Components
+Product_SKUs: SKU-EC-1014, SKU-EC-1030, SKU-EC-1046, SKU-EC-1062, SKU-EC-1078, SKU-EC-1094, SKU-EC-1110, SKU-EC-1126, SKU-EC-1142, SKU-EC-1158, SKU-EC-1174, SKU-EC-1190, SKU-EC-1206, SKU-EC-1222, SKU-EC-1238, SKU-EC-1254, SKU-EC-1270
+Contract_Tier: Tier-1
+Risk_Level: Low
+Certifications: ISO9001;AEC-Q100;RoHS
+Active_Disruptions: Export license risk, Labour strike risk, Political instability flag, Port congestion risk, Regulatory audit pending, Tariff adjustment pending
+Alt_Supplier_ID: SUP-003
+Latest_Audit_Date: 2024-08-15
+Record_Count: 17
+
+Performance:
+Average Lead Time Days: 26.71
+Maximum Lead Time Days: 40
+Average OTD Rate Percent: 93.16
+Minimum OTD Rate Percent: 88.0
+Average Defect Rate Percent: 0.92
+Maximum Defect Rate Percent: 1.74
+Average Compliance Score: 88.12
+Minimum Compliance Score: 81
+Average Sustainability Score: 83.82
+Minimum Sustainability Score: 70
+Total PO Value USD: 922977.08
+Average PO Value USD: 54292.77
+Total Units Ordered: 135282
+Total Units Delivered On Time: 126016
+Total Units Rejected: 1169
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 93.0
+Policy Defect Maximum Percent: 0.99
+Policy Compliance Minimum: 90
+Policy Sustainability Minimum: 80
+Meets OTD Requirement: True
+Meets Defect Requirement: True
+Meets Compliance Requirement: False
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: False
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: False
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-055
+Supplier_ID: SUP-055
+Supplier_Name: Rotterdam Chem BV
+Region: EMEA
+Country: Netherlands
+Product_Category: Raw Materials
+Product_SKUs: SKU-RM-1007, SKU-RM-1028, SKU-RM-1049, SKU-RM-1070, SKU-RM-1091, SKU-RM-1112, SKU-RM-1133, SKU-RM-1154, SKU-RM-1175, SKU-RM-1196, SKU-RM-1217, SKU-RM-1238, SKU-RM-1259, SKU-RM-1280, SKU-RM-1301, SKU-RM-1322, SKU-RM-1343
+Contract_Tier: Tier-1
+Risk_Level: Low
+Certifications: ISO9001;ISO14001;REACH
+Active_Disruptions: Port closure risk, Tariff adjustment pending
+Alt_Supplier_ID: SUP-043
+Latest_Audit_Date: 2024-09-13
+Record_Count: 17
+
+Performance:
+Average Lead Time Days: 25.12
+Maximum Lead Time Days: 42
+Average OTD Rate Percent: 93.24
+Minimum OTD Rate Percent: 88.7
+Average Defect Rate Percent: 0.78
+Maximum Defect Rate Percent: 1.6
+Average Compliance Score: 90.76
+Minimum Compliance Score: 80
+Average Sustainability Score: 82.71
+Minimum Sustainability Score: 70
+Total PO Value USD: 1737233.78
+Average PO Value USD: 102190.22
+Total Units Ordered: 142597
+Total Units Delivered On Time: 131538
+Total Units Rejected: 1313
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 93.0
+Policy Defect Maximum Percent: 0.99
+Policy Compliance Minimum: 90
+Policy Sustainability Minimum: 80
+Meets OTD Requirement: True
+Meets Defect Requirement: True
+Meets Compliance Requirement: True
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: False
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: False
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-056
+Supplier_ID: SUP-056
+Supplier_Name: Solveig Eco Packaging
+Region: EMEA
+Country: Sweden
+Product_Category: Packaging Materials
+Product_SKUs: SKU-PM-1010, SKU-PM-1035, SKU-PM-1060, SKU-PM-1085, SKU-PM-1110, SKU-PM-1135, SKU-PM-1160, SKU-PM-1185, SKU-PM-1210, SKU-PM-1235, SKU-PM-1260, SKU-PM-1285, SKU-PM-1310, SKU-PM-1335, SKU-PM-1360, SKU-PM-1385, SKU-PM-1410
+Contract_Tier: Tier-1
+Risk_Level: Low
+Certifications: FSC;ISO14001;ISO9001
+Active_Disruptions: Port congestion risk, Regulatory audit pending, Tariff adjustment pending
+Alt_Supplier_ID: SUP-002
+Latest_Audit_Date: 2024-09-15
+Record_Count: 17
+
+Performance:
+Average Lead Time Days: 22.76
+Maximum Lead Time Days: 41
+Average OTD Rate Percent: 94.03
+Minimum OTD Rate Percent: 88.7
+Average Defect Rate Percent: 0.94
+Maximum Defect Rate Percent: 1.79
+Average Compliance Score: 88.88
+Minimum Compliance Score: 80
+Average Sustainability Score: 87.06
+Minimum Sustainability Score: 74
+Total PO Value USD: 306239.11
+Average PO Value USD: 18014.07
+Total Units Ordered: 144992
+Total Units Delivered On Time: 136519
+Total Units Rejected: 1376
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 93.0
+Policy Defect Maximum Percent: 0.99
+Policy Compliance Minimum: 90
+Policy Sustainability Minimum: 80
+Meets OTD Requirement: True
+Meets Defect Requirement: True
+Meets Compliance Requirement: False
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: False
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: False
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-057
+Supplier_ID: SUP-057
+Supplier_Name: Norrsken Textiles AB
+Region: EMEA
+Country: Sweden
+Product_Category: Industrial Textiles
+Product_SKUs: SKU-IT-1007, SKU-IT-1023, SKU-IT-1039, SKU-IT-1055, SKU-IT-1071, SKU-IT-1087, SKU-IT-1103, SKU-IT-1119, SKU-IT-1135, SKU-IT-1151, SKU-IT-1167, SKU-IT-1183, SKU-IT-1199, SKU-IT-1215, SKU-IT-1231, SKU-IT-1247, SKU-IT-1263
+Contract_Tier: Tier-1
+Risk_Level: Medium
+Certifications: OEKO-TEX;ISO9001;ISO14001
+Active_Disruptions: Currency volatility flag, Geopolitical tension flag, Labour strike risk, Port congestion risk, Regulatory audit pending, Seasonal flood risk
+Alt_Supplier_ID: SUP-005
+Latest_Audit_Date: 2024-09-21
+Record_Count: 17
+
+Performance:
+Average Lead Time Days: 21.76
+Maximum Lead Time Days: 39
+Average OTD Rate Percent: 94.22
+Minimum OTD Rate Percent: 89.0
+Average Defect Rate Percent: 1.01
+Maximum Defect Rate Percent: 1.68
+Average Compliance Score: 88.24
+Minimum Compliance Score: 80
+Average Sustainability Score: 89.29
+Minimum Sustainability Score: 76
+Total PO Value USD: 509745.89
+Average PO Value USD: 29985.05
+Total Units Ordered: 136161
+Total Units Delivered On Time: 129466
+Total Units Rejected: 1270
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 93.0
+Policy Defect Maximum Percent: 0.99
+Policy Compliance Minimum: 90
+Policy Sustainability Minimum: 80
+Meets OTD Requirement: True
+Meets Defect Requirement: False
+Meets Compliance Requirement: False
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: False
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: False
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-058
+Supplier_ID: SUP-058
+Supplier_Name: Norbec Alloy Works
+Region: EMEA
+Country: Norway
+Product_Category: Specialty Alloys
+Product_SKUs: SKU-SA-1008, SKU-SA-1027, SKU-SA-1046, SKU-SA-1065, SKU-SA-1084, SKU-SA-1103, SKU-SA-1122, SKU-SA-1141, SKU-SA-1160, SKU-SA-1179, SKU-SA-1198, SKU-SA-1217, SKU-SA-1236, SKU-SA-1255, SKU-SA-1274, SKU-SA-1293, SKU-SA-1312
+Contract_Tier: Tier-1
+Risk_Level: Low
+Certifications: ISO9001;ISO14001;AS9100
+Active_Disruptions: Political instability flag, Regulatory enforcement pending, Seasonal flood risk, Tariff adjustment pending
+Alt_Supplier_ID: SUP-006
+Latest_Audit_Date: 2024-09-04
+Record_Count: 17
+
+Performance:
+Average Lead Time Days: 26.06
+Maximum Lead Time Days: 41
+Average OTD Rate Percent: 93.42
+Minimum OTD Rate Percent: 89.0
+Average Defect Rate Percent: 1.02
+Maximum Defect Rate Percent: 1.75
+Average Compliance Score: 91.35
+Minimum Compliance Score: 84
+Average Sustainability Score: 84.12
+Minimum Sustainability Score: 70
+Total PO Value USD: 2735906.82
+Average PO Value USD: 160935.7
+Total Units Ordered: 124613
+Total Units Delivered On Time: 117346
+Total Units Rejected: 1345
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 93.0
+Policy Defect Maximum Percent: 0.99
+Policy Compliance Minimum: 90
+Policy Sustainability Minimum: 80
+Meets OTD Requirement: True
+Meets Defect Requirement: False
+Meets Compliance Requirement: True
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: False
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: False
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-059
+Supplier_ID: SUP-059
+Supplier_Name: Fjord Polymer AS
+Region: EMEA
+Country: Norway
+Product_Category: Raw Materials
+Product_SKUs: SKU-RM-1008, SKU-RM-1029, SKU-RM-1050, SKU-RM-1071, SKU-RM-1092, SKU-RM-1113, SKU-RM-1134, SKU-RM-1155, SKU-RM-1176, SKU-RM-1197, SKU-RM-1218, SKU-RM-1239, SKU-RM-1260, SKU-RM-1281, SKU-RM-1302, SKU-RM-1323, SKU-RM-1344
+Contract_Tier: Tier-1
+Risk_Level: Low
+Certifications: ISO9001;ISO14001;REACH
+Active_Disruptions: Export license risk, Port closure risk, Seasonal flood risk, Tariff adjustment pending
+Alt_Supplier_ID: SUP-092
+Latest_Audit_Date: 2024-09-01
+Record_Count: 17
+
+Performance:
+Average Lead Time Days: 21.0
+Maximum Lead Time Days: 41
+Average OTD Rate Percent: 93.33
+Minimum OTD Rate Percent: 88.4
+Average Defect Rate Percent: 0.97
+Maximum Defect Rate Percent: 1.65
+Average Compliance Score: 88.53
+Minimum Compliance Score: 80
+Average Sustainability Score: 85.06
+Minimum Sustainability Score: 70
+Total PO Value USD: 1391817.88
+Average PO Value USD: 81871.64
+Total Units Ordered: 109098
+Total Units Delivered On Time: 101337
+Total Units Rejected: 1093
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 93.0
+Policy Defect Maximum Percent: 0.99
+Policy Compliance Minimum: 90
+Policy Sustainability Minimum: 80
+Meets OTD Requirement: True
+Meets Defect Requirement: True
+Meets Compliance Requirement: False
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: False
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: False
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-060
+Supplier_ID: SUP-060
+Supplier_Name: Nordloom Finland Oy
+Region: EMEA
+Country: Finland
+Product_Category: Industrial Textiles
+Product_SKUs: SKU-IT-1008, SKU-IT-1024, SKU-IT-1040, SKU-IT-1056, SKU-IT-1072, SKU-IT-1088, SKU-IT-1104, SKU-IT-1120, SKU-IT-1136, SKU-IT-1152, SKU-IT-1168, SKU-IT-1184, SKU-IT-1200, SKU-IT-1216, SKU-IT-1232, SKU-IT-1248, SKU-IT-1264
+Contract_Tier: Tier-1
+Risk_Level: Medium
+Certifications: OEKO-TEX;ISO9001;ISO14001
+Active_Disruptions: Audit overdue; compliance review, Geopolitical tension flag, Seasonal flood risk, Tariff adjustment pending
+Alt_Supplier_ID: SUP-005
+Latest_Audit_Date: 2024-06-10
+Record_Count: 17
+
+Performance:
+Average Lead Time Days: 25.71
+Maximum Lead Time Days: 42
+Average OTD Rate Percent: 94.43
+Minimum OTD Rate Percent: 88.6
+Average Defect Rate Percent: 1.06
+Maximum Defect Rate Percent: 1.71
+Average Compliance Score: 90.47
+Minimum Compliance Score: 80
+Average Sustainability Score: 83.12
+Minimum Sustainability Score: 70
+Total PO Value USD: 406982.47
+Average PO Value USD: 23940.15
+Total Units Ordered: 119434
+Total Units Delivered On Time: 112397
+Total Units Rejected: 1205
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 93.0
+Policy Defect Maximum Percent: 0.99
+Policy Compliance Minimum: 90
+Policy Sustainability Minimum: 80
+Meets OTD Requirement: True
+Meets Defect Requirement: False
+Meets Compliance Requirement: True
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: False
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: False
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-061
+Supplier_ID: SUP-061
+Supplier_Name: Helsinki Pack Oy
+Region: EMEA
+Country: Finland
+Product_Category: Packaging Materials
+Product_SKUs: SKU-PM-1011, SKU-PM-1036, SKU-PM-1061, SKU-PM-1086, SKU-PM-1111, SKU-PM-1136, SKU-PM-1161, SKU-PM-1186, SKU-PM-1211, SKU-PM-1236, SKU-PM-1261, SKU-PM-1286, SKU-PM-1311, SKU-PM-1336, SKU-PM-1361, SKU-PM-1386, SKU-PM-1411
+Contract_Tier: Tier-2
+Risk_Level: Medium
+Certifications: FSC;ISO9001
+Active_Disruptions: Political instability flag, Port closure risk, Port congestion risk, Regulatory audit pending, Regulatory enforcement pending, Seasonal flood risk, Typhoon season disruption
+Alt_Supplier_ID: SUP-003
+Latest_Audit_Date: 2024-07-15
+Record_Count: 17
+
+Performance:
+Average Lead Time Days: 28.76
+Maximum Lead Time Days: 42
+Average OTD Rate Percent: 84.88
+Minimum OTD Rate Percent: 78.0
+Average Defect Rate Percent: 1.54
+Maximum Defect Rate Percent: 3.03
+Average Compliance Score: 76.76
+Minimum Compliance Score: 69
+Average Sustainability Score: 64.35
+Minimum Sustainability Score: 48
+Total PO Value USD: 694215.92
+Average PO Value USD: 40836.23
+Total Units Ordered: 433751
+Total Units Delivered On Time: 368287
+Total Units Rejected: 5786
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 84.0
+Policy Defect Maximum Percent: 2.5
+Policy Compliance Minimum: 75
+Policy Sustainability Minimum: 60
+Meets OTD Requirement: True
+Meets Defect Requirement: True
+Meets Compliance Requirement: True
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: False
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: False
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-062
+Supplier_ID: SUP-062
+Supplier_Name: Borealis Composites
+Region: EMEA
+Country: Denmark
+Product_Category: Raw Materials
+Product_SKUs: SKU-RM-1009, SKU-RM-1030, SKU-RM-1051, SKU-RM-1072, SKU-RM-1093, SKU-RM-1114, SKU-RM-1135, SKU-RM-1156, SKU-RM-1177, SKU-RM-1198, SKU-RM-1219, SKU-RM-1240, SKU-RM-1261, SKU-RM-1282, SKU-RM-1303, SKU-RM-1324, SKU-RM-1345
+Contract_Tier: Tier-1
+Risk_Level: Low
+Certifications: ISO9001;ISO14001;REACH
+Active_Disruptions: Currency volatility flag, Geopolitical tension flag, Port closure risk, Port congestion risk, Regulatory audit pending, Typhoon season disruption
+Alt_Supplier_ID: SUP-051
+Latest_Audit_Date: 2024-09-12
+Record_Count: 17
+
+Performance:
+Average Lead Time Days: 22.0
+Maximum Lead Time Days: 32
+Average OTD Rate Percent: 93.62
+Minimum OTD Rate Percent: 88.2
+Average Defect Rate Percent: 0.94
+Maximum Defect Rate Percent: 1.71
+Average Compliance Score: 88.65
+Minimum Compliance Score: 80
+Average Sustainability Score: 85.88
+Minimum Sustainability Score: 74
+Total PO Value USD: 1699860.45
+Average PO Value USD: 99991.79
+Total Units Ordered: 145566
+Total Units Delivered On Time: 136122
+Total Units Rejected: 1335
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 93.0
+Policy Defect Maximum Percent: 0.99
+Policy Compliance Minimum: 90
+Policy Sustainability Minimum: 80
+Meets OTD Requirement: True
+Meets Defect Requirement: True
+Meets Compliance Requirement: False
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: False
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: False
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-063
+Supplier_ID: SUP-063
+Supplier_Name: Elsinor Pack AS
+Region: EMEA
+Country: Denmark
+Product_Category: Packaging Materials
+Product_SKUs: SKU-PM-1012, SKU-PM-1037, SKU-PM-1062, SKU-PM-1087, SKU-PM-1112, SKU-PM-1137, SKU-PM-1162, SKU-PM-1187, SKU-PM-1212, SKU-PM-1237, SKU-PM-1262, SKU-PM-1287, SKU-PM-1312, SKU-PM-1337, SKU-PM-1362, SKU-PM-1387, SKU-PM-1412
+Contract_Tier: Tier-2
+Risk_Level: Low
+Certifications: FSC;ISO9001
+Active_Disruptions: Audit overdue; compliance review, Geopolitical tension flag, Political instability flag, Port congestion risk, Regulatory audit pending, Regulatory enforcement pending, Tariff adjustment pending, Typhoon season disruption
+Alt_Supplier_ID: SUP-038
+Latest_Audit_Date: 2024-09-24
+Record_Count: 17
+
+Performance:
+Average Lead Time Days: 25.59
+Maximum Lead Time Days: 41
+Average OTD Rate Percent: 87.76
+Minimum OTD Rate Percent: 80.5
+Average Defect Rate Percent: 1.85
+Maximum Defect Rate Percent: 3.08
+Average Compliance Score: 82.94
+Minimum Compliance Score: 71
+Average Sustainability Score: 67.18
+Minimum Sustainability Score: 51
+Total PO Value USD: 914050.56
+Average PO Value USD: 53767.68
+Total Units Ordered: 413223
+Total Units Delivered On Time: 368171
+Total Units Rejected: 7520
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 84.0
+Policy Defect Maximum Percent: 2.5
+Policy Compliance Minimum: 75
+Policy Sustainability Minimum: 60
+Meets OTD Requirement: True
+Meets Defect Requirement: True
+Meets Compliance Requirement: True
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: False
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: False
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-064
+Supplier_ID: SUP-064
+Supplier_Name: Ostwind Composites AG
+Region: EMEA
+Country: Austria
+Product_Category: Raw Materials
+Product_SKUs: SKU-RM-1010, SKU-RM-1031, SKU-RM-1052, SKU-RM-1073, SKU-RM-1094, SKU-RM-1115, SKU-RM-1136, SKU-RM-1157, SKU-RM-1178, SKU-RM-1199, SKU-RM-1220, SKU-RM-1241, SKU-RM-1262, SKU-RM-1283, SKU-RM-1304, SKU-RM-1325, SKU-RM-1346
+Contract_Tier: Tier-1
+Risk_Level: Low
+Certifications: ISO9001;ISO14001;REACH
+Active_Disruptions: Currency volatility flag, Geopolitical tension flag, Regulatory audit pending, Regulatory enforcement pending, Tariff adjustment pending, Typhoon season disruption
+Alt_Supplier_ID: SUP-084
+Latest_Audit_Date: 2024-09-09
+Record_Count: 17
+
+Performance:
+Average Lead Time Days: 23.53
+Maximum Lead Time Days: 41
+Average OTD Rate Percent: 93.65
+Minimum OTD Rate Percent: 88.2
+Average Defect Rate Percent: 1.08
+Maximum Defect Rate Percent: 1.78
+Average Compliance Score: 89.82
+Minimum Compliance Score: 80
+Average Sustainability Score: 85.0
+Minimum Sustainability Score: 71
+Total PO Value USD: 1402260.91
+Average PO Value USD: 82485.94
+Total Units Ordered: 120087
+Total Units Delivered On Time: 114028
+Total Units Rejected: 1442
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 93.0
+Policy Defect Maximum Percent: 0.99
+Policy Compliance Minimum: 90
+Policy Sustainability Minimum: 80
+Meets OTD Requirement: True
+Meets Defect Requirement: False
+Meets Compliance Requirement: False
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: False
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: False
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-065
+Supplier_ID: SUP-065
+Supplier_Name: Wiener Alloy GmbH
+Region: EMEA
+Country: Austria
+Product_Category: Specialty Alloys
+Product_SKUs: SKU-SA-1009, SKU-SA-1028, SKU-SA-1047, SKU-SA-1066, SKU-SA-1085, SKU-SA-1104, SKU-SA-1123, SKU-SA-1142, SKU-SA-1161, SKU-SA-1180, SKU-SA-1199, SKU-SA-1218, SKU-SA-1237, SKU-SA-1256, SKU-SA-1275, SKU-SA-1294, SKU-SA-1313
+Contract_Tier: Tier-2
+Risk_Level: Low
+Certifications: ISO9001;NADCAP
+Active_Disruptions: Export license risk, Geopolitical tension flag, Port congestion risk, Typhoon season disruption
+Alt_Supplier_ID: SUP-048
+Latest_Audit_Date: 2024-08-17
+Record_Count: 17
+
+Performance:
+Average Lead Time Days: 29.12
+Maximum Lead Time Days: 41
+Average OTD Rate Percent: 86.18
+Minimum OTD Rate Percent: 78.0
+Average Defect Rate Percent: 1.71
+Maximum Defect Rate Percent: 3.12
+Average Compliance Score: 80.76
+Minimum Compliance Score: 69
+Average Sustainability Score: 63.71
+Minimum Sustainability Score: 48
+Total PO Value USD: 8141932.49
+Average PO Value USD: 478937.21
+Total Units Ordered: 342216
+Total Units Delivered On Time: 294154
+Total Units Rejected: 5972
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 84.0
+Policy Defect Maximum Percent: 2.5
+Policy Compliance Minimum: 75
+Policy Sustainability Minimum: 60
+Meets OTD Requirement: True
+Meets Defect Requirement: True
+Meets Compliance Requirement: True
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: False
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: False
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-066
+Supplier_ID: SUP-066
+Supplier_Name: Valdoro Special Alloys
+Region: EMEA
+Country: Italy
+Product_Category: Specialty Alloys
+Product_SKUs: SKU-SA-1010, SKU-SA-1029, SKU-SA-1048, SKU-SA-1067, SKU-SA-1086, SKU-SA-1105, SKU-SA-1124, SKU-SA-1143, SKU-SA-1162, SKU-SA-1181, SKU-SA-1200, SKU-SA-1219, SKU-SA-1238, SKU-SA-1257, SKU-SA-1276, SKU-SA-1295, SKU-SA-1314
+Contract_Tier: Tier-1
+Risk_Level: Low
+Certifications: ISO9001;ISO14001;NADCAP
+Active_Disruptions: Audit overdue; compliance review, Port closure risk, Port congestion risk, Regulatory audit pending, Typhoon season disruption
+Alt_Supplier_ID: SUP-047
+Latest_Audit_Date: 2024-06-16
+Record_Count: 17
+
+Performance:
+Average Lead Time Days: 27.82
+Maximum Lead Time Days: 41
+Average OTD Rate Percent: 94.48
+Minimum OTD Rate Percent: 88.7
+Average Defect Rate Percent: 0.88
+Maximum Defect Rate Percent: 1.64
+Average Compliance Score: 88.53
+Minimum Compliance Score: 80
+Average Sustainability Score: 84.59
+Minimum Sustainability Score: 70
+Total PO Value USD: 2790200.18
+Average PO Value USD: 164129.42
+Total Units Ordered: 123225
+Total Units Delivered On Time: 115946
+Total Units Rejected: 1004
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 93.0
+Policy Defect Maximum Percent: 0.99
+Policy Compliance Minimum: 90
+Policy Sustainability Minimum: 80
+Meets OTD Requirement: True
+Meets Defect Requirement: True
+Meets Compliance Requirement: False
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: False
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: False
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-067
+Supplier_ID: SUP-067
+Supplier_Name: Braccio Metalli SpA
+Region: EMEA
+Country: Italy
+Product_Category: Specialty Alloys
+Product_SKUs: SKU-SA-1011, SKU-SA-1030, SKU-SA-1049, SKU-SA-1068, SKU-SA-1087, SKU-SA-1106, SKU-SA-1125, SKU-SA-1144, SKU-SA-1163, SKU-SA-1182, SKU-SA-1201, SKU-SA-1220, SKU-SA-1239, SKU-SA-1258, SKU-SA-1277, SKU-SA-1296, SKU-SA-1315
+Contract_Tier: Tier-2
+Risk_Level: Medium
+Certifications: ISO9001;NADCAP
+Active_Disruptions: Audit overdue; compliance review, Currency volatility flag, Geopolitical tension flag, Port congestion risk, Regulatory audit pending
+Alt_Supplier_ID: SUP-019
+Latest_Audit_Date: 2024-09-09
+Record_Count: 17
+
+Performance:
+Average Lead Time Days: 25.88
+Maximum Lead Time Days: 39
+Average OTD Rate Percent: 86.27
+Minimum OTD Rate Percent: 78.5
+Average Defect Rate Percent: 1.79
+Maximum Defect Rate Percent: 3.15
+Average Compliance Score: 78.0
+Minimum Compliance Score: 69
+Average Sustainability Score: 68.41
+Minimum Sustainability Score: 48
+Total PO Value USD: 9625790.67
+Average PO Value USD: 566222.98
+Total Units Ordered: 540266
+Total Units Delivered On Time: 468615
+Total Units Rejected: 10110
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 84.0
+Policy Defect Maximum Percent: 2.5
+Policy Compliance Minimum: 75
+Policy Sustainability Minimum: 60
+Meets OTD Requirement: True
+Meets Defect Requirement: True
+Meets Compliance Requirement: True
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: False
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: False
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-068
+Supplier_ID: SUP-068
+Supplier_Name: Milano Textil Srl
+Region: EMEA
+Country: Italy
+Product_Category: Industrial Textiles
+Product_SKUs: SKU-IT-1009, SKU-IT-1025, SKU-IT-1041, SKU-IT-1057, SKU-IT-1073, SKU-IT-1089, SKU-IT-1105, SKU-IT-1121, SKU-IT-1137, SKU-IT-1153, SKU-IT-1169, SKU-IT-1185, SKU-IT-1201, SKU-IT-1217, SKU-IT-1233, SKU-IT-1249, SKU-IT-1265
+Contract_Tier: Tier-2
+Risk_Level: High
+Certifications: OEKO-TEX;ISO9001
+Active_Disruptions: Currency volatility flag, Export license risk, Geopolitical tension flag, Labour strike risk, Port closure risk, Port congestion risk, Seasonal flood risk, Tariff adjustment pending, Typhoon season disruption
+Alt_Supplier_ID: SUP-057
+Latest_Audit_Date: 2024-07-06
+Record_Count: 17
+
+Performance:
+Average Lead Time Days: 28.06
+Maximum Lead Time Days: 41
+Average OTD Rate Percent: 83.36
+Minimum OTD Rate Percent: 78.4
+Average Defect Rate Percent: 1.79
+Maximum Defect Rate Percent: 3.1
+Average Compliance Score: 79.0
+Minimum Compliance Score: 67
+Average Sustainability Score: 68.18
+Minimum Sustainability Score: 49
+Total PO Value USD: 1701983.81
+Average PO Value USD: 100116.69
+Total Units Ordered: 444970
+Total Units Delivered On Time: 368341
+Total Units Rejected: 7847
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 84.0
+Policy Defect Maximum Percent: 2.5
+Policy Compliance Minimum: 75
+Policy Sustainability Minimum: 60
+Meets OTD Requirement: False
+Meets Defect Requirement: True
+Meets Compliance Requirement: True
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: False
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: True
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-069
+Supplier_ID: SUP-069
+Supplier_Name: Ibervex Quimica SL
+Region: EMEA
+Country: Spain
+Product_Category: Raw Materials
+Product_SKUs: SKU-RM-1011, SKU-RM-1032, SKU-RM-1053, SKU-RM-1074, SKU-RM-1095, SKU-RM-1116, SKU-RM-1137, SKU-RM-1158, SKU-RM-1179, SKU-RM-1200, SKU-RM-1221, SKU-RM-1242, SKU-RM-1263, SKU-RM-1284, SKU-RM-1305, SKU-RM-1326, SKU-RM-1347
+Contract_Tier: Tier-2
+Risk_Level: Medium
+Certifications: ISO9001;REACH
+Active_Disruptions: Audit overdue; compliance review, Geopolitical tension flag, Labour strike risk, Port congestion risk, Regulatory audit pending, Seasonal flood risk, Tariff adjustment pending
+Alt_Supplier_ID: SUP-076
+Latest_Audit_Date: 2024-09-09
+Record_Count: 17
+
+Performance:
+Average Lead Time Days: 24.82
+Maximum Lead Time Days: 36
+Average OTD Rate Percent: 87.61
+Minimum OTD Rate Percent: 78.8
+Average Defect Rate Percent: 1.69
+Maximum Defect Rate Percent: 2.92
+Average Compliance Score: 78.88
+Minimum Compliance Score: 68
+Average Sustainability Score: 62.76
+Minimum Sustainability Score: 48
+Total PO Value USD: 5194200.22
+Average PO Value USD: 305541.19
+Total Units Ordered: 402038
+Total Units Delivered On Time: 359265
+Total Units Rejected: 6297
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 84.0
+Policy Defect Maximum Percent: 2.5
+Policy Compliance Minimum: 75
+Policy Sustainability Minimum: 60
+Meets OTD Requirement: True
+Meets Defect Requirement: True
+Meets Compliance Requirement: True
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: False
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: False
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-070
+Supplier_ID: SUP-070
+Supplier_Name: Catalan Pack SA
+Region: EMEA
+Country: Spain
+Product_Category: Packaging Materials
+Product_SKUs: SKU-PM-1013, SKU-PM-1038, SKU-PM-1063, SKU-PM-1088, SKU-PM-1113, SKU-PM-1138, SKU-PM-1163, SKU-PM-1188, SKU-PM-1213, SKU-PM-1238, SKU-PM-1263, SKU-PM-1288, SKU-PM-1313, SKU-PM-1338, SKU-PM-1363, SKU-PM-1388, SKU-PM-1413
+Contract_Tier: Tier-2
+Risk_Level: Low
+Certifications: FSC;ISO9001
+Active_Disruptions: Currency volatility flag, Geopolitical tension flag, Labour strike risk, Port closure risk, Port congestion risk, Regulatory audit pending, Regulatory enforcement pending
+Alt_Supplier_ID: SUP-005
+Latest_Audit_Date: 2024-06-02
+Record_Count: 17
+
+Performance:
+Average Lead Time Days: 27.18
+Maximum Lead Time Days: 42
+Average OTD Rate Percent: 86.92
+Minimum OTD Rate Percent: 78.5
+Average Defect Rate Percent: 1.82
+Maximum Defect Rate Percent: 3.16
+Average Compliance Score: 77.88
+Minimum Compliance Score: 68
+Average Sustainability Score: 69.06
+Minimum Sustainability Score: 55
+Total PO Value USD: 733839.09
+Average PO Value USD: 43167.01
+Total Units Ordered: 402747
+Total Units Delivered On Time: 351290
+Total Units Rejected: 7044
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 84.0
+Policy Defect Maximum Percent: 2.5
+Policy Compliance Minimum: 75
+Policy Sustainability Minimum: 60
+Meets OTD Requirement: True
+Meets Defect Requirement: True
+Meets Compliance Requirement: True
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: False
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: False
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-071
+Supplier_ID: SUP-071
+Supplier_Name: Ferralux Gulf FZE
+Region: EMEA
+Country: UAE
+Product_Category: Specialty Alloys
+Product_SKUs: SKU-SA-1012, SKU-SA-1031, SKU-SA-1050, SKU-SA-1069, SKU-SA-1088, SKU-SA-1107, SKU-SA-1126, SKU-SA-1145, SKU-SA-1164, SKU-SA-1183, SKU-SA-1202, SKU-SA-1221, SKU-SA-1240, SKU-SA-1259, SKU-SA-1278, SKU-SA-1297, SKU-SA-1316
+Contract_Tier: Tier-2
+Risk_Level: Low
+Certifications: ISO9001;ISO14001
+Active_Disruptions: Currency volatility flag, Labour strike risk, Port closure risk, Regulatory audit pending, Regulatory enforcement pending, Seasonal flood risk, Tariff adjustment pending
+Alt_Supplier_ID: SUP-006
+Latest_Audit_Date: 2024-09-09
+Record_Count: 17
+
+Performance:
+Average Lead Time Days: 21.82
+Maximum Lead Time Days: 42
+Average OTD Rate Percent: 87.91
+Minimum OTD Rate Percent: 78.4
+Average Defect Rate Percent: 1.84
+Maximum Defect Rate Percent: 3.0
+Average Compliance Score: 79.18
+Minimum Compliance Score: 68
+Average Sustainability Score: 67.88
+Minimum Sustainability Score: 49
+Total PO Value USD: 9525326.57
+Average PO Value USD: 560313.33
+Total Units Ordered: 419478
+Total Units Delivered On Time: 369886
+Total Units Rejected: 8396
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 84.0
+Policy Defect Maximum Percent: 2.5
+Policy Compliance Minimum: 75
+Policy Sustainability Minimum: 60
+Meets OTD Requirement: True
+Meets Defect Requirement: True
+Meets Compliance Requirement: True
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: False
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: False
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-072
+Supplier_ID: SUP-072
+Supplier_Name: Almaral Steel FZC
+Region: EMEA
+Country: UAE
+Product_Category: Specialty Alloys
+Product_SKUs: SKU-SA-1013, SKU-SA-1032, SKU-SA-1051, SKU-SA-1070, SKU-SA-1089, SKU-SA-1108, SKU-SA-1127, SKU-SA-1146, SKU-SA-1165, SKU-SA-1184, SKU-SA-1203, SKU-SA-1222, SKU-SA-1241, SKU-SA-1260, SKU-SA-1279, SKU-SA-1298, SKU-SA-1317
+Contract_Tier: Tier-2
+Risk_Level: Medium
+Certifications: ISO9001
+Active_Disruptions: Audit overdue; compliance review, Currency volatility flag, Geopolitical tension flag, Political instability flag, Port closure risk, Port congestion risk, Regulatory audit pending, Regulatory enforcement pending, Tariff adjustment pending
+Alt_Supplier_ID: SUP-057
+Latest_Audit_Date: 2024-09-17
+Record_Count: 17
+
+Performance:
+Average Lead Time Days: 26.53
+Maximum Lead Time Days: 35
+Average OTD Rate Percent: 85.75
+Minimum OTD Rate Percent: 78.4
+Average Defect Rate Percent: 1.74
+Maximum Defect Rate Percent: 3.08
+Average Compliance Score: 79.94
+Minimum Compliance Score: 67
+Average Sustainability Score: 65.35
+Minimum Sustainability Score: 48
+Total PO Value USD: 9330113.92
+Average PO Value USD: 548830.23
+Total Units Ordered: 446079
+Total Units Delivered On Time: 382650
+Total Units Rejected: 8560
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 84.0
+Policy Defect Maximum Percent: 2.5
+Policy Compliance Minimum: 75
+Policy Sustainability Minimum: 60
+Meets OTD Requirement: True
+Meets Defect Requirement: True
+Meets Compliance Requirement: True
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: False
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: False
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-073
+Supplier_ID: SUP-073
+Supplier_Name: Dubai Pack FZE
+Region: EMEA
+Country: UAE
+Product_Category: Packaging Materials
+Product_SKUs: SKU-PM-1014, SKU-PM-1039, SKU-PM-1064, SKU-PM-1089, SKU-PM-1114, SKU-PM-1139, SKU-PM-1164, SKU-PM-1189, SKU-PM-1214, SKU-PM-1239, SKU-PM-1264, SKU-PM-1289, SKU-PM-1314, SKU-PM-1339, SKU-PM-1364, SKU-PM-1389, SKU-PM-1414
+Contract_Tier: Tier-2
+Risk_Level: Medium
+Certifications: FSC;ISO9001
+Active_Disruptions: Export license risk, Geopolitical tension flag, Political instability flag, Port closure risk, Port congestion risk, Regulatory audit pending, Regulatory enforcement pending, Tariff adjustment pending, Typhoon season disruption
+Alt_Supplier_ID: SUP-007
+Latest_Audit_Date: 2024-09-14
+Record_Count: 17
+
+Performance:
+Average Lead Time Days: 24.65
+Maximum Lead Time Days: 41
+Average OTD Rate Percent: 86.69
+Minimum OTD Rate Percent: 80.4
+Average Defect Rate Percent: 1.84
+Maximum Defect Rate Percent: 3.11
+Average Compliance Score: 82.47
+Minimum Compliance Score: 67
+Average Sustainability Score: 68.94
+Minimum Sustainability Score: 48
+Total PO Value USD: 1238050.32
+Average PO Value USD: 72826.49
+Total Units Ordered: 574572
+Total Units Delivered On Time: 499530
+Total Units Rejected: 10499
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 84.0
+Policy Defect Maximum Percent: 2.5
+Policy Compliance Minimum: 75
+Policy Sustainability Minimum: 60
+Meets OTD Requirement: True
+Meets Defect Requirement: True
+Meets Compliance Requirement: True
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: False
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: False
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-074
+Supplier_ID: SUP-074
+Supplier_Name: Novex Fab Polska
+Region: EMEA
+Country: Poland
+Product_Category: Mechanical Components
+Product_SKUs: SKU-MC-1013, SKU-MC-1032, SKU-MC-1051, SKU-MC-1070, SKU-MC-1089, SKU-MC-1108, SKU-MC-1127, SKU-MC-1146, SKU-MC-1165, SKU-MC-1184, SKU-MC-1203, SKU-MC-1222, SKU-MC-1241, SKU-MC-1260, SKU-MC-1279, SKU-MC-1298, SKU-MC-1317
+Contract_Tier: Tier-2
+Risk_Level: Low
+Certifications: ISO9001
+Active_Disruptions: Currency volatility flag, Export license risk, Political instability flag, Port congestion risk, Typhoon season disruption
+Alt_Supplier_ID: SUP-080
+Latest_Audit_Date: 2024-09-20
+Record_Count: 17
+
+Performance:
+Average Lead Time Days: 26.82
+Maximum Lead Time Days: 42
+Average OTD Rate Percent: 88.39
+Minimum OTD Rate Percent: 79.4
+Average Defect Rate Percent: 1.96
+Maximum Defect Rate Percent: 3.09
+Average Compliance Score: 75.94
+Minimum Compliance Score: 67
+Average Sustainability Score: 69.47
+Minimum Sustainability Score: 51
+Total PO Value USD: 2004703.11
+Average PO Value USD: 117923.71
+Total Units Ordered: 457716
+Total Units Delivered On Time: 409801
+Total Units Rejected: 8945
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 84.0
+Policy Defect Maximum Percent: 2.5
+Policy Compliance Minimum: 75
+Policy Sustainability Minimum: 60
+Meets OTD Requirement: True
+Meets Defect Requirement: True
+Meets Compliance Requirement: True
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: False
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: False
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-075
+Supplier_ID: SUP-075
+Supplier_Name: Vistula Pack Sp
+Region: EMEA
+Country: Poland
+Product_Category: Packaging Materials
+Product_SKUs: SKU-PM-1015, SKU-PM-1040, SKU-PM-1065, SKU-PM-1090, SKU-PM-1115, SKU-PM-1140, SKU-PM-1165, SKU-PM-1190, SKU-PM-1215, SKU-PM-1240, SKU-PM-1265, SKU-PM-1290, SKU-PM-1315, SKU-PM-1340, SKU-PM-1365, SKU-PM-1390, SKU-PM-1415
+Contract_Tier: Tier-3
+Risk_Level: High
+Certifications: FSC;ISO9001
+Active_Disruptions: Audit overdue; compliance review, Currency volatility flag, Export license risk, Geopolitical tension flag, Labour strike risk, Port closure risk, Regulatory audit pending, Regulatory enforcement pending, Seasonal flood risk, Tariff adjustment pending, Typhoon season disruption
+Alt_Supplier_ID: SUP-096
+Latest_Audit_Date: 2024-09-27
+Record_Count: 17
+
+Performance:
+Average Lead Time Days: 32.29
+Maximum Lead Time Days: 49
+Average OTD Rate Percent: 72.49
+Minimum OTD Rate Percent: 61.3
+Average Defect Rate Percent: 3.2
+Maximum Defect Rate Percent: 4.43
+Average Compliance Score: 62.76
+Minimum Compliance Score: 52
+Average Sustainability Score: 47.53
+Minimum Sustainability Score: 34
+Total PO Value USD: 1177759.34
+Average PO Value USD: 69279.96
+Total Units Ordered: 458480
+Total Units Delivered On Time: 334994
+Total Units Rejected: 14138
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 75.0
+Policy Defect Maximum Percent: 4.0
+Policy Compliance Minimum: 60
+Policy Sustainability Minimum: 45
+Meets OTD Requirement: False
+Meets Defect Requirement: True
+Meets Compliance Requirement: True
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: True
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: True
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-076
+Supplier_ID: SUP-076
+Supplier_Name: BalticPrint OU
+Region: EMEA
+Country: Estonia
+Product_Category: Packaging Materials
+Product_SKUs: SKU-PM-1016, SKU-PM-1041, SKU-PM-1066, SKU-PM-1091, SKU-PM-1116, SKU-PM-1141, SKU-PM-1166, SKU-PM-1191, SKU-PM-1216, SKU-PM-1241, SKU-PM-1266, SKU-PM-1291, SKU-PM-1316, SKU-PM-1341, SKU-PM-1366, SKU-PM-1391, SKU-PM-1416
+Contract_Tier: Tier-2
+Risk_Level: Medium
+Certifications: FSC;ISO9001
+Active_Disruptions: Export license risk, Geopolitical tension flag, Regulatory enforcement pending, Seasonal flood risk, Tariff adjustment pending, Typhoon season disruption
+Alt_Supplier_ID: SUP-003
+Latest_Audit_Date: 2024-09-21
+Record_Count: 17
+
+Performance:
+Average Lead Time Days: 30.29
+Maximum Lead Time Days: 42
+Average OTD Rate Percent: 85.82
+Minimum OTD Rate Percent: 79.4
+Average Defect Rate Percent: 1.93
+Maximum Defect Rate Percent: 3.15
+Average Compliance Score: 78.76
+Minimum Compliance Score: 70
+Average Sustainability Score: 68.71
+Minimum Sustainability Score: 52
+Total PO Value USD: 1192267.4
+Average PO Value USD: 70133.38
+Total Units Ordered: 505134
+Total Units Delivered On Time: 435739
+Total Units Rejected: 9640
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 84.0
+Policy Defect Maximum Percent: 2.5
+Policy Compliance Minimum: 75
+Policy Sustainability Minimum: 60
+Meets OTD Requirement: True
+Meets Defect Requirement: True
+Meets Compliance Requirement: True
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: False
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: False
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-077
+Supplier_ID: SUP-077
+Supplier_Name: Kovalev Metalburg
+Region: EMEA
+Country: Czechia
+Product_Category: Mechanical Components
+Product_SKUs: SKU-MC-1014, SKU-MC-1033, SKU-MC-1052, SKU-MC-1071, SKU-MC-1090, SKU-MC-1109, SKU-MC-1128, SKU-MC-1147, SKU-MC-1166, SKU-MC-1185, SKU-MC-1204, SKU-MC-1223, SKU-MC-1242, SKU-MC-1261, SKU-MC-1280, SKU-MC-1299, SKU-MC-1318
+Contract_Tier: Tier-2
+Risk_Level: Medium
+Certifications: ISO9001;IATF16949
+Active_Disruptions: Export license risk, Geopolitical tension flag, Port congestion risk, Seasonal flood risk, Tariff adjustment pending
+Alt_Supplier_ID: SUP-002
+Latest_Audit_Date: 2024-09-20
+Record_Count: 17
+
+Performance:
+Average Lead Time Days: 29.18
+Maximum Lead Time Days: 42
+Average OTD Rate Percent: 85.41
+Minimum OTD Rate Percent: 78.3
+Average Defect Rate Percent: 1.45
+Maximum Defect Rate Percent: 2.89
+Average Compliance Score: 80.71
+Minimum Compliance Score: 69
+Average Sustainability Score: 66.29
+Minimum Sustainability Score: 49
+Total PO Value USD: 2307546.66
+Average PO Value USD: 135738.04
+Total Units Ordered: 438811
+Total Units Delivered On Time: 378687
+Total Units Rejected: 7022
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 84.0
+Policy Defect Maximum Percent: 2.5
+Policy Compliance Minimum: 75
+Policy Sustainability Minimum: 60
+Meets OTD Requirement: True
+Meets Defect Requirement: True
+Meets Compliance Requirement: True
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: False
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: False
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-078
+Supplier_ID: SUP-078
+Supplier_Name: Varna Electronics EAD
+Region: EMEA
+Country: Bulgaria
+Product_Category: Electronic Components
+Product_SKUs: SKU-EC-1015, SKU-EC-1031, SKU-EC-1047, SKU-EC-1063, SKU-EC-1079, SKU-EC-1095, SKU-EC-1111, SKU-EC-1127, SKU-EC-1143, SKU-EC-1159, SKU-EC-1175, SKU-EC-1191, SKU-EC-1207, SKU-EC-1223, SKU-EC-1239, SKU-EC-1255, SKU-EC-1271
+Contract_Tier: Tier-3
+Risk_Level: High
+Certifications: ISO9001;RoHS
+Active_Disruptions: Labour strike risk, Political instability flag, Port closure risk, Port congestion risk, Regulatory audit pending, Regulatory enforcement pending, Tariff adjustment pending, Typhoon season disruption
+Alt_Supplier_ID: SUP-047
+Latest_Audit_Date: 2024-09-28
+Record_Count: 17
+
+Performance:
+Average Lead Time Days: 35.41
+Maximum Lead Time Days: 51
+Average OTD Rate Percent: 74.42
+Minimum OTD Rate Percent: 62.4
+Average Defect Rate Percent: 2.64
+Maximum Defect Rate Percent: 4.29
+Average Compliance Score: 64.12
+Minimum Compliance Score: 52
+Average Sustainability Score: 43.65
+Minimum Sustainability Score: 31
+Total PO Value USD: 4647913.6
+Average PO Value USD: 273406.68
+Total Units Ordered: 587632
+Total Units Delivered On Time: 445190
+Total Units Rejected: 16406
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 75.0
+Policy Defect Maximum Percent: 4.0
+Policy Compliance Minimum: 60
+Policy Sustainability Minimum: 45
+Meets OTD Requirement: False
+Meets Defect Requirement: True
+Meets Compliance Requirement: True
+Meets Sustainability Requirement: False
+Supplier Watch List Flag: True
+Needs Sustainability Improvement Plan: True
+High Risk With Disruption: True
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-079
+Supplier_ID: SUP-079
+Supplier_Name: Helios Pack Greece
+Region: EMEA
+Country: Greece
+Product_Category: Packaging Materials
+Product_SKUs: SKU-PM-1017, SKU-PM-1042, SKU-PM-1067, SKU-PM-1092, SKU-PM-1117, SKU-PM-1142, SKU-PM-1167, SKU-PM-1192, SKU-PM-1217, SKU-PM-1242, SKU-PM-1267, SKU-PM-1292, SKU-PM-1317, SKU-PM-1342, SKU-PM-1367, SKU-PM-1392, SKU-PM-1417
+Contract_Tier: Tier-3
+Risk_Level: High
+Certifications: ISO9001
+Active_Disruptions: Audit overdue; compliance review, Currency volatility flag, Export license risk, Geopolitical tension flag, Labour strike risk, Port congestion risk, Regulatory audit pending, Regulatory enforcement pending, Typhoon season disruption
+Alt_Supplier_ID: SUP-035
+Latest_Audit_Date: 2024-08-03
+Record_Count: 17
+
+Performance:
+Average Lead Time Days: 37.94
+Maximum Lead Time Days: 50
+Average OTD Rate Percent: 75.86
+Minimum OTD Rate Percent: 64.8
+Average Defect Rate Percent: 2.71
+Maximum Defect Rate Percent: 4.31
+Average Compliance Score: 62.41
+Minimum Compliance Score: 52
+Average Sustainability Score: 45.59
+Minimum Sustainability Score: 32
+Total PO Value USD: 1287023.57
+Average PO Value USD: 75707.27
+Total Units Ordered: 640718
+Total Units Delivered On Time: 485943
+Total Units Rejected: 16630
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 75.0
+Policy Defect Maximum Percent: 4.0
+Policy Compliance Minimum: 60
+Policy Sustainability Minimum: 45
+Meets OTD Requirement: True
+Meets Defect Requirement: True
+Meets Compliance Requirement: True
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: True
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: True
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-080
+Supplier_ID: SUP-080
+Supplier_Name: Maghreb Castworks
+Region: EMEA
+Country: Morocco
+Product_Category: Mechanical Components
+Product_SKUs: SKU-MC-1015, SKU-MC-1034, SKU-MC-1053, SKU-MC-1072, SKU-MC-1091, SKU-MC-1110, SKU-MC-1129, SKU-MC-1148, SKU-MC-1167, SKU-MC-1186, SKU-MC-1205, SKU-MC-1224, SKU-MC-1243, SKU-MC-1262, SKU-MC-1281, SKU-MC-1300, SKU-MC-1319
+Contract_Tier: Tier-3
+Risk_Level: High
+Certifications: ISO9001
+Active_Disruptions: Audit overdue; compliance review, Currency volatility flag, Export license risk, Geopolitical tension flag, Labour strike risk, Port closure risk, Regulatory enforcement pending, Tariff adjustment pending, Typhoon season disruption
+Alt_Supplier_ID: SUP-048
+Latest_Audit_Date: 2024-09-05
+Record_Count: 17
+
+Performance:
+Average Lead Time Days: 32.59
+Maximum Lead Time Days: 52
+Average OTD Rate Percent: 72.54
+Minimum OTD Rate Percent: 61.7
+Average Defect Rate Percent: 2.85
+Maximum Defect Rate Percent: 4.49
+Average Compliance Score: 59.88
+Minimum Compliance Score: 50
+Average Sustainability Score: 45.47
+Minimum Sustainability Score: 30
+Total PO Value USD: 3332740.62
+Average PO Value USD: 196043.57
+Total Units Ordered: 668776
+Total Units Delivered On Time: 488484
+Total Units Rejected: 19135
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 75.0
+Policy Defect Maximum Percent: 4.0
+Policy Compliance Minimum: 60
+Policy Sustainability Minimum: 45
+Meets OTD Requirement: False
+Meets Defect Requirement: True
+Meets Compliance Requirement: False
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: True
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: True
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-081
+Supplier_ID: SUP-081
+Supplier_Name: Lisbon Polymer Lda
+Region: EMEA
+Country: Portugal
+Product_Category: Raw Materials
+Product_SKUs: SKU-RM-1012, SKU-RM-1033, SKU-RM-1054, SKU-RM-1075, SKU-RM-1096, SKU-RM-1117, SKU-RM-1138, SKU-RM-1159, SKU-RM-1180, SKU-RM-1201, SKU-RM-1222, SKU-RM-1243, SKU-RM-1264, SKU-RM-1285, SKU-RM-1306, SKU-RM-1327, SKU-RM-1348
+Contract_Tier: Tier-2
+Risk_Level: Medium
+Certifications: ISO9001;REACH
+Active_Disruptions: Export license risk, Geopolitical tension flag, Political instability flag, Port congestion risk, Regulatory enforcement pending, Seasonal flood risk, Tariff adjustment pending
+Alt_Supplier_ID: SUP-009
+Latest_Audit_Date: 2024-09-18
+Record_Count: 17
+
+Performance:
+Average Lead Time Days: 23.76
+Maximum Lead Time Days: 35
+Average OTD Rate Percent: 87.29
+Minimum OTD Rate Percent: 78.7
+Average Defect Rate Percent: 2.06
+Maximum Defect Rate Percent: 3.12
+Average Compliance Score: 78.06
+Minimum Compliance Score: 67
+Average Sustainability Score: 65.53
+Minimum Sustainability Score: 49
+Total PO Value USD: 6208222.51
+Average PO Value USD: 365189.56
+Total Units Ordered: 473388
+Total Units Delivered On Time: 414786
+Total Units Rejected: 9964
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 84.0
+Policy Defect Maximum Percent: 2.5
+Policy Compliance Minimum: 75
+Policy Sustainability Minimum: 60
+Meets OTD Requirement: True
+Meets Defect Requirement: True
+Meets Compliance Requirement: True
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: False
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: False
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-082
+Supplier_ID: SUP-082
+Supplier_Name: Veltara Packing Solutions
+Region: LATAM
+Country: Brazil
+Product_Category: Packaging Materials
+Product_SKUs: SKU-PM-1018, SKU-PM-1043, SKU-PM-1068, SKU-PM-1093, SKU-PM-1118, SKU-PM-1143, SKU-PM-1168, SKU-PM-1193, SKU-PM-1218, SKU-PM-1243, SKU-PM-1268, SKU-PM-1293, SKU-PM-1318, SKU-PM-1343, SKU-PM-1368, SKU-PM-1393, SKU-PM-1418
+Contract_Tier: Tier-2
+Risk_Level: Medium
+Certifications: FSC;ISO9001
+Active_Disruptions: Audit overdue; compliance review, Currency volatility flag, Geopolitical tension flag, Port closure risk, Port congestion risk, Regulatory audit pending, Regulatory enforcement pending, Tariff adjustment pending
+Alt_Supplier_ID: SUP-079
+Latest_Audit_Date: 2024-09-08
+Record_Count: 17
+
+Performance:
+Average Lead Time Days: 24.59
+Maximum Lead Time Days: 42
+Average OTD Rate Percent: 85.25
+Minimum OTD Rate Percent: 78.2
+Average Defect Rate Percent: 1.56
+Maximum Defect Rate Percent: 3.15
+Average Compliance Score: 79.94
+Minimum Compliance Score: 70
+Average Sustainability Score: 71.06
+Minimum Sustainability Score: 54
+Total PO Value USD: 916686.63
+Average PO Value USD: 53922.74
+Total Units Ordered: 412852
+Total Units Delivered On Time: 352913
+Total Units Rejected: 5866
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 84.0
+Policy Defect Maximum Percent: 2.5
+Policy Compliance Minimum: 75
+Policy Sustainability Minimum: 60
+Meets OTD Requirement: True
+Meets Defect Requirement: True
+Meets Compliance Requirement: True
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: False
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: False
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-083
+Supplier_ID: SUP-083
+Supplier_Name: Sao Paulo Polymer
+Region: LATAM
+Country: Brazil
+Product_Category: Raw Materials
+Product_SKUs: SKU-RM-1013, SKU-RM-1034, SKU-RM-1055, SKU-RM-1076, SKU-RM-1097, SKU-RM-1118, SKU-RM-1139, SKU-RM-1160, SKU-RM-1181, SKU-RM-1202, SKU-RM-1223, SKU-RM-1244, SKU-RM-1265, SKU-RM-1286, SKU-RM-1307, SKU-RM-1328, SKU-RM-1349
+Contract_Tier: Tier-2
+Risk_Level: Medium
+Certifications: ISO9001
+Active_Disruptions: Audit overdue; compliance review, Geopolitical tension flag, Port closure risk, Regulatory enforcement pending, Seasonal flood risk, Tariff adjustment pending, Typhoon season disruption
+Alt_Supplier_ID: SUP-020
+Latest_Audit_Date: 2024-09-16
+Record_Count: 17
+
+Performance:
+Average Lead Time Days: 26.88
+Maximum Lead Time Days: 42
+Average OTD Rate Percent: 86.93
+Minimum OTD Rate Percent: 79.7
+Average Defect Rate Percent: 1.87
+Maximum Defect Rate Percent: 3.11
+Average Compliance Score: 82.59
+Minimum Compliance Score: 69
+Average Sustainability Score: 66.35
+Minimum Sustainability Score: 48
+Total PO Value USD: 5124519.22
+Average PO Value USD: 301442.31
+Total Units Ordered: 451924
+Total Units Delivered On Time: 390316
+Total Units Rejected: 9760
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 84.0
+Policy Defect Maximum Percent: 2.5
+Policy Compliance Minimum: 75
+Policy Sustainability Minimum: 60
+Meets OTD Requirement: True
+Meets Defect Requirement: True
+Meets Compliance Requirement: True
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: False
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: False
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-084
+Supplier_ID: SUP-084
+Supplier_Name: Recife Textiles SA
+Region: LATAM
+Country: Brazil
+Product_Category: Industrial Textiles
+Product_SKUs: SKU-IT-1010, SKU-IT-1026, SKU-IT-1042, SKU-IT-1058, SKU-IT-1074, SKU-IT-1090, SKU-IT-1106, SKU-IT-1122, SKU-IT-1138, SKU-IT-1154, SKU-IT-1170, SKU-IT-1186, SKU-IT-1202, SKU-IT-1218, SKU-IT-1234, SKU-IT-1250, SKU-IT-1266
+Contract_Tier: Tier-2
+Risk_Level: Medium
+Certifications: OEKO-TEX;ISO9001
+Active_Disruptions: Geopolitical tension flag, Port closure risk, Port congestion risk, Regulatory audit pending, Regulatory enforcement pending, Seasonal flood risk, Typhoon season disruption
+Alt_Supplier_ID: SUP-037
+Latest_Audit_Date: 2024-08-12
+Record_Count: 17
+
+Performance:
+Average Lead Time Days: 25.47
+Maximum Lead Time Days: 40
+Average OTD Rate Percent: 86.84
+Minimum OTD Rate Percent: 79.4
+Average Defect Rate Percent: 1.73
+Maximum Defect Rate Percent: 2.78
+Average Compliance Score: 77.18
+Minimum Compliance Score: 67
+Average Sustainability Score: 68.0
+Minimum Sustainability Score: 49
+Total PO Value USD: 1086569.5
+Average PO Value USD: 63915.85
+Total Units Ordered: 374187
+Total Units Delivered On Time: 321823
+Total Units Rejected: 6115
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 84.0
+Policy Defect Maximum Percent: 2.5
+Policy Compliance Minimum: 75
+Policy Sustainability Minimum: 60
+Meets OTD Requirement: True
+Meets Defect Requirement: True
+Meets Compliance Requirement: True
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: False
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: False
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-085
+Supplier_ID: SUP-085
+Supplier_Name: Minas Gerais Alloys
+Region: LATAM
+Country: Brazil
+Product_Category: Specialty Alloys
+Product_SKUs: SKU-SA-1014, SKU-SA-1033, SKU-SA-1052, SKU-SA-1071, SKU-SA-1090, SKU-SA-1109, SKU-SA-1128, SKU-SA-1147, SKU-SA-1166, SKU-SA-1185, SKU-SA-1204, SKU-SA-1223, SKU-SA-1242, SKU-SA-1261, SKU-SA-1280, SKU-SA-1299, SKU-SA-1318
+Contract_Tier: Tier-2
+Risk_Level: Medium
+Certifications: ISO9001
+Active_Disruptions: Currency volatility flag, Geopolitical tension flag, Labour strike risk, Port congestion risk, Regulatory audit pending, Seasonal flood risk, Typhoon season disruption
+Alt_Supplier_ID: SUP-001
+Latest_Audit_Date: 2024-09-29
+Record_Count: 17
+
+Performance:
+Average Lead Time Days: 26.76
+Maximum Lead Time Days: 42
+Average OTD Rate Percent: 84.69
+Minimum OTD Rate Percent: 79.7
+Average Defect Rate Percent: 2.0
+Maximum Defect Rate Percent: 3.14
+Average Compliance Score: 80.35
+Minimum Compliance Score: 67
+Average Sustainability Score: 66.53
+Minimum Sustainability Score: 52
+Total PO Value USD: 8225174.12
+Average PO Value USD: 483833.77
+Total Units Ordered: 402961
+Total Units Delivered On Time: 342741
+Total Units Rejected: 8164
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 84.0
+Policy Defect Maximum Percent: 2.5
+Policy Compliance Minimum: 75
+Policy Sustainability Minimum: 60
+Meets OTD Requirement: True
+Meets Defect Requirement: True
+Meets Compliance Requirement: True
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: False
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: False
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-086
+Supplier_ID: SUP-086
+Supplier_Name: Tecovar Industrial Textiles
+Region: LATAM
+Country: Mexico
+Product_Category: Industrial Textiles
+Product_SKUs: SKU-IT-1011, SKU-IT-1027, SKU-IT-1043, SKU-IT-1059, SKU-IT-1075, SKU-IT-1091, SKU-IT-1107, SKU-IT-1123, SKU-IT-1139, SKU-IT-1155, SKU-IT-1171, SKU-IT-1187, SKU-IT-1203, SKU-IT-1219, SKU-IT-1235, SKU-IT-1251, SKU-IT-1267
+Contract_Tier: Tier-2
+Risk_Level: Medium
+Certifications: OEKO-TEX;ISO9001
+Active_Disruptions: Currency volatility flag, Export license risk, Geopolitical tension flag, Port congestion risk, Regulatory audit pending, Typhoon season disruption
+Alt_Supplier_ID: SUP-006
+Latest_Audit_Date: 2024-08-22
+Record_Count: 17
+
+Performance:
+Average Lead Time Days: 27.65
+Maximum Lead Time Days: 41
+Average OTD Rate Percent: 86.68
+Minimum OTD Rate Percent: 78.1
+Average Defect Rate Percent: 1.92
+Maximum Defect Rate Percent: 3.12
+Average Compliance Score: 82.18
+Minimum Compliance Score: 71
+Average Sustainability Score: 63.94
+Minimum Sustainability Score: 50
+Total PO Value USD: 1958107.99
+Average PO Value USD: 115182.82
+Total Units Ordered: 504362
+Total Units Delivered On Time: 433986
+Total Units Rejected: 9572
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 84.0
+Policy Defect Maximum Percent: 2.5
+Policy Compliance Minimum: 75
+Policy Sustainability Minimum: 60
+Meets OTD Requirement: True
+Meets Defect Requirement: True
+Meets Compliance Requirement: True
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: False
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: False
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-087
+Supplier_ID: SUP-087
+Supplier_Name: Guadalajara Mold Co
+Region: LATAM
+Country: Mexico
+Product_Category: Mechanical Components
+Product_SKUs: SKU-MC-1016, SKU-MC-1035, SKU-MC-1054, SKU-MC-1073, SKU-MC-1092, SKU-MC-1111, SKU-MC-1130, SKU-MC-1149, SKU-MC-1168, SKU-MC-1187, SKU-MC-1206, SKU-MC-1225, SKU-MC-1244, SKU-MC-1263, SKU-MC-1282, SKU-MC-1301, SKU-MC-1320
+Contract_Tier: Tier-2
+Risk_Level: Low
+Certifications: ISO9001;IATF16949
+Active_Disruptions: Geopolitical tension flag, Port congestion risk, Tariff adjustment pending, Typhoon season disruption
+Alt_Supplier_ID: SUP-006
+Latest_Audit_Date: 2024-09-16
+Record_Count: 17
+
+Performance:
+Average Lead Time Days: 26.12
+Maximum Lead Time Days: 38
+Average OTD Rate Percent: 84.83
+Minimum OTD Rate Percent: 78.4
+Average Defect Rate Percent: 2.06
+Maximum Defect Rate Percent: 3.16
+Average Compliance Score: 81.65
+Minimum Compliance Score: 68
+Average Sustainability Score: 65.35
+Minimum Sustainability Score: 48
+Total PO Value USD: 2136677.95
+Average PO Value USD: 125686.94
+Total Units Ordered: 395034
+Total Units Delivered On Time: 334301
+Total Units Rejected: 8338
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 84.0
+Policy Defect Maximum Percent: 2.5
+Policy Compliance Minimum: 75
+Policy Sustainability Minimum: 60
+Meets OTD Requirement: True
+Meets Defect Requirement: True
+Meets Compliance Requirement: True
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: False
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: False
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-088
+Supplier_ID: SUP-088
+Supplier_Name: Monterrey Pack SA
+Region: LATAM
+Country: Mexico
+Product_Category: Packaging Materials
+Product_SKUs: SKU-PM-1019, SKU-PM-1044, SKU-PM-1069, SKU-PM-1094, SKU-PM-1119, SKU-PM-1144, SKU-PM-1169, SKU-PM-1194, SKU-PM-1219, SKU-PM-1244, SKU-PM-1269, SKU-PM-1294, SKU-PM-1319, SKU-PM-1344, SKU-PM-1369, SKU-PM-1394, SKU-PM-1419
+Contract_Tier: Tier-2
+Risk_Level: Medium
+Certifications: FSC;ISO9001
+Active_Disruptions: Port closure risk, Port congestion risk, Regulatory audit pending, Regulatory enforcement pending, Seasonal flood risk, Tariff adjustment pending, Typhoon season disruption
+Alt_Supplier_ID: SUP-002
+Latest_Audit_Date: 2024-09-13
+Record_Count: 17
+
+Performance:
+Average Lead Time Days: 29.47
+Maximum Lead Time Days: 42
+Average OTD Rate Percent: 86.99
+Minimum OTD Rate Percent: 80.8
+Average Defect Rate Percent: 1.89
+Maximum Defect Rate Percent: 3.03
+Average Compliance Score: 77.06
+Minimum Compliance Score: 67
+Average Sustainability Score: 67.12
+Minimum Sustainability Score: 51
+Total PO Value USD: 1022512.74
+Average PO Value USD: 60147.81
+Total Units Ordered: 553917
+Total Units Delivered On Time: 480500
+Total Units Rejected: 10169
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 84.0
+Policy Defect Maximum Percent: 2.5
+Policy Compliance Minimum: 75
+Policy Sustainability Minimum: 60
+Meets OTD Requirement: True
+Meets Defect Requirement: True
+Meets Compliance Requirement: True
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: False
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: False
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-089
+Supplier_ID: SUP-089
+Supplier_Name: Yucatan Polymer Mfg
+Region: LATAM
+Country: Mexico
+Product_Category: Raw Materials
+Product_SKUs: SKU-RM-1014, SKU-RM-1035, SKU-RM-1056, SKU-RM-1077, SKU-RM-1098, SKU-RM-1119, SKU-RM-1140, SKU-RM-1161, SKU-RM-1182, SKU-RM-1203, SKU-RM-1224, SKU-RM-1245, SKU-RM-1266, SKU-RM-1287, SKU-RM-1308, SKU-RM-1329, SKU-RM-1350
+Contract_Tier: Tier-3
+Risk_Level: High
+Certifications: ISO9001
+Active_Disruptions: Currency volatility flag, Geopolitical tension flag, Labour strike risk, Port closure risk, Seasonal flood risk, Tariff adjustment pending, Typhoon season disruption
+Alt_Supplier_ID: SUP-019
+Latest_Audit_Date: 2024-09-02
+Record_Count: 17
+
+Performance:
+Average Lead Time Days: 34.24
+Maximum Lead Time Days: 52
+Average OTD Rate Percent: 72.27
+Minimum OTD Rate Percent: 60.7
+Average Defect Rate Percent: 3.08
+Maximum Defect Rate Percent: 4.2
+Average Compliance Score: 64.47
+Minimum Compliance Score: 50
+Average Sustainability Score: 49.18
+Minimum Sustainability Score: 32
+Total PO Value USD: 8442197.7
+Average PO Value USD: 496599.86
+Total Units Ordered: 711229
+Total Units Delivered On Time: 522368
+Total Units Rejected: 22379
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 75.0
+Policy Defect Maximum Percent: 4.0
+Policy Compliance Minimum: 60
+Policy Sustainability Minimum: 45
+Meets OTD Requirement: False
+Meets Defect Requirement: True
+Meets Compliance Requirement: True
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: True
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: True
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-090
+Supplier_ID: SUP-090
+Supplier_Name: Plataforma Metales SA
+Region: LATAM
+Country: Argentina
+Product_Category: Raw Materials
+Product_SKUs: SKU-RM-1015, SKU-RM-1036, SKU-RM-1057, SKU-RM-1078, SKU-RM-1099, SKU-RM-1120, SKU-RM-1141, SKU-RM-1162, SKU-RM-1183, SKU-RM-1204, SKU-RM-1225, SKU-RM-1246, SKU-RM-1267, SKU-RM-1288, SKU-RM-1309, SKU-RM-1330, SKU-RM-1351
+Contract_Tier: Tier-3
+Risk_Level: High
+Certifications: ISO9001
+Active_Disruptions: Audit overdue; compliance review, Currency volatility flag, Export license risk, Geopolitical tension flag, Labour strike risk, Political instability flag, Port closure risk, Regulatory audit pending, Regulatory enforcement pending, Seasonal flood risk
+Alt_Supplier_ID: SUP-018
+Latest_Audit_Date: 2024-09-21
+Record_Count: 17
+
+Performance:
+Average Lead Time Days: 34.94
+Maximum Lead Time Days: 50
+Average OTD Rate Percent: 72.94
+Minimum OTD Rate Percent: 60.0
+Average Defect Rate Percent: 3.43
+Maximum Defect Rate Percent: 4.45
+Average Compliance Score: 65.24
+Minimum Compliance Score: 51
+Average Sustainability Score: 49.12
+Minimum Sustainability Score: 32
+Total PO Value USD: 8108557.46
+Average PO Value USD: 476973.97
+Total Units Ordered: 648452
+Total Units Delivered On Time: 489736
+Total Units Rejected: 21928
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 75.0
+Policy Defect Maximum Percent: 4.0
+Policy Compliance Minimum: 60
+Policy Sustainability Minimum: 45
+Meets OTD Requirement: False
+Meets Defect Requirement: True
+Meets Compliance Requirement: True
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: True
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: True
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-091
+Supplier_ID: SUP-091
+Supplier_Name: Patagonia Alloys SRL
+Region: LATAM
+Country: Argentina
+Product_Category: Specialty Alloys
+Product_SKUs: SKU-SA-1015, SKU-SA-1034, SKU-SA-1053, SKU-SA-1072, SKU-SA-1091, SKU-SA-1110, SKU-SA-1129, SKU-SA-1148, SKU-SA-1167, SKU-SA-1186, SKU-SA-1205, SKU-SA-1224, SKU-SA-1243, SKU-SA-1262, SKU-SA-1281, SKU-SA-1300, SKU-SA-1319
+Contract_Tier: Tier-3
+Risk_Level: High
+Certifications: ISO9001
+Active_Disruptions: Audit overdue; compliance review, Currency volatility flag, Export license risk, Geopolitical tension flag, Labour strike risk, Political instability flag, Regulatory audit pending, Seasonal flood risk, Tariff adjustment pending
+Alt_Supplier_ID: SUP-106
+Latest_Audit_Date: 2024-09-21
+Record_Count: 17
+
+Performance:
+Average Lead Time Days: 30.47
+Maximum Lead Time Days: 46
+Average OTD Rate Percent: 72.12
+Minimum OTD Rate Percent: 60.9
+Average Defect Rate Percent: 3.12
+Maximum Defect Rate Percent: 4.5
+Average Compliance Score: 64.06
+Minimum Compliance Score: 50
+Average Sustainability Score: 47.24
+Minimum Sustainability Score: 31
+Total PO Value USD: 13980886.91
+Average PO Value USD: 822405.11
+Total Units Ordered: 667263
+Total Units Delivered On Time: 478094
+Total Units Rejected: 19883
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 75.0
+Policy Defect Maximum Percent: 4.0
+Policy Compliance Minimum: 60
+Policy Sustainability Minimum: 45
+Meets OTD Requirement: False
+Meets Defect Requirement: True
+Meets Compliance Requirement: True
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: True
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: True
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-092
+Supplier_ID: SUP-092
+Supplier_Name: Buenos Aires Pack
+Region: LATAM
+Country: Argentina
+Product_Category: Packaging Materials
+Product_SKUs: SKU-PM-1020, SKU-PM-1045, SKU-PM-1070, SKU-PM-1095, SKU-PM-1120, SKU-PM-1145, SKU-PM-1170, SKU-PM-1195, SKU-PM-1220, SKU-PM-1245, SKU-PM-1270, SKU-PM-1295, SKU-PM-1320, SKU-PM-1345, SKU-PM-1370, SKU-PM-1395, SKU-PM-1420
+Contract_Tier: Tier-3
+Risk_Level: High
+Certifications: ISO9001
+Active_Disruptions: Audit overdue; compliance review, Export license risk, Labour strike risk, Port closure risk, Port congestion risk, Regulatory audit pending, Regulatory enforcement pending, Seasonal flood risk, Typhoon season disruption
+Alt_Supplier_ID: SUP-009
+Latest_Audit_Date: 2024-08-27
+Record_Count: 17
+
+Performance:
+Average Lead Time Days: 36.06
+Maximum Lead Time Days: 51
+Average OTD Rate Percent: 72.39
+Minimum OTD Rate Percent: 62.2
+Average Defect Rate Percent: 2.52
+Maximum Defect Rate Percent: 4.41
+Average Compliance Score: 59.18
+Minimum Compliance Score: 50
+Average Sustainability Score: 49.59
+Minimum Sustainability Score: 31
+Total PO Value USD: 1439440.11
+Average PO Value USD: 84672.95
+Total Units Ordered: 696859
+Total Units Delivered On Time: 504004
+Total Units Rejected: 17435
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 75.0
+Policy Defect Maximum Percent: 4.0
+Policy Compliance Minimum: 60
+Policy Sustainability Minimum: 45
+Meets OTD Requirement: False
+Meets Defect Requirement: True
+Meets Compliance Requirement: False
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: True
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: True
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-093
+Supplier_ID: SUP-093
+Supplier_Name: Andino Fiber Corp
+Region: LATAM
+Country: Colombia
+Product_Category: Industrial Textiles
+Product_SKUs: SKU-IT-1012, SKU-IT-1028, SKU-IT-1044, SKU-IT-1060, SKU-IT-1076, SKU-IT-1092, SKU-IT-1108, SKU-IT-1124, SKU-IT-1140, SKU-IT-1156, SKU-IT-1172, SKU-IT-1188, SKU-IT-1204, SKU-IT-1220, SKU-IT-1236, SKU-IT-1252, SKU-IT-1268
+Contract_Tier: Tier-2
+Risk_Level: Medium
+Certifications: OEKO-TEX;ISO9001
+Active_Disruptions: Audit overdue; compliance review, Currency volatility flag, Export license risk, Political instability flag, Port congestion risk, Regulatory audit pending, Seasonal flood risk, Tariff adjustment pending
+Alt_Supplier_ID: SUP-005
+Latest_Audit_Date: 2024-09-29
+Record_Count: 17
+
+Performance:
+Average Lead Time Days: 29.41
+Maximum Lead Time Days: 41
+Average OTD Rate Percent: 87.52
+Minimum OTD Rate Percent: 78.2
+Average Defect Rate Percent: 1.94
+Maximum Defect Rate Percent: 3.1
+Average Compliance Score: 78.71
+Minimum Compliance Score: 67
+Average Sustainability Score: 62.41
+Minimum Sustainability Score: 50
+Total PO Value USD: 1682976.65
+Average PO Value USD: 98998.63
+Total Units Ordered: 499089
+Total Units Delivered On Time: 435672
+Total Units Rejected: 9835
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 84.0
+Policy Defect Maximum Percent: 2.5
+Policy Compliance Minimum: 75
+Policy Sustainability Minimum: 60
+Meets OTD Requirement: True
+Meets Defect Requirement: True
+Meets Compliance Requirement: True
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: False
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: False
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-094
+Supplier_ID: SUP-094
+Supplier_Name: Bogota Pack Ltda
+Region: LATAM
+Country: Colombia
+Product_Category: Packaging Materials
+Product_SKUs: SKU-PM-1021, SKU-PM-1046, SKU-PM-1071, SKU-PM-1096, SKU-PM-1121, SKU-PM-1146, SKU-PM-1171, SKU-PM-1196, SKU-PM-1221, SKU-PM-1246, SKU-PM-1271, SKU-PM-1296, SKU-PM-1321, SKU-PM-1346, SKU-PM-1371, SKU-PM-1396, SKU-PM-1421
+Contract_Tier: Tier-3
+Risk_Level: Medium
+Certifications: FSC;ISO9001
+Active_Disruptions: Audit overdue; compliance review, Geopolitical tension flag, Labour strike risk, Political instability flag, Port closure risk, Regulatory audit pending, Regulatory enforcement pending, Tariff adjustment pending, Typhoon season disruption
+Alt_Supplier_ID: SUP-101
+Latest_Audit_Date: 2024-04-30
+Record_Count: 17
+
+Performance:
+Average Lead Time Days: 31.65
+Maximum Lead Time Days: 46
+Average OTD Rate Percent: 70.99
+Minimum OTD Rate Percent: 62.3
+Average Defect Rate Percent: 3.08
+Maximum Defect Rate Percent: 4.47
+Average Compliance Score: 61.59
+Minimum Compliance Score: 51
+Average Sustainability Score: 44.82
+Minimum Sustainability Score: 30
+Total PO Value USD: 1121220.83
+Average PO Value USD: 65954.17
+Total Units Ordered: 577862
+Total Units Delivered On Time: 411607
+Total Units Rejected: 17865
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 75.0
+Policy Defect Maximum Percent: 4.0
+Policy Compliance Minimum: 60
+Policy Sustainability Minimum: 45
+Meets OTD Requirement: False
+Meets Defect Requirement: True
+Meets Compliance Requirement: True
+Meets Sustainability Requirement: False
+Supplier Watch List Flag: True
+Needs Sustainability Improvement Plan: True
+High Risk With Disruption: False
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-095
+Supplier_ID: SUP-095
+Supplier_Name: Cerromax Mineria
+Region: LATAM
+Country: Peru
+Product_Category: Raw Materials
+Product_SKUs: SKU-RM-1016, SKU-RM-1037, SKU-RM-1058, SKU-RM-1079, SKU-RM-1100, SKU-RM-1121, SKU-RM-1142, SKU-RM-1163, SKU-RM-1184, SKU-RM-1205, SKU-RM-1226, SKU-RM-1247, SKU-RM-1268, SKU-RM-1289, SKU-RM-1310, SKU-RM-1331, SKU-RM-1352
+Contract_Tier: Tier-3
+Risk_Level: High
+Certifications: ISO9001
+Active_Disruptions: Audit overdue; compliance review, Political instability flag, Port closure risk, Port congestion risk, Regulatory audit pending, Regulatory enforcement pending, Seasonal flood risk, Tariff adjustment pending
+Alt_Supplier_ID: SUP-010
+Latest_Audit_Date: 2024-09-16
+Record_Count: 17
+
+Performance:
+Average Lead Time Days: 34.94
+Maximum Lead Time Days: 52
+Average OTD Rate Percent: 72.38
+Minimum OTD Rate Percent: 60.1
+Average Defect Rate Percent: 3.03
+Maximum Defect Rate Percent: 4.47
+Average Compliance Score: 65.35
+Minimum Compliance Score: 51
+Average Sustainability Score: 46.94
+Minimum Sustainability Score: 30
+Total PO Value USD: 7195951.77
+Average PO Value USD: 423291.28
+Total Units Ordered: 636134
+Total Units Delivered On Time: 453886
+Total Units Rejected: 20109
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 75.0
+Policy Defect Maximum Percent: 4.0
+Policy Compliance Minimum: 60
+Policy Sustainability Minimum: 45
+Meets OTD Requirement: False
+Meets Defect Requirement: True
+Meets Compliance Requirement: True
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: True
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: True
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-096
+Supplier_ID: SUP-096
+Supplier_Name: Lima Polymer SA
+Region: LATAM
+Country: Peru
+Product_Category: Raw Materials
+Product_SKUs: SKU-RM-1017, SKU-RM-1038, SKU-RM-1059, SKU-RM-1080, SKU-RM-1101, SKU-RM-1122, SKU-RM-1143, SKU-RM-1164, SKU-RM-1185, SKU-RM-1206, SKU-RM-1227, SKU-RM-1248, SKU-RM-1269, SKU-RM-1290, SKU-RM-1311, SKU-RM-1332, SKU-RM-1353
+Contract_Tier: Tier-3
+Risk_Level: High
+Certifications: ISO9001
+Active_Disruptions: Audit overdue; compliance review, Currency volatility flag, Export license risk, Geopolitical tension flag, Labour strike risk, Port closure risk, Regulatory audit pending, Regulatory enforcement pending, Typhoon season disruption
+Alt_Supplier_ID: SUP-109
+Latest_Audit_Date: 2024-08-28
+Record_Count: 17
+
+Performance:
+Average Lead Time Days: 36.53
+Maximum Lead Time Days: 52
+Average OTD Rate Percent: 73.09
+Minimum OTD Rate Percent: 61.3
+Average Defect Rate Percent: 2.53
+Maximum Defect Rate Percent: 4.12
+Average Compliance Score: 63.53
+Minimum Compliance Score: 51
+Average Sustainability Score: 48.41
+Minimum Sustainability Score: 34
+Total PO Value USD: 8457944.13
+Average PO Value USD: 497526.13
+Total Units Ordered: 678697
+Total Units Delivered On Time: 493116
+Total Units Rejected: 16200
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 75.0
+Policy Defect Maximum Percent: 4.0
+Policy Compliance Minimum: 60
+Policy Sustainability Minimum: 45
+Meets OTD Requirement: False
+Meets Defect Requirement: True
+Meets Compliance Requirement: True
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: True
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: True
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-097
+Supplier_ID: SUP-097
+Supplier_Name: Amapola Fibras
+Region: LATAM
+Country: Chile
+Product_Category: Industrial Textiles
+Product_SKUs: SKU-IT-1013, SKU-IT-1029, SKU-IT-1045, SKU-IT-1061, SKU-IT-1077, SKU-IT-1093, SKU-IT-1109, SKU-IT-1125, SKU-IT-1141, SKU-IT-1157, SKU-IT-1173, SKU-IT-1189, SKU-IT-1205, SKU-IT-1221, SKU-IT-1237, SKU-IT-1253, SKU-IT-1269
+Contract_Tier: Tier-2
+Risk_Level: Medium
+Certifications: OEKO-TEX;ISO9001
+Active_Disruptions: Audit overdue; compliance review, Geopolitical tension flag, Labour strike risk, Political instability flag, Regulatory audit pending, Regulatory enforcement pending, Tariff adjustment pending
+Alt_Supplier_ID: SUP-094
+Latest_Audit_Date: 2024-07-18
+Record_Count: 17
+
+Performance:
+Average Lead Time Days: 28.65
+Maximum Lead Time Days: 41
+Average OTD Rate Percent: 86.48
+Minimum OTD Rate Percent: 79.2
+Average Defect Rate Percent: 1.89
+Maximum Defect Rate Percent: 3.14
+Average Compliance Score: 76.0
+Minimum Compliance Score: 67
+Average Sustainability Score: 65.88
+Minimum Sustainability Score: 49
+Total PO Value USD: 1840660.56
+Average PO Value USD: 108274.15
+Total Units Ordered: 497792
+Total Units Delivered On Time: 432284
+Total Units Rejected: 8360
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 84.0
+Policy Defect Maximum Percent: 2.5
+Policy Compliance Minimum: 75
+Policy Sustainability Minimum: 60
+Meets OTD Requirement: True
+Meets Defect Requirement: True
+Meets Compliance Requirement: True
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: False
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: False
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-098
+Supplier_ID: SUP-098
+Supplier_Name: Cobre del Sur SA
+Region: LATAM
+Country: Chile
+Product_Category: Specialty Alloys
+Product_SKUs: SKU-SA-1016, SKU-SA-1035, SKU-SA-1054, SKU-SA-1073, SKU-SA-1092, SKU-SA-1111, SKU-SA-1130, SKU-SA-1149, SKU-SA-1168, SKU-SA-1187, SKU-SA-1206, SKU-SA-1225, SKU-SA-1244, SKU-SA-1263, SKU-SA-1282, SKU-SA-1301, SKU-SA-1320
+Contract_Tier: Tier-2
+Risk_Level: Medium
+Certifications: ISO9001
+Active_Disruptions: Audit overdue; compliance review, Geopolitical tension flag, Port closure risk, Port congestion risk, Regulatory audit pending, Seasonal flood risk, Tariff adjustment pending
+Alt_Supplier_ID: SUP-051
+Latest_Audit_Date: 2024-09-23
+Record_Count: 17
+
+Performance:
+Average Lead Time Days: 28.76
+Maximum Lead Time Days: 42
+Average OTD Rate Percent: 88.46
+Minimum OTD Rate Percent: 79.8
+Average Defect Rate Percent: 1.76
+Maximum Defect Rate Percent: 3.05
+Average Compliance Score: 80.24
+Minimum Compliance Score: 67
+Average Sustainability Score: 63.76
+Minimum Sustainability Score: 48
+Total PO Value USD: 6733948.91
+Average PO Value USD: 396114.64
+Total Units Ordered: 305408
+Total Units Delivered On Time: 268111
+Total Units Rejected: 5173
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 84.0
+Policy Defect Maximum Percent: 2.5
+Policy Compliance Minimum: 75
+Policy Sustainability Minimum: 60
+Meets OTD Requirement: True
+Meets Defect Requirement: True
+Meets Compliance Requirement: True
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: False
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: False
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-099
+Supplier_ID: SUP-099
+Supplier_Name: Santiago Pack Corp
+Region: LATAM
+Country: Chile
+Product_Category: Packaging Materials
+Product_SKUs: SKU-PM-1022, SKU-PM-1047, SKU-PM-1072, SKU-PM-1097, SKU-PM-1122, SKU-PM-1147, SKU-PM-1172, SKU-PM-1197, SKU-PM-1222, SKU-PM-1247, SKU-PM-1272, SKU-PM-1297, SKU-PM-1322, SKU-PM-1347, SKU-PM-1372, SKU-PM-1397, SKU-PM-1422
+Contract_Tier: Tier-2
+Risk_Level: Medium
+Certifications: FSC;ISO9001
+Active_Disruptions: Currency volatility flag, Export license risk, Geopolitical tension flag, Port congestion risk, Regulatory audit pending, Tariff adjustment pending
+Alt_Supplier_ID: SUP-004
+Latest_Audit_Date: 2024-09-24
+Record_Count: 17
+
+Performance:
+Average Lead Time Days: 24.94
+Maximum Lead Time Days: 41
+Average OTD Rate Percent: 85.99
+Minimum OTD Rate Percent: 80.0
+Average Defect Rate Percent: 1.7
+Maximum Defect Rate Percent: 2.98
+Average Compliance Score: 80.35
+Minimum Compliance Score: 67
+Average Sustainability Score: 59.71
+Minimum Sustainability Score: 48
+Total PO Value USD: 959031.33
+Average PO Value USD: 56413.61
+Total Units Ordered: 461666
+Total Units Delivered On Time: 394952
+Total Units Rejected: 7992
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 84.0
+Policy Defect Maximum Percent: 2.5
+Policy Compliance Minimum: 75
+Policy Sustainability Minimum: 60
+Meets OTD Requirement: True
+Meets Defect Requirement: True
+Meets Compliance Requirement: True
+Meets Sustainability Requirement: False
+Supplier Watch List Flag: False
+Needs Sustainability Improvement Plan: True
+High Risk With Disruption: False
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-100
+Supplier_ID: SUP-100
+Supplier_Name: Orinoco Pack SAPI
+Region: LATAM
+Country: Venezuela
+Product_Category: Packaging Materials
+Product_SKUs: SKU-PM-1023, SKU-PM-1048, SKU-PM-1073, SKU-PM-1098, SKU-PM-1123, SKU-PM-1148, SKU-PM-1173, SKU-PM-1198, SKU-PM-1223, SKU-PM-1248, SKU-PM-1273, SKU-PM-1298, SKU-PM-1323, SKU-PM-1348, SKU-PM-1373, SKU-PM-1398, SKU-PM-1423
+Contract_Tier: Tier-3
+Risk_Level: High
+Certifications: ISO9001
+Active_Disruptions: Audit overdue; compliance review, Currency volatility flag, Export license risk, Geopolitical tension flag, Labour strike risk, Political instability flag, Regulatory audit pending, Seasonal flood risk, Tariff adjustment pending, Typhoon season disruption
+Alt_Supplier_ID: SUP-002
+Latest_Audit_Date: 2024-09-21
+Record_Count: 17
+
+Performance:
+Average Lead Time Days: 36.88
+Maximum Lead Time Days: 52
+Average OTD Rate Percent: 72.35
+Minimum OTD Rate Percent: 61.1
+Average Defect Rate Percent: 2.8
+Maximum Defect Rate Percent: 4.37
+Average Compliance Score: 62.59
+Minimum Compliance Score: 50
+Average Sustainability Score: 49.65
+Minimum Sustainability Score: 30
+Total PO Value USD: 1345067.87
+Average PO Value USD: 79121.64
+Total Units Ordered: 655560
+Total Units Delivered On Time: 477945
+Total Units Rejected: 18693
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 75.0
+Policy Defect Maximum Percent: 4.0
+Policy Compliance Minimum: 60
+Policy Sustainability Minimum: 45
+Meets OTD Requirement: False
+Meets Defect Requirement: True
+Meets Compliance Requirement: True
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: True
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: True
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-101
+Supplier_ID: SUP-101
+Supplier_Name: Quetzal Textiles
+Region: LATAM
+Country: Guatemala
+Product_Category: Industrial Textiles
+Product_SKUs: SKU-IT-1014, SKU-IT-1030, SKU-IT-1046, SKU-IT-1062, SKU-IT-1078, SKU-IT-1094, SKU-IT-1110, SKU-IT-1126, SKU-IT-1142, SKU-IT-1158, SKU-IT-1174, SKU-IT-1190, SKU-IT-1206, SKU-IT-1222, SKU-IT-1238, SKU-IT-1254, SKU-IT-1270
+Contract_Tier: Tier-3
+Risk_Level: High
+Certifications: ISO9001
+Active_Disruptions: Audit overdue; compliance review, Currency volatility flag, Export license risk, Labour strike risk, Political instability flag, Port congestion risk, Regulatory enforcement pending, Seasonal flood risk, Typhoon season disruption
+Alt_Supplier_ID: SUP-076
+Latest_Audit_Date: 2024-08-03
+Record_Count: 17
+
+Performance:
+Average Lead Time Days: 35.06
+Maximum Lead Time Days: 52
+Average OTD Rate Percent: 75.19
+Minimum OTD Rate Percent: 60.1
+Average Defect Rate Percent: 2.76
+Maximum Defect Rate Percent: 4.5
+Average Compliance Score: 61.76
+Minimum Compliance Score: 51
+Average Sustainability Score: 41.18
+Minimum Sustainability Score: 30
+Total PO Value USD: 2193532.56
+Average PO Value USD: 129031.33
+Total Units Ordered: 589084
+Total Units Delivered On Time: 446120
+Total Units Rejected: 15812
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 75.0
+Policy Defect Maximum Percent: 4.0
+Policy Compliance Minimum: 60
+Policy Sustainability Minimum: 45
+Meets OTD Requirement: True
+Meets Defect Requirement: True
+Meets Compliance Requirement: True
+Meets Sustainability Requirement: False
+Supplier Watch List Flag: True
+Needs Sustainability Improvement Plan: True
+High Risk With Disruption: True
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-102
+Supplier_ID: SUP-102
+Supplier_Name: Crestline Chemical Supply
+Region: 
+Country: USA
+Product_Category: Raw Materials
+Product_SKUs: SKU-RM-1018, SKU-RM-1039, SKU-RM-1060, SKU-RM-1081, SKU-RM-1102, SKU-RM-1123, SKU-RM-1144, SKU-RM-1165, SKU-RM-1186, SKU-RM-1207, SKU-RM-1228, SKU-RM-1249, SKU-RM-1270, SKU-RM-1291, SKU-RM-1312, SKU-RM-1333, SKU-RM-1354
+Contract_Tier: Tier-1
+Risk_Level: Low
+Certifications: ISO9001;ISO14001;OSHA
+Active_Disruptions: Audit overdue; compliance review, Geopolitical tension flag, Seasonal flood risk
+Alt_Supplier_ID: SUP-005
+Latest_Audit_Date: 2024-09-23
+Record_Count: 17
+
+Performance:
+Average Lead Time Days: 29.94
+Maximum Lead Time Days: 42
+Average OTD Rate Percent: 93.68
+Minimum OTD Rate Percent: 88.6
+Average Defect Rate Percent: 0.93
+Maximum Defect Rate Percent: 1.69
+Average Compliance Score: 91.53
+Minimum Compliance Score: 81
+Average Sustainability Score: 84.29
+Minimum Sustainability Score: 71
+Total PO Value USD: 1578038.84
+Average PO Value USD: 92825.81
+Total Units Ordered: 146494
+Total Units Delivered On Time: 136838
+Total Units Rejected: 1258
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 93.0
+Policy Defect Maximum Percent: 0.99
+Policy Compliance Minimum: 90
+Policy Sustainability Minimum: 80
+Meets OTD Requirement: True
+Meets Defect Requirement: True
+Meets Compliance Requirement: True
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: False
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: False
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-103
+Supplier_ID: SUP-103
+Supplier_Name: Fenwick Alloy Solutions
+Region: 
+Country: USA
+Product_Category: Specialty Alloys
+Product_SKUs: SKU-SA-1017, SKU-SA-1036, SKU-SA-1055, SKU-SA-1074, SKU-SA-1093, SKU-SA-1112, SKU-SA-1131, SKU-SA-1150, SKU-SA-1169, SKU-SA-1188, SKU-SA-1207, SKU-SA-1226, SKU-SA-1245, SKU-SA-1264, SKU-SA-1283, SKU-SA-1302, SKU-SA-1321
+Contract_Tier: Tier-1
+Risk_Level: Medium
+Certifications: ISO9001;NADCAP;AS9100
+Active_Disruptions: Labour strike risk, Port congestion risk, Regulatory audit pending, Tariff adjustment pending
+Alt_Supplier_ID: SUP-010
+Latest_Audit_Date: 2024-09-18
+Record_Count: 17
+
+Performance:
+Average Lead Time Days: 27.12
+Maximum Lead Time Days: 42
+Average OTD Rate Percent: 93.97
+Minimum OTD Rate Percent: 89.7
+Average Defect Rate Percent: 0.96
+Maximum Defect Rate Percent: 1.73
+Average Compliance Score: 88.59
+Minimum Compliance Score: 80
+Average Sustainability Score: 81.76
+Minimum Sustainability Score: 70
+Total PO Value USD: 2944011.89
+Average PO Value USD: 173177.17
+Total Units Ordered: 134654
+Total Units Delivered On Time: 125986
+Total Units Rejected: 1306
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 93.0
+Policy Defect Maximum Percent: 0.99
+Policy Compliance Minimum: 90
+Policy Sustainability Minimum: 80
+Meets OTD Requirement: True
+Meets Defect Requirement: True
+Meets Compliance Requirement: False
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: False
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: False
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-104
+Supplier_ID: SUP-104
+Supplier_Name: Ridgecroft Textiles
+Region: 
+Country: USA
+Product_Category: Industrial Textiles
+Product_SKUs: SKU-IT-1015, SKU-IT-1031, SKU-IT-1047, SKU-IT-1063, SKU-IT-1079, SKU-IT-1095, SKU-IT-1111, SKU-IT-1127, SKU-IT-1143, SKU-IT-1159, SKU-IT-1175, SKU-IT-1191, SKU-IT-1207, SKU-IT-1223, SKU-IT-1239, SKU-IT-1255, SKU-IT-1271
+Contract_Tier: Tier-1
+Risk_Level: Low
+Certifications: OEKO-TEX;ISO9001;OSHA
+Active_Disruptions: Port closure risk, Port congestion risk, Seasonal flood risk, Tariff adjustment pending
+Alt_Supplier_ID: SUP-099
+Latest_Audit_Date: 2024-09-08
+Record_Count: 17
+
+Performance:
+Average Lead Time Days: 24.29
+Maximum Lead Time Days: 41
+Average OTD Rate Percent: 94.04
+Minimum OTD Rate Percent: 88.4
+Average Defect Rate Percent: 0.84
+Maximum Defect Rate Percent: 1.72
+Average Compliance Score: 89.53
+Minimum Compliance Score: 81
+Average Sustainability Score: 79.47
+Minimum Sustainability Score: 70
+Total PO Value USD: 487220.36
+Average PO Value USD: 28660.02
+Total Units Ordered: 139704
+Total Units Delivered On Time: 131012
+Total Units Rejected: 1016
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 93.0
+Policy Defect Maximum Percent: 0.99
+Policy Compliance Minimum: 90
+Policy Sustainability Minimum: 80
+Meets OTD Requirement: True
+Meets Defect Requirement: True
+Meets Compliance Requirement: False
+Meets Sustainability Requirement: False
+Supplier Watch List Flag: False
+Needs Sustainability Improvement Plan: True
+High Risk With Disruption: False
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-105
+Supplier_ID: SUP-105
+Supplier_Name: Lakeshore Components
+Region: 
+Country: USA
+Product_Category: Mechanical Components
+Product_SKUs: SKU-MC-1017, SKU-MC-1036, SKU-MC-1055, SKU-MC-1074, SKU-MC-1093, SKU-MC-1112, SKU-MC-1131, SKU-MC-1150, SKU-MC-1169, SKU-MC-1188, SKU-MC-1207, SKU-MC-1226, SKU-MC-1245, SKU-MC-1264, SKU-MC-1283, SKU-MC-1302, SKU-MC-1321
+Contract_Tier: Tier-1
+Risk_Level: Low
+Certifications: ISO9001;IATF16949;OSHA
+Active_Disruptions: Geopolitical tension flag, Port congestion risk, Regulatory audit pending, Seasonal flood risk, Typhoon season disruption
+Alt_Supplier_ID: SUP-076
+Latest_Audit_Date: 2024-09-24
+Record_Count: 17
+
+Performance:
+Average Lead Time Days: 24.88
+Maximum Lead Time Days: 40
+Average OTD Rate Percent: 94.77
+Minimum OTD Rate Percent: 89.1
+Average Defect Rate Percent: 0.81
+Maximum Defect Rate Percent: 1.33
+Average Compliance Score: 88.59
+Minimum Compliance Score: 80
+Average Sustainability Score: 81.06
+Minimum Sustainability Score: 72
+Total PO Value USD: 576320.3
+Average PO Value USD: 33901.19
+Total Units Ordered: 116701
+Total Units Delivered On Time: 110968
+Total Units Rejected: 907
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 93.0
+Policy Defect Maximum Percent: 0.99
+Policy Compliance Minimum: 90
+Policy Sustainability Minimum: 80
+Meets OTD Requirement: True
+Meets Defect Requirement: True
+Meets Compliance Requirement: False
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: False
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: False
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-106
+Supplier_ID: SUP-106
+Supplier_Name: BlueMesa Polymers
+Region: 
+Country: USA
+Product_Category: Raw Materials
+Product_SKUs: SKU-RM-1019, SKU-RM-1040, SKU-RM-1061, SKU-RM-1082, SKU-RM-1103, SKU-RM-1124, SKU-RM-1145, SKU-RM-1166, SKU-RM-1187, SKU-RM-1208, SKU-RM-1229, SKU-RM-1250, SKU-RM-1271, SKU-RM-1292, SKU-RM-1313, SKU-RM-1334, SKU-RM-1355
+Contract_Tier: Tier-1
+Risk_Level: Low
+Certifications: ISO9001;ISO14001;OSHA
+Active_Disruptions: Geopolitical tension flag, Port closure risk, Seasonal flood risk
+Alt_Supplier_ID: SUP-001
+Latest_Audit_Date: 2024-09-25
+Record_Count: 17
+
+Performance:
+Average Lead Time Days: 23.94
+Maximum Lead Time Days: 41
+Average OTD Rate Percent: 93.82
+Minimum OTD Rate Percent: 88.1
+Average Defect Rate Percent: 0.93
+Maximum Defect Rate Percent: 1.73
+Average Compliance Score: 88.88
+Minimum Compliance Score: 80
+Average Sustainability Score: 83.82
+Minimum Sustainability Score: 70
+Total PO Value USD: 1758414.87
+Average PO Value USD: 103436.17
+Total Units Ordered: 134486
+Total Units Delivered On Time: 127441
+Total Units Rejected: 1425
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 93.0
+Policy Defect Maximum Percent: 0.99
+Policy Compliance Minimum: 90
+Policy Sustainability Minimum: 80
+Meets OTD Requirement: True
+Meets Defect Requirement: True
+Meets Compliance Requirement: False
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: False
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: False
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-107
+Supplier_ID: SUP-107
+Supplier_Name: Cascade Pack Corp
+Region: 
+Country: USA
+Product_Category: Packaging Materials
+Product_SKUs: SKU-PM-1024, SKU-PM-1049, SKU-PM-1074, SKU-PM-1099, SKU-PM-1124, SKU-PM-1149, SKU-PM-1174, SKU-PM-1199, SKU-PM-1224, SKU-PM-1249, SKU-PM-1274, SKU-PM-1299, SKU-PM-1324, SKU-PM-1349, SKU-PM-1374, SKU-PM-1399, SKU-PM-1424
+Contract_Tier: Tier-1
+Risk_Level: Low
+Certifications: FSC;ISO14001;ISO9001
+Active_Disruptions: Currency volatility flag, Geopolitical tension flag, Port closure risk, Port congestion risk, Regulatory audit pending, Regulatory enforcement pending, Tariff adjustment pending
+Alt_Supplier_ID: SUP-070
+Latest_Audit_Date: 2024-06-14
+Record_Count: 17
+
+Performance:
+Average Lead Time Days: 27.0
+Maximum Lead Time Days: 39
+Average OTD Rate Percent: 92.79
+Minimum OTD Rate Percent: 88.1
+Average Defect Rate Percent: 0.9
+Maximum Defect Rate Percent: 1.75
+Average Compliance Score: 91.06
+Minimum Compliance Score: 81
+Average Sustainability Score: 84.82
+Minimum Sustainability Score: 70
+Total PO Value USD: 224798.27
+Average PO Value USD: 13223.43
+Total Units Ordered: 106994
+Total Units Delivered On Time: 98829
+Total Units Rejected: 1101
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 93.0
+Policy Defect Maximum Percent: 0.99
+Policy Compliance Minimum: 90
+Policy Sustainability Minimum: 80
+Meets OTD Requirement: False
+Meets Defect Requirement: True
+Meets Compliance Requirement: True
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: False
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: False
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-108
+Supplier_ID: SUP-108
+Supplier_Name: Appalachian Alloys
+Region: 
+Country: USA
+Product_Category: Specialty Alloys
+Product_SKUs: SKU-SA-1018, SKU-SA-1037, SKU-SA-1056, SKU-SA-1075, SKU-SA-1094, SKU-SA-1113, SKU-SA-1132, SKU-SA-1151, SKU-SA-1170, SKU-SA-1189, SKU-SA-1208, SKU-SA-1227, SKU-SA-1246, SKU-SA-1265, SKU-SA-1284, SKU-SA-1303, SKU-SA-1322
+Contract_Tier: Tier-2
+Risk_Level: Medium
+Certifications: ISO9001;NADCAP
+Active_Disruptions: Audit overdue; compliance review, Export license risk, Geopolitical tension flag, Regulatory audit pending, Regulatory enforcement pending, Seasonal flood risk
+Alt_Supplier_ID: SUP-026
+Latest_Audit_Date: 2024-09-30
+Record_Count: 17
+
+Performance:
+Average Lead Time Days: 23.0
+Maximum Lead Time Days: 42
+Average OTD Rate Percent: 88.08
+Minimum OTD Rate Percent: 79.9
+Average Defect Rate Percent: 1.82
+Maximum Defect Rate Percent: 3.15
+Average Compliance Score: 77.65
+Minimum Compliance Score: 67
+Average Sustainability Score: 69.41
+Minimum Sustainability Score: 56
+Total PO Value USD: 10062321.79
+Average PO Value USD: 591901.28
+Total Units Ordered: 453710
+Total Units Delivered On Time: 399428
+Total Units Rejected: 8015
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 84.0
+Policy Defect Maximum Percent: 2.5
+Policy Compliance Minimum: 75
+Policy Sustainability Minimum: 60
+Meets OTD Requirement: True
+Meets Defect Requirement: True
+Meets Compliance Requirement: True
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: False
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: False
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-109
+Supplier_ID: SUP-109
+Supplier_Name: Gulf Coast Mech
+Region: 
+Country: USA
+Product_Category: Mechanical Components
+Product_SKUs: SKU-MC-1018, SKU-MC-1037, SKU-MC-1056, SKU-MC-1075, SKU-MC-1094, SKU-MC-1113, SKU-MC-1132, SKU-MC-1151, SKU-MC-1170, SKU-MC-1189, SKU-MC-1208, SKU-MC-1227, SKU-MC-1246, SKU-MC-1265, SKU-MC-1284, SKU-MC-1303, SKU-MC-1322
+Contract_Tier: Tier-2
+Risk_Level: Low
+Certifications: ISO9001;IATF16949
+Active_Disruptions: Currency volatility flag, Export license risk, Political instability flag, Seasonal flood risk, Tariff adjustment pending, Typhoon season disruption
+Alt_Supplier_ID: SUP-006
+Latest_Audit_Date: 2024-09-19
+Record_Count: 17
+
+Performance:
+Average Lead Time Days: 25.82
+Maximum Lead Time Days: 42
+Average OTD Rate Percent: 85.7
+Minimum OTD Rate Percent: 78.3
+Average Defect Rate Percent: 1.92
+Maximum Defect Rate Percent: 3.11
+Average Compliance Score: 76.53
+Minimum Compliance Score: 67
+Average Sustainability Score: 65.41
+Minimum Sustainability Score: 48
+Total PO Value USD: 2815562.74
+Average PO Value USD: 165621.34
+Total Units Ordered: 550969
+Total Units Delivered On Time: 474683
+Total Units Rejected: 10645
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 84.0
+Policy Defect Maximum Percent: 2.5
+Policy Compliance Minimum: 75
+Policy Sustainability Minimum: 60
+Meets OTD Requirement: True
+Meets Defect Requirement: True
+Meets Compliance Requirement: True
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: False
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: False
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-110
+Supplier_ID: SUP-110
+Supplier_Name: Texarkana Fiber Inc
+Region: 
+Country: USA
+Product_Category: Industrial Textiles
+Product_SKUs: SKU-IT-1016, SKU-IT-1032, SKU-IT-1048, SKU-IT-1064, SKU-IT-1080, SKU-IT-1096, SKU-IT-1112, SKU-IT-1128, SKU-IT-1144, SKU-IT-1160, SKU-IT-1176, SKU-IT-1192, SKU-IT-1208, SKU-IT-1224, SKU-IT-1240, SKU-IT-1256, SKU-IT-1272
+Contract_Tier: Tier-2
+Risk_Level: Low
+Certifications: OEKO-TEX;ISO9001
+Active_Disruptions: Currency volatility flag, Labour strike risk, Port congestion risk, Regulatory audit pending, Seasonal flood risk, Tariff adjustment pending
+Alt_Supplier_ID: SUP-101
+Latest_Audit_Date: 2024-09-11
+Record_Count: 17
+
+Performance:
+Average Lead Time Days: 26.12
+Maximum Lead Time Days: 39
+Average OTD Rate Percent: 85.45
+Minimum OTD Rate Percent: 78.6
+Average Defect Rate Percent: 1.81
+Maximum Defect Rate Percent: 2.86
+Average Compliance Score: 78.29
+Minimum Compliance Score: 69
+Average Sustainability Score: 62.71
+Minimum Sustainability Score: 53
+Total PO Value USD: 1523184.03
+Average PO Value USD: 89599.06
+Total Units Ordered: 435813
+Total Units Delivered On Time: 372640
+Total Units Rejected: 7487
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 84.0
+Policy Defect Maximum Percent: 2.5
+Policy Compliance Minimum: 75
+Policy Sustainability Minimum: 60
+Meets OTD Requirement: True
+Meets Defect Requirement: True
+Meets Compliance Requirement: True
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: False
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: False
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-111
+Supplier_ID: SUP-111
+Supplier_Name: Ohio Valley Electronics
+Region: 
+Country: USA
+Product_Category: Electronic Components
+Product_SKUs: SKU-EC-1016, SKU-EC-1032, SKU-EC-1048, SKU-EC-1064, SKU-EC-1080, SKU-EC-1096, SKU-EC-1112, SKU-EC-1128, SKU-EC-1144, SKU-EC-1160, SKU-EC-1176, SKU-EC-1192, SKU-EC-1208, SKU-EC-1224, SKU-EC-1240, SKU-EC-1256, SKU-EC-1272
+Contract_Tier: Tier-2
+Risk_Level: Medium
+Certifications: ISO9001;RoHS
+Active_Disruptions: Audit overdue; compliance review, Geopolitical tension flag, Regulatory audit pending, Seasonal flood risk
+Alt_Supplier_ID: SUP-013
+Latest_Audit_Date: 2024-09-05
+Record_Count: 17
+
+Performance:
+Average Lead Time Days: 27.71
+Maximum Lead Time Days: 42
+Average OTD Rate Percent: 87.06
+Minimum OTD Rate Percent: 79.2
+Average Defect Rate Percent: 1.86
+Maximum Defect Rate Percent: 3.19
+Average Compliance Score: 78.88
+Minimum Compliance Score: 69
+Average Sustainability Score: 71.41
+Minimum Sustainability Score: 49
+Total PO Value USD: 2733841.93
+Average PO Value USD: 160814.23
+Total Units Ordered: 405973
+Total Units Delivered On Time: 350052
+Total Units Rejected: 8597
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 84.0
+Policy Defect Maximum Percent: 2.5
+Policy Compliance Minimum: 75
+Policy Sustainability Minimum: 60
+Meets OTD Requirement: True
+Meets Defect Requirement: True
+Meets Compliance Requirement: True
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: False
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: False
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-112
+Supplier_ID: SUP-112
+Supplier_Name: Maplewood Polymer Corp
+Region: 
+Country: Canada
+Product_Category: Raw Materials
+Product_SKUs: SKU-RM-1020, SKU-RM-1041, SKU-RM-1062, SKU-RM-1083, SKU-RM-1104, SKU-RM-1125, SKU-RM-1146, SKU-RM-1167, SKU-RM-1188, SKU-RM-1209, SKU-RM-1230, SKU-RM-1251, SKU-RM-1272, SKU-RM-1293, SKU-RM-1314, SKU-RM-1335, SKU-RM-1356
+Contract_Tier: Tier-1
+Risk_Level: Low
+Certifications: ISO9001;ISO14001;REACH
+Active_Disruptions: Geopolitical tension flag, Port congestion risk, Regulatory audit pending, Tariff adjustment pending
+Alt_Supplier_ID: SUP-011
+Latest_Audit_Date: 2024-07-14
+Record_Count: 17
+
+Performance:
+Average Lead Time Days: 25.35
+Maximum Lead Time Days: 42
+Average OTD Rate Percent: 92.32
+Minimum OTD Rate Percent: 88.3
+Average Defect Rate Percent: 1.07
+Maximum Defect Rate Percent: 1.77
+Average Compliance Score: 87.65
+Minimum Compliance Score: 80
+Average Sustainability Score: 82.94
+Minimum Sustainability Score: 71
+Total PO Value USD: 953228.38
+Average PO Value USD: 56072.26
+Total Units Ordered: 83102
+Total Units Delivered On Time: 77488
+Total Units Rejected: 790
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 93.0
+Policy Defect Maximum Percent: 0.99
+Policy Compliance Minimum: 90
+Policy Sustainability Minimum: 80
+Meets OTD Requirement: False
+Meets Defect Requirement: False
+Meets Compliance Requirement: False
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: False
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: False
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-113
+Supplier_ID: SUP-113
+Supplier_Name: Pinnacle Resin Co
+Region: 
+Country: Canada
+Product_Category: Raw Materials
+Product_SKUs: SKU-RM-1021, SKU-RM-1042, SKU-RM-1063, SKU-RM-1084, SKU-RM-1105, SKU-RM-1126, SKU-RM-1147, SKU-RM-1168, SKU-RM-1189, SKU-RM-1210, SKU-RM-1231, SKU-RM-1252, SKU-RM-1273, SKU-RM-1294, SKU-RM-1315, SKU-RM-1336, SKU-RM-1357
+Contract_Tier: Tier-2
+Risk_Level: Medium
+Certifications: ISO9001;REACH
+Active_Disruptions: Currency volatility flag, Geopolitical tension flag, Port congestion risk, Seasonal flood risk, Typhoon season disruption
+Alt_Supplier_ID: SUP-066
+Latest_Audit_Date: 2024-09-16
+Record_Count: 17
+
+Performance:
+Average Lead Time Days: 24.76
+Maximum Lead Time Days: 42
+Average OTD Rate Percent: 83.96
+Minimum OTD Rate Percent: 78.4
+Average Defect Rate Percent: 1.49
+Maximum Defect Rate Percent: 2.83
+Average Compliance Score: 82.71
+Minimum Compliance Score: 73
+Average Sustainability Score: 66.0
+Minimum Sustainability Score: 49
+Total PO Value USD: 5909011.05
+Average PO Value USD: 347588.89
+Total Units Ordered: 491169
+Total Units Delivered On Time: 411656
+Total Units Rejected: 7462
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 84.0
+Policy Defect Maximum Percent: 2.5
+Policy Compliance Minimum: 75
+Policy Sustainability Minimum: 60
+Meets OTD Requirement: False
+Meets Defect Requirement: True
+Meets Compliance Requirement: True
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: False
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: False
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-114
+Supplier_ID: SUP-114
+Supplier_Name: Rockies Pack Inc
+Region: 
+Country: Canada
+Product_Category: Packaging Materials
+Product_SKUs: SKU-PM-1025, SKU-PM-1050, SKU-PM-1075, SKU-PM-1100, SKU-PM-1125, SKU-PM-1150, SKU-PM-1175, SKU-PM-1200, SKU-PM-1225, SKU-PM-1250, SKU-PM-1275, SKU-PM-1300, SKU-PM-1325, SKU-PM-1350, SKU-PM-1375, SKU-PM-1400, SKU-PM-1425
+Contract_Tier: Tier-2
+Risk_Level: Medium
+Certifications: FSC;ISO9001
+Active_Disruptions: Audit overdue; compliance review, Geopolitical tension flag, Port closure risk, Port congestion risk, Regulatory audit pending, Seasonal flood risk
+Alt_Supplier_ID: SUP-078
+Latest_Audit_Date: 2024-09-14
+Record_Count: 17
+
+Performance:
+Average Lead Time Days: 25.88
+Maximum Lead Time Days: 42
+Average OTD Rate Percent: 86.14
+Minimum OTD Rate Percent: 78.5
+Average Defect Rate Percent: 1.9
+Maximum Defect Rate Percent: 2.89
+Average Compliance Score: 77.82
+Minimum Compliance Score: 69
+Average Sustainability Score: 72.0
+Minimum Sustainability Score: 56
+Total PO Value USD: 859435.88
+Average PO Value USD: 50555.05
+Total Units Ordered: 408457
+Total Units Delivered On Time: 353631
+Total Units Rejected: 8683
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 84.0
+Policy Defect Maximum Percent: 2.5
+Policy Compliance Minimum: 75
+Policy Sustainability Minimum: 60
+Meets OTD Requirement: True
+Meets Defect Requirement: True
+Meets Compliance Requirement: True
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: False
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: False
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-115
+Supplier_ID: SUP-115
+Supplier_Name: Caribou Alloy Works
+Region: 
+Country: Canada
+Product_Category: Specialty Alloys
+Product_SKUs: SKU-SA-1019, SKU-SA-1038, SKU-SA-1057, SKU-SA-1076, SKU-SA-1095, SKU-SA-1114, SKU-SA-1133, SKU-SA-1152, SKU-SA-1171, SKU-SA-1190, SKU-SA-1209, SKU-SA-1228, SKU-SA-1247, SKU-SA-1266, SKU-SA-1285, SKU-SA-1304, SKU-SA-1323
+Contract_Tier: Tier-2
+Risk_Level: Medium
+Certifications: ISO9001;NADCAP
+Active_Disruptions: Currency volatility flag, Geopolitical tension flag, Labour strike risk, Port congestion risk, Regulatory audit pending, Seasonal flood risk, Tariff adjustment pending
+Alt_Supplier_ID: SUP-095
+Latest_Audit_Date: 2024-07-23
+Record_Count: 17
+
+Performance:
+Average Lead Time Days: 26.94
+Maximum Lead Time Days: 41
+Average OTD Rate Percent: 86.98
+Minimum OTD Rate Percent: 80.8
+Average Defect Rate Percent: 1.7
+Maximum Defect Rate Percent: 2.81
+Average Compliance Score: 81.24
+Minimum Compliance Score: 67
+Average Sustainability Score: 65.59
+Minimum Sustainability Score: 48
+Total PO Value USD: 11752037.57
+Average PO Value USD: 691296.33
+Total Units Ordered: 478108
+Total Units Delivered On Time: 413617
+Total Units Rejected: 8728
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 84.0
+Policy Defect Maximum Percent: 2.5
+Policy Compliance Minimum: 75
+Policy Sustainability Minimum: 60
+Meets OTD Requirement: True
+Meets Defect Requirement: True
+Meets Compliance Requirement: True
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: False
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: False
+
+---
+
+SUPPLIER PROFILE RECORD.
+Supplier exact lookup ID: SUP-116
+Supplier_ID: SUP-116
+Supplier_Name: Prairie Mech Corp
+Region: 
+Country: Canada
+Product_Category: Mechanical Components
+Product_SKUs: SKU-MC-1019, SKU-MC-1038, SKU-MC-1057, SKU-MC-1076, SKU-MC-1095, SKU-MC-1114, SKU-MC-1133, SKU-MC-1152, SKU-MC-1171, SKU-MC-1190, SKU-MC-1209, SKU-MC-1228, SKU-MC-1247, SKU-MC-1266, SKU-MC-1285, SKU-MC-1304, SKU-MC-1323
+Contract_Tier: Tier-2
+Risk_Level: Low
+Certifications: ISO9001;IATF16949
+Active_Disruptions: Audit overdue; compliance review, Political instability flag, Port closure risk, Regulatory audit pending, Seasonal flood risk
+Alt_Supplier_ID: SUP-027
+Latest_Audit_Date: 2024-09-15
+Record_Count: 17
+
+Performance:
+Average Lead Time Days: 30.88
+Maximum Lead Time Days: 42
+Average OTD Rate Percent: 84.96
+Minimum OTD Rate Percent: 78.0
+Average Defect Rate Percent: 1.66
+Maximum Defect Rate Percent: 2.59
+Average Compliance Score: 80.29
+Minimum Compliance Score: 70
+Average Sustainability Score: 69.47
+Minimum Sustainability Score: 49
+Total PO Value USD: 2153364.88
+Average PO Value USD: 126668.52
+Total Units Ordered: 404017
+Total Units Delivered On Time: 349738
+Total Units Rejected: 6946
+
+Tier Requirement Comparison:
+Policy OTD Minimum Percent: 84.0
+Policy Defect Maximum Percent: 2.5
+Policy Compliance Minimum: 75
+Policy Sustainability Minimum: 60
+Meets OTD Requirement: True
+Meets Defect Requirement: True
+Meets Compliance Requirement: True
+Meets Sustainability Requirement: True
+Supplier Watch List Flag: False
+Needs Sustainability Improvement Plan: False
+High Risk With Disruption: False

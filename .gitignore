@@ -1,0 +1,52 @@
+# Environment variables and secrets
+.env
+.env.*
+*.env
+*.key
+*.pem
+*.p12
+*.pfx
+secrets/
+credentials/
+api_keys/
+tokens/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+ENV/
+.ipynb_checkpoints/
+
+# Node / Flowise local files
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.flowise/
+database.sqlite
+database.sqlite-journal
+logs/
+storage/
+blob_storage/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.log
+*.bak
+*.swp
+
+# Generated archives
+rag_docs_out.zip

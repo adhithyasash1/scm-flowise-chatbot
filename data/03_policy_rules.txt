@@ -1,0 +1,93 @@
+BQBYTE SUPPLIER GOVERNANCE POLICY RULES FOR RAG.
+
+Tier Classification Rules:
+Tier-1 Strategic suppliers:
+- Annual spend above USD 5M.
+- Minimum compliance score: 90.
+- Minimum OTD rate: 93.0%.
+- Maximum defect rate: 0.99%.
+- Maximum payment terms: Net-90.
+- Audit frequency: annual.
+- Volume rebate eligible if Section 4.2 criteria are met.
+- Alternate supplier recommended.
+
+Tier-2 Preferred suppliers:
+- Annual spend USD 1M to 5M.
+- Minimum compliance score: 75.
+- Minimum OTD rate: 84.0%.
+- Maximum defect rate: 2.50%.
+- Maximum payment terms: Net-45.
+- Audit frequency: bi-annual.
+- Alternate supplier mandatory.
+
+Tier-3 Conditional suppliers:
+- Annual spend below USD 1M.
+- Minimum compliance score: 60.
+- Minimum OTD rate: 75.0%.
+- Maximum defect rate: 4.00%.
+- Maximum payment terms: Net-30.
+- Audit frequency: quarterly.
+- Alternate supplier mandatory.
+
+On-Time Delivery Rules:
+- Tier-1 suppliers must maintain OTD at or above 93.0%.
+- Tier-2 suppliers must maintain OTD at or above 84.0%.
+- Tier-3 suppliers must maintain OTD at or above 75.0%.
+- OTD is calculated on a rolling 90-day basis.
+
+Defect Rate Rules:
+- Tier-1 maximum permissible defect rate is 0.99%.
+- Tier-2 maximum permissible defect rate is 2.50%.
+- Tier-3 maximum permissible defect rate is 4.00%.
+- Any single shipment with defect rate above 8.0% triggers immediate hold and RCA within 5 business days.
+
+Supplier Watch List Rules:
+- Any supplier with Compliance Score below 60 is placed on Supplier Watch List status.
+- Supplier Watch List status limits new PO issuance to 20% of prior quarter volume.
+
+Volume Rebate Rules:
+- Only Tier-1 suppliers are eligible.
+- Criteria: OTD at or above 93.0%, defect rate below 0.5%, and sustainability score at or above 85.
+- Qualifying suppliers receive annual volume rebate of 2.5% of total annual invoice value.
+
+Risk Rules:
+- Low Risk: no active disruption flags, compliance above 85, no geopolitical exposure, diversified logistics.
+- Medium Risk: geopolitical tension, seasonal disruption, pending regulatory audit, tariff adjustment, or compliance score 75 to 85.
+- High Risk: two or more medium risk factors, active labour dispute, export control restrictions, currency volatility above 15% YTD, overdue audit, or compliance below 75.
+
+Concentration Risk Rules:
+- No single region may account for more than 45% of total annual procurement spend.
+- No single country may account for more than 25% of total annual procurement spend.
+- If concentration limit is breached, Procurement must submit Diversification Plan within 60 days.
+
+Sustainability Rules:
+- Tier-1 minimum sustainability score: 80.
+- Tier-2 minimum sustainability score: 60.
+- Tier-3 minimum sustainability score: 45.
+- Suppliers below their tier minimum require Sustainability Improvement Plan within 45 days.
+
+Certification Rules:
+- ISO 9001 is mandatory for all suppliers in all tiers.
+- Electronic Components require ISO 9001 and RoHS.
+- Raw Materials require ISO 9001 and REACH for EU markets; ISO 14001 is required for Tier-1 Raw Material suppliers.
+- Packaging Materials require ISO 9001 and FSC for paper-based packaging; ISO 14001 is required for Tier-1 Packaging Materials suppliers.
+- Mechanical Components require ISO 9001; IATF 16949 is required for automotive use.
+- Specialty Alloys require ISO 9001; NADCAP required for aerospace applications; AS9100 required for Tier-1 Specialty Alloys suppliers.
+- Industrial Textiles require ISO 9001 and OEKO-TEX Standard 100.
+
+Audit Rules:
+- Tier-1 audited annually.
+- Tier-2 audited every six months.
+- Tier-3 audited quarterly.
+- Suppliers with active disruption flag receive additional unannounced spot audit within 30 days.
+
+Disruption Response Rules:
+- Level 1 Monitor: Low Risk supplier with disruption flag. Weekly update and safety stock +15%.
+- Level 2 Manage: Medium Risk supplier with disruption flag. Bi-weekly escalation calls, safety stock +30%, alternate supplier on 48-hour readiness notice.
+- Level 3 Activate: High Risk supplier with any disruption flag, or any supplier with two simultaneous disruption flags. Immediate CPO escalation, alternate supplier activated for minimum 40% of volume within 10 business days, safety stock +50%, full RCA within 15 business days.
+- Mandatory Level 3 regardless of risk level for export control restrictions, active labour strikes, regulatory enforcement actions, and port closure events exceeding 72 hours.
+
+Alternate Supplier Rules:
+- Every Tier-2 and Tier-3 supplier must have Alt_Supplier_ID.
+- Tier-1 suppliers are strongly recommended to maintain an alternate.
+- Alternate supplier must supply same SKU within 120% of primary supplier lead time, hold mandatory certifications, not share geopolitical risk region in Level 3 activation, and not be on SWL status.

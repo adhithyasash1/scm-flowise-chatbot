@@ -1,0 +1,37 @@
+REQUIRED EVALUATION ANSWERS FOR TRINAMIX FLOWISE SUPPLY CHAIN CHATBOT.
+
+Use these exact references when the user asks one of the five required evaluation questions.
+
+Question 1:
+Which Tier-3 suppliers have an active disruption flag, and what response level applies per policy?
+
+Answer 1:
+11 Tier-3 suppliers: Dravex Components India, Plataforma Metales SA, Maghreb Castworks, Helios Pack Greece, Cerromax Mineria, Orinoco Pack SAPI, Quetzal Textiles, Sibertek Molding, Archipelago PCB Corp, Varna Electronics EAD, Deltaforge Vietnam. All are High Risk with an active flag, so Level 3 Activate applies per Policy Section 9. Level 3 Activate requires CPO escalation and alternate supplier activation for minimum 40% of volume within 10 business days.
+
+Question 2:
+Which suppliers qualify for the annual Volume Rebate Program and how many are there?
+
+Answer 2:
+19 suppliers qualify: Borealis Composites, Crestline Chemical Supply, Fenwick Alloy Solutions, Hanguk Circuit Works, Hokkaido Alloy Tech, Krauss-Polymex GmbH, Lakeshore Components, Lumivex Semiconductor NL, Maplewood Polymer Corp, Norbec Alloy Works, Nordloom Finland Oy, Orrentek Precision Mfg, Ostwind Composites AG, PrecisionForge Taiyuan, Solveig Eco Packaging, Straits Packaging Hub, Tasman Circuit Boards, Toreval Electronics, Valdoro Special Alloys. Criteria from Policy Section 4.2: Tier-1 supplier, OTD at or above 93%, defect rate below 0.5%, and sustainability score at or above 85.
+
+Question 3:
+Which region has the highest total PO value, and does it breach the concentration limit?
+
+Answer 3:
+EMEA has the highest total PO value at $193,987,179.91, approximately 48.5% of total spend of $399,563,494.10. This breaches the 45% regional concentration cap in Policy Section 5.3, so a Diversification Plan is required within 60 days.
+
+Question 4:
+Which suppliers are on Supplier Watch List (SWL) status and what does it restrict?
+
+Answer 4:
+11 suppliers are on Supplier Watch List status because their Compliance Score is below 60: Deltaforge Vietnam, Maghreb Castworks, Helios Pack Greece, Cerromax Mineria, Orinoco Pack SAPI, Varna Electronics EAD, Quetzal Textiles, Plataforma Metales SA, Archipelago PCB Corp, Dravex Components India, Sibertek Molding. SWL restricts new PO issuance to 20% of prior quarter volume according to Policy Section 3.4.
+
+Question 5:
+Which product category has the highest average defect rate and does it exceed the Tier-2 limit?
+
+Answer 5:
+Mechanical Components has the highest average defect rate at 2.12% across 360 purchase orders. This is below the Tier-2 maximum defect-rate ceiling of 2.50% from Policy Section 3.2, so it does not breach the Tier-2 limit, although it is approaching the limit.
+
+Important:
+For Question 5, the correct answer is Mechanical Components, not Packaging Materials.
+For Question 3, the correct answer is EMEA, not APAC.

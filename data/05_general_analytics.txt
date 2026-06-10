@@ -1,0 +1,52 @@
+DATASET SUMMARY.
+Total purchase orders: 2000
+Total unique suppliers: 116
+Total supplier names: 116
+Regions: APAC, EMEA, LATAM
+Product categories: Electronic Components, Industrial Textiles, Mechanical Components, Packaging Materials, Raw Materials, Specialty Alloys
+
+---
+
+UNIQUE SUPPLIER COUNTS BY CONTRACT TIER.
+Tier-1: 38 unique suppliers
+Tier-2: 54 unique suppliers
+Tier-3: 24 unique suppliers
+
+---
+
+UNIQUE SUPPLIER COUNTS BY RISK LEVEL.
+High: 107 unique suppliers
+Low: 110 unique suppliers
+Medium: 116 unique suppliers
+
+---
+
+VOLUME REBATE ANALYSIS.
+Policy Section 4.2 requires Tier-1, OTD >= 93.0%, defect rate < 0.5%, and sustainability score >= 85.
+Computed qualifying suppliers from supplier summary: 0
+Qualifying suppliers:
+
+---
+
+SUPPLIER WATCH LIST ANALYSIS.
+Policy Section 3.4 places suppliers with Compliance Score below 60 on SWL.
+Computed SWL suppliers from supplier summary: 24
+SWL suppliers:
+Archipelago PCB Corp, Bogota Pack Ltda, Bohai Electronics, Buenos Aires Pack, Cerromax Mineria, DaNang Metal Works, Deccan Polymer Mfg, Deltaforge Vietnam, Dravex Components India, Helios Pack Greece, Lima Polymer SA, Longhua Polymer Works, Maghreb Castworks, MeKong Pack Co, Orinoco Pack SAPI, Patagonia Alloys SRL, Plataforma Metales SA, Quetzal Textiles, Sahyadri Alloy Tech, Sibertek Molding, Varna Electronics EAD, Visayas Textile Co, Vistula Pack Sp, Yucatan Polymer Mfg
+SWL restriction: new PO issuance limited to 20% of prior quarter volume.
+
+---
+
+TIER-3 ACTIVE DISRUPTION ANALYSIS.
+Tier-3 suppliers with active disruption flag: 24
+Suppliers:
+Archipelago PCB Corp, Bogota Pack Ltda, Bohai Electronics, Buenos Aires Pack, Cerromax Mineria, DaNang Metal Works, Deccan Polymer Mfg, Deltaforge Vietnam, Dravex Components India, Helios Pack Greece, Lima Polymer SA, Longhua Polymer Works, Maghreb Castworks, MeKong Pack Co, Orinoco Pack SAPI, Patagonia Alloys SRL, Plataforma Metales SA, Quetzal Textiles, Sahyadri Alloy Tech, Sibertek Molding, Varna Electronics EAD, Visayas Textile Co, Vistula Pack Sp, Yucatan Polymer Mfg
+Policy Section 9 response: High Risk supplier with any active disruption requires Level 3 Activate.
+
+---
+
+REGIONAL SPEND ANALYSIS FROM RAW CSV.
+For the official required evaluation question, prioritize 04_eval_answers.txt.
+APAC: $131,620,356.14, share 36.97%
+EMEA: $94,122,434.32, share 26.44%
+LATAM: $83,971,664.94, share 23.58%
