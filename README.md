@@ -27,7 +27,7 @@ scm-assistant-bot/
     ├── 07_required_q3.png
     ├── 08_required_q4.png
     └── 09_required_q5.png
-
+```
 ⸻
 
 Source Files Used
